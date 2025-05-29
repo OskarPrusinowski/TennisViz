@@ -1,18 +1,32 @@
 library(shiny)
 
 ui <- fluidPage(
-  titlePanel("Old Faithful Geyser Data"),
+  titlePanel("Match Statistics"),
+  
   sidebarLayout(
     sidebarPanel(
-      sliderInput("bins",
-                  "Number of bins:",
-                  min = 1,
-                  max = 50,
-                  value = 30)
+      sliderInput("year_range",
+                  "Select year range:",
+                  min = 1991,
+                  max = 2017, 
+                  value = c(1991, 2017),
+                  sep = "",
+                  step = 1),
+      
+      selectInput("stat_choice",
+                  "Select statistic to plot:",
+                  choices = c("Match Duration" = "match_duration",
+                              "Total Aces" = "total_aces",
+                              "Break Points Saved" = "total_break_points_saved",
+                              "Total Points Won" = "total_points_won",
+                              "Double Faults" = "total_double_faults"),
+                  selected = "match_duration"),
+      
+      textOutput("statSummary")  
     ),
+    
     mainPanel(
-      plotOutput("distPlot")
+      plotOutput("statPlot")
     )
   )
 )
-

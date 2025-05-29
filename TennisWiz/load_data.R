@@ -1,4 +1,3 @@
-load_geyser_data <- function() {
-  data("faithful")
-  faithful[, 2]
+load_match_data <- function() {
+  read.csv("data/match_stats.csv")
 }
