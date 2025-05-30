@@ -1,0 +1,1921 @@
+year,order,name,conditions,surface,fin_commit,winner,winner_slug,currency,amount
+1991,0,Adelaide,Outdoor,Hard,"$175,000",Nicklas Kulti,nicklas-kulti,$,175000.0
+1991,1,Wellington,Outdoor,Hard,"$175,000",Richard Fromberg,richard-fromberg,$,175000.0
+1991,2,Auckland,Outdoor,Hard,"$175,000",Karel Novacek,karel-novacek,$,175000.0
+1991,3,Sydney Outdoor,Outdoor,Hard,"$250,000",Guy Forget,guy-forget,$,250000.0
+1991,5,Guaruja,Outdoor,Hard,"$150,000",Patrick Baur,patrick-baur,$,150000.0
+1991,6,Milan,Indoor,Carpet,"$600,000",Alexander Volkov,alexander-volkov,$,600000.0
+1991,7,San Francisco,Indoor,Carpet,"$250,000",Darren Cahill,darren-cahill,$,250000.0
+1991,8,Brussels,Indoor,Carpet,"$600,000",Guy Forget,guy-forget,$,600000.0
+1991,9,Philadelphia,Indoor,Carpet,"$1,000,000",Ivan Lendl,ivan-lendl,$,1000000.0
+1991,10,Memphis,Indoor,Hard,"$750,000",Ivan Lendl,ivan-lendl,$,750000.0
+1991,11,Stuttgart Indoor,Indoor,Carpet,"$1,000,000",Stefan Edberg,stefan-edberg,$,1000000.0
+1991,12,Chicago,Indoor,Carpet,"$250,000",John McEnroe,john-mcenroe,$,250000.0
+1991,13,Rotterdam,Indoor,Carpet,"$500,000",Omar Camporese,omar-camporese,$,500000.0
+1991,14,Copenhagen,Indoor,Carpet,"$150,000",Jonas Svensson,jonas-svensson,$,150000.0
+1991,15,ATP Masters Series Indian Wells,Outdoor,Hard,"$1,000,000",Jim Courier,jim-courier,$,1000000.0
+1991,16,ATP Masters Series Miami,Outdoor,Hard,"$1,500,000",Jim Courier,jim-courier,$,1500000.0
+1991,17,Estoril,Outdoor,Clay,"$375,000",Sergi Bruguera,sergi-bruguera,$,375000.0
+1991,18,Hong Kong,Outdoor,Hard,"$260,000",Richard Krajicek,richard-krajicek,$,260000.0
+1991,19,Orlando,Outdoor,Hard,"$250,000",Andre Agassi,andre-agassi,$,250000.0
+1991,20,Barcelona,Outdoor,Clay,"$650,000",Emilio Sanchez,emilio-sanchez,$,650000.0
+1991,21,Tokyo Outdoor,Outdoor,Hard,"$1,000,000",Stefan Edberg,stefan-edberg,$,1000000.0
+1991,22,Nice,Outdoor,Clay,"$250,000",Martin Jaite,martin-jaite,$,250000.0
+1991,23,Seoul,Outdoor,Hard,"$165,000",Patrick Baur,patrick-baur,$,165000.0
+1991,24,ATP Masters Series Monte Carlo,Outdoor,Clay,"$1,000,000",Sergi Bruguera,sergi-bruguera,$,1000000.0
+1991,25,Singapore,Outdoor,Hard,"$250,000",Jan Siemerink,jan-siemerink,$,250000.0
+1991,26,Madrid,Outdoor,Clay,"$500,000",Jordi Arrese,jordi-arrese,$,500000.0
+1991,27,Munich,Outdoor,Clay,"$250,000",Magnus Gustafsson,magnus-gustafsson,$,250000.0
+1991,28,Tampa,Outdoor,Clay,"$250,000",Richey Reneberg,richey-reneberg,$,250000.0
+1991,29,Charlotte,Outdoor,Clay,"$250,000",Jaime Yzaga,jaime-yzaga,$,250000.0
+1991,30,ATP Masters Series Hamburg,Outdoor,Clay,"$1,000,000",Karel Novacek,karel-novacek,$,1000000.0
+1991,31,ATP Masters Series Rome,Outdoor,Clay,"$1,280,000",Emilio Sanchez,emilio-sanchez,$,1280000.0
+1991,32,Umag,Outdoor,Clay,"$250,000",Dimitri Poliakov,dimitri-poliakov,$,250000.0
+1991,33,Bologna,Outdoor,Clay,"$250,000",Paolo Cane,paolo-cane,$,250000.0
+1991,34,World Team Cup,Outdoor,Clay,"$1,277,500",Stefan Edberg,stefan-edberg,$,1277500.0
+1991,36,Florence,Outdoor,Clay,"$250,000",Thomas Muster,thomas-muster,$,250000.0
+1991,37,London / Queen's Club,Outdoor,Grass,"$500,000",Stefan Edberg,stefan-edberg,$,500000.0
+1991,38,Rosmalen,Outdoor,Grass,"$250,000",Christian Saceanu,christian-saceanu,$,250000.0
+1991,39,Genova,Outdoor,Clay,"$250,000",Carl-Uwe Steeb,carl-uwe-steeb,$,250000.0
+1991,40,Manchester,Outdoor,Grass,"$250,000",Goran Ivanisevic,goran-ivanisevic,$,250000.0
+1991,42,Bastad,Outdoor,Clay,"$250,000",Magnus Gustafsson,magnus-gustafsson,$,250000.0
+1991,43,Gstaad,Outdoor,Clay,"$305,000",Emilio Sanchez,emilio-sanchez,$,305000.0
+1991,44,Newport,Outdoor,Grass,"$175,000",Bryan Shelton,bryan-shelton,$,175000.0
+1991,45,Stuttgart Outdoor,Outdoor,Clay,"$1,000,000",Michael Stich,michael-stich,$,1000000.0
+1991,46,Washington,Outdoor,Hard,"$550,000",Andre Agassi,andre-agassi,$,550000.0
+1991,47,Hilversum,Outdoor,Clay,"$250,000",Magnus Gustafsson,magnus-gustafsson,$,250000.0
+1991,48,ATP Masters Series Canada,Outdoor,Hard,"$1,200,000",Andrei Chesnokov,andrei-chesnokov,$,1200000.0
+1991,49,Kitzbuhel,Outdoor,Clay,"$375,000",Karel Novacek,karel-novacek,$,375000.0
+1991,50,Los Angeles,Outdoor,Hard,"$250,000",Pete Sampras,pete-sampras,$,250000.0
+1991,51,San Marino,Outdoor,Clay,"$150,000",Guillermo Perez-Roldan,guillermo-perez-roldan,$,150000.0
+1991,52,ATP Masters Series Cincinnati,Outdoor,Hard,"$1,300,000",Guy Forget,guy-forget,$,1300000.0
+1991,53,Prague,Outdoor,Clay,"$350,000",Karel Novacek,karel-novacek,$,350000.0
+1991,54,Indianapolis,Outdoor,Hard,"$1,000,000",Pete Sampras,pete-sampras,$,1000000.0
+1991,55,New Haven,Outdoor,Hard,"$1,000,000",Petr Korda,petr-korda,$,1000000.0
+1991,56,Long Island,Outdoor,Hard,"$250,000",Ivan Lendl,ivan-lendl,$,250000.0
+1991,57,Schenectady,Outdoor,Hard,"$150,000",Michael Stich,michael-stich,$,150000.0
+1991,59,Bordeaux,Outdoor,Hard,"$300,000",Guy Forget,guy-forget,$,300000.0
+1991,60,Brasilia,Outdoor,Carpet,"$250,000",Andres Gomez,andres-gomez,$,250000.0
+1991,61,Geneva,Outdoor,Clay,"$250,000",Thomas Muster,thomas-muster,$,250000.0
+1991,62,Basel,Indoor,Hard,"$750,000",Jakob Hlasek,jakob-hlasek,$,750000.0
+1991,63,Brisbane,Outdoor,Hard,"$250,000",Gianluca Pozzi,gianluca-pozzi,$,250000.0
+1991,64,Palermo,Outdoor,Clay,"$300,000",Frederic Fontang,frederic-fontang,$,300000.0
+1991,65,Athens,Outdoor,Clay,"$150,000",Sergi Bruguera,sergi-bruguera,$,150000.0
+1991,66,Sydney Indoor,Indoor,Hard,"$1,000,000",Stefan Edberg,stefan-edberg,$,1000000.0
+1991,67,Toulouse,Indoor,Hard,"$300,000",Guy Forget,guy-forget,$,300000.0
+1991,68,Berlin,Indoor,Carpet,"$300,000",Petr Korda,petr-korda,$,300000.0
+1991,69,Tel Aviv,Outdoor,Hard,"$150,000",Leonardo Lavalle,leonardo-lavalle,$,150000.0
+1991,70,Tokyo Indoor,Indoor,Carpet,"$1,000,000",Stefan Edberg,stefan-edberg,$,1000000.0
+1991,71,Lyon,Indoor,Carpet,"$500,000",Pete Sampras,pete-sampras,$,500000.0
+1991,72,Vienna,Indoor,Carpet,"$250,000",Michael Stich,michael-stich,$,250000.0
+1991,74,ATP Masters Series Stockholm,Indoor,Carpet,"$1,100,000",Boris Becker,boris-becker,$,1100000.0
+1991,76,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,000,000",Guy Forget,guy-forget,$,2000000.0
+1991,78,Moscow,Indoor,Carpet,"$330,000",Andrei Cherkasov,andrei-cherkasov,$,330000.0
+1991,79,Sao Paulo,Outdoor,Hard,"$150,000",Christian Miniussi,christian-miniussi,$,150000.0
+1991,80,ATP Tour World Championship,Indoor,Carpet,"$2,250,000",Pete Sampras,pete-sampras,$,2250000.0
+1991,81,ATP Tour World Doubles Championship,Indoor,Hard,"$1,000,000",,,$,1000000.0
+1992,0,Adelaide,Outdoor,Hard,"$182,500",Goran Ivanisevic,goran-ivanisevic,$,182500.0
+1992,1,Wellington,Outdoor,Hard,"$182,500",Jeff Tarango,jeff-tarango,$,182500.0
+1992,2,Auckland,Outdoor,Hard,"$182,500",Jaime Yzaga,jaime-yzaga,$,182500.0
+1992,3,Sydney Outdoor,Outdoor,Hard,"$260,000",Emilio Sanchez,emilio-sanchez,$,260000.0
+1992,5,Maceio,Outdoor,Clay,"$155,000",Tomas Carbonell,tomas-carbonell,$,155000.0
+1992,6,Milan,Indoor,Carpet,"$625,000",Omar Camporese,omar-camporese,$,625000.0
+1992,7,San Francisco,Indoor,Hard,"$260,000",Michael Chang,michael-chang,$,260000.0
+1992,8,Brussels,Indoor,Carpet,"$800,000",Boris Becker,boris-becker,$,800000.0
+1992,9,Memphis,Indoor,Hard,"$780,000",MaliVai Washington,malivai-washington,$,780000.0
+1992,10,Philadelphia,Indoor,Carpet,"$1,040,000",Pete Sampras,pete-sampras,$,1040000.0
+1992,11,Stuttgart Indoor,Indoor,Carpet,"$1,040,000",Goran Ivanisevic,goran-ivanisevic,$,1040000.0
+1992,12,Rotterdam,Indoor,Carpet,"$525,000",Boris Becker,boris-becker,$,525000.0
+1992,13,Scottsdale,Outdoor,Hard,"$260,000",Stefano Pescosolido,stefano-pescosolido,$,260000.0
+1992,14,Copenhagen,Indoor,Carpet,"$155,000",Magnus Larsson,magnus-larsson,$,155000.0
+1992,15,ATP Masters Series Indian Wells,Outdoor,Hard,"$1,075,000",Michael Chang,michael-chang,$,1075000.0
+1992,16,ATP Masters Series Miami,Outdoor,Hard,"$1,625,000",Michael Chang,michael-chang,$,1625000.0
+1992,17,Casablanca,Outdoor,Clay,"$155,000",Guillermo Perez-Roldan,guillermo-perez-roldan,$,155000.0
+1992,18,Estoril,Outdoor,Clay,"$502,500",Carlos Costa,carlos-costa,$,502500.0
+1992,19,Johannesburg,Outdoor,Hard,"$300,000",Aaron Krickstein,aaron-krickstein,$,300000.0
+1992,20,Singapore,Outdoor,Hard,"$265,000",Simon Youl,simon-youl,$,265000.0
+1992,21,Barcelona,Outdoor,Clay,"$800,000",Carlos Costa,carlos-costa,$,800000.0
+1992,22,Tokyo Outdoor,Outdoor,Hard,"$1,040,000",Jim Courier,jim-courier,$,1040000.0
+1992,23,Hong Kong,Outdoor,Hard,"$300,000",Jim Courier,jim-courier,$,300000.0
+1992,24,Nice,Outdoor,Clay,"$260,000",Gabriel Markus,gabriel-markus,$,260000.0
+1992,25,Tampa,Outdoor,Clay,"$260,000",Jaime Yzaga,jaime-yzaga,$,260000.0
+1992,26,ATP Masters Series Monte Carlo,Outdoor,Clay,"$1,270,000",Thomas Muster,thomas-muster,$,1270000.0
+1992,27,Seoul,Outdoor,Hard,"$171,500",Shuzo Matsuoka,shuzo-matsuoka,$,171500.0
+1992,28,Atlanta,Outdoor,Clay,"$260,000",Andre Agassi,andre-agassi,$,260000.0
+1992,29,Madrid,Outdoor,Clay,"$750,000",Sergi Bruguera,sergi-bruguera,$,750000.0
+1992,30,Munich,Outdoor,Clay,"$300,000",Magnus Larsson,magnus-larsson,$,300000.0
+1992,31,Charlotte,Outdoor,Clay,"$260,000",MaliVai Washington,malivai-washington,$,260000.0
+1992,32,ATP Masters Series Hamburg,Outdoor,Clay,"$1,250,000",Stefan Edberg,stefan-edberg,$,1250000.0
+1992,33,ATP Masters Series Rome,Outdoor,Clay,"$1,403,000",Jim Courier,jim-courier,$,1403000.0
+1992,34,Bologna,Outdoor,Clay,"$265,000",Jaime Oncins,jaime-oncins,$,265000.0
+1992,35,World Team Cup,Outdoor,Clay,"$1,377,500",Sergi Bruguera,sergi-bruguera,$,1377500.0
+1992,37,Florence,Outdoor,Clay,"$260,000",Thomas Muster,thomas-muster,$,260000.0
+1992,38,London / Queen's Club,Outdoor,Grass,"$525,000",Wayne Ferreira,wayne-ferreira,$,525000.0
+1992,39,Rosmalen,Outdoor,Grass,"$260,000",Michael Stich,michael-stich,$,260000.0
+1992,40,Genova,Outdoor,Clay,"$260,000",Andrei Medvedev,andrei-medvedev,$,260000.0
+1992,41,Manchester,Outdoor,Grass,"$260,000",Jacco Eltingh,jacco-eltingh,$,260000.0
+1992,43,Bastad,Outdoor,Clay,"$260,000",Magnus Gustafsson,magnus-gustafsson,$,260000.0
+1992,44,Gstaad,Outdoor,Clay,"$330,500",Sergi Bruguera,sergi-bruguera,$,330500.0
+1992,45,Newport,Outdoor,Grass,"$200,000",Bryan Shelton,bryan-shelton,$,200000.0
+1992,46,Stuttgart Outdoor,Outdoor,Clay,"$1,040,000",Andrei Medvedev,andrei-medvedev,$,1040000.0
+1992,47,Washington,Outdoor,Hard,"$625,000",Petr Korda,petr-korda,$,625000.0
+1992,48,Hilversum,Outdoor,Clay,"$260,000",Karel Novacek,karel-novacek,$,260000.0
+1992,49,Kitzbuhel,Outdoor,Clay,"$392,500",Pete Sampras,pete-sampras,$,392500.0
+1992,50,ATP Masters Series Canada,Outdoor,Hard,"$1,295,000",Andre Agassi,andre-agassi,$,1295000.0
+1992,52,San Marino,Outdoor,Clay,"$260,000",Karel Novacek,karel-novacek,$,260000.0
+1992,53,Los Angeles,Outdoor,Hard,"$260,000",Richard Krajicek,richard-krajicek,$,260000.0
+1992,54,ATP Masters Series Cincinnati,Outdoor,Hard,"$1,405,000",Pete Sampras,pete-sampras,$,1405000.0
+1992,55,Prague,Outdoor,Clay,"$365,000",Karel Novacek,karel-novacek,$,365000.0
+1992,56,Indianapolis,Outdoor,Hard,"$1,040,000",Pete Sampras,pete-sampras,$,1040000.0
+1992,57,New Haven,Outdoor,Hard,"$1,040,000",Stefan Edberg,stefan-edberg,$,1040000.0
+1992,58,Long Island,Outdoor,Hard,"$260,000",Petr Korda,petr-korda,$,260000.0
+1992,59,Schenectady,Outdoor,Hard,"$155,000",Wayne Ferreira,wayne-ferreira,$,155000.0
+1992,60,Umag,Outdoor,Clay,"$260,000",Thomas Muster,thomas-muster,$,260000.0
+1992,62,Bordeaux,Outdoor,Clay,"$330,000",Andrei Medvedev,andrei-medvedev,$,330000.0
+1992,64,Basel,Indoor,Hard,"$775,000",Boris Becker,boris-becker,$,775000.0
+1992,65,Brisbane,Indoor,Hard,"$260,000",Guillaume Raoux,guillaume-raoux,$,260000.0
+1992,66,Palermo,Outdoor,Clay,"$315,000",Sergi Bruguera,sergi-bruguera,$,315000.0
+1992,67,Athens,Outdoor,Clay,"$155,000",Jordi Arrese,jordi-arrese,$,155000.0
+1992,68,Sydney Indoor,Indoor,Hard,"$1,075,000",Goran Ivanisevic,goran-ivanisevic,$,1075000.0
+1992,69,Toulouse,Indoor,Hard,"$315,000",Guy Forget,guy-forget,$,315000.0
+1992,71,Tel Aviv,Outdoor,Hard,"$155,000",Jeff Tarango,jeff-tarango,$,155000.0
+1992,72,Tokyo Indoor,Indoor,Carpet,"$1,075,000",Ivan Lendl,ivan-lendl,$,1075000.0
+1992,73,Lyon,Indoor,Carpet,"$600,000",Pete Sampras,pete-sampras,$,600000.0
+1992,75,Vienna,Indoor,Carpet,"$305,000",Petr Korda,petr-korda,$,305000.0
+1992,76,Guaruja,Outdoor,Hard,"$155,000",Carsten Arriens,carsten-arriens,$,155000.0
+1992,77,ATP Masters Series Stockholm,Indoor,Carpet,"$1,300,000",Goran Ivanisevic,goran-ivanisevic,$,1300000.0
+1992,78,Buzios,Outdoor,Hard,"$182,500",Jaime Oncins,jaime-oncins,$,182500.0
+1992,79,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,165,000",Boris Becker,boris-becker,$,2165000.0
+1992,81,Moscow,Indoor,Carpet,"$348,000",Marc Rosset,marc-rosset,$,348000.0
+1992,82,Sao Paulo,Outdoor,Hard,"$260,000",Luiz Mattar,luiz-mattar,$,260000.0
+1992,83,ATP Tour World Championship,Indoor,Carpet,"$2,500,000",Boris Becker,boris-becker,$,2500000.0
+1992,84,ATP Tour World Doubles Championship,Outdoor,Hard,"$1,000,000",,,$,1000000.0
+1993,0,Adelaide,Outdoor,Hard,"$182,500",Nicklas Kulti,nicklas-kulti,$,182500.0
+1993,1,Doha,Outdoor,Hard,"$475,000",Boris Becker,boris-becker,$,475000.0
+1993,2,Kuala Lumpur-1,Outdoor,Hard,"$300,000",Richey Reneberg,richey-reneberg,$,300000.0
+1993,3,Auckland,Outdoor,Hard,"$182,500",Alexander Volkov,alexander-volkov,$,182500.0
+1993,4,Jakarta,Outdoor,Hard,"$300,000",Michael Chang,michael-chang,$,300000.0
+1993,5,Sydney Outdoor,Outdoor,Hard,"$300,000",Pete Sampras,pete-sampras,$,300000.0
+1993,6,Australian Open,Outdoor,Hard,"$2,409,105",Jim Courier,jim-courier,$,2409105.0
+1993,7,Dubai,Outdoor,Hard,"$1,025,000",Karel Novacek,karel-novacek,$,1025000.0
+1993,8,Marseille,Indoor,Hard,"$525,000",Marc Rosset,marc-rosset,$,525000.0
+1993,9,San Francisco,Indoor,Hard,"$300,000",Andre Agassi,andre-agassi,$,300000.0
+1993,10,Memphis,Indoor,Hard,"$780,000",Jim Courier,jim-courier,$,780000.0
+1993,11,Milan,Indoor,Carpet,"$800,000",Boris Becker,boris-becker,$,800000.0
+1993,12,Philadelphia,Indoor,Carpet,"$700,000",Mark Woodforde,mark-woodforde,$,700000.0
+1993,13,Stuttgart Indoor,Indoor,Carpet,"$2,250,000",Michael Stich,michael-stich,$,2250000.0
+1993,14,Mexico City,Outdoor,Clay,"$300,000",Thomas Muster,thomas-muster,$,300000.0
+1993,15,Rotterdam,Indoor,Carpet,"$600,000",Anders Jarryd,anders-jarryd,$,600000.0
+1993,16,Scottsdale,Outdoor,Hard,"$300,000",Andre Agassi,andre-agassi,$,300000.0
+1993,17,Copenhagen,Indoor,Carpet,"$200,000",Andrei Olhovskiy,andrei-olhovskiy,$,200000.0
+1993,18,ATP Masters Series Indian Wells,Outdoor,Hard,"$1,650,000",Jim Courier,jim-courier,$,1650000.0
+1993,19,Zaragoza,Indoor,Carpet,"$200,000",Karel Novacek,karel-novacek,$,200000.0
+1993,20,ATP Masters Series Miami,Outdoor,Hard,"$1,650,000",Pete Sampras,pete-sampras,$,1650000.0
+1993,21,Casablanca,Outdoor,Clay,"$200,000",Guillermo Perez-Roldan,guillermo-perez-roldan,$,200000.0
+1993,22,Durban,Outdoor,Hard,"$300,000",Aaron Krickstein,aaron-krickstein,$,300000.0
+1993,23,Estoril,Outdoor,Clay,"$525,000",Andrei Medvedev,andrei-medvedev,$,525000.0
+1993,24,Osaka,Outdoor,Hard,"$500,000",Michael Chang,michael-chang,$,500000.0
+1993,25,Barcelona,Outdoor,Clay,"$875,000",Andrei Medvedev,andrei-medvedev,$,875000.0
+1993,26,Tokyo Outdoor,Outdoor,Hard,"$1,040,000",Pete Sampras,pete-sampras,$,1040000.0
+1993,27,Charlotte,Outdoor,Clay,"$300,000",Horacio De La Pena,horacio-de-la-pena,$,300000.0
+1993,28,Hong Kong,Outdoor,Hard,"$300,000",Pete Sampras,pete-sampras,$,300000.0
+1993,29,Nice,Outdoor,Clay,"$300,000",Marc-Kevin Goellner,marc-kevin-goellner,$,300000.0
+1993,30,ATP Masters Series Monte Carlo,Outdoor,Clay,"$1,650,000",Sergi Bruguera,sergi-bruguera,$,1650000.0
+1993,31,Seoul,Outdoor,Hard,"$200,000",Chuck Adams,chuck-adams,$,200000.0
+1993,32,Atlanta,Outdoor,Clay,"$300,000",Jacco Eltingh,jacco-eltingh,$,300000.0
+1993,33,Madrid,Outdoor,Clay,"$800,000",Stefan Edberg,stefan-edberg,$,800000.0
+1993,34,Munich,Outdoor,Clay,"$300,000",Ivan Lendl,ivan-lendl,$,300000.0
+1993,35,ATP Masters Series Hamburg,Outdoor,Clay,"$1,700,000",Michael Stich,michael-stich,$,1700000.0
+1993,36,Tampa,Outdoor,Clay,"$260,000",Jaime Yzaga,jaime-yzaga,$,260000.0
+1993,37,Delray Beach,Outdoor,Hard,"$225,000",Todd Martin,todd-martin,$,225000.0
+1993,38,ATP Masters Series Rome,Outdoor,Clay,"$1,750,000",Jim Courier,jim-courier,$,1750000.0
+1993,39,Bologna,Outdoor,Clay,"$300,000",Jordi Burillo,jordi-burillo,$,300000.0
+1993,40,World Team Cup,Outdoor,Clay,"$1,750,000",Michael Chang,michael-chang,$,1750000.0
+1993,41,Roland Garros,Outdoor,Clay,"$4,429,041",Sergi Bruguera,sergi-bruguera,$,4429041.0
+1993,42,Florence,Outdoor,Clay,"$300,000",Thomas Muster,thomas-muster,$,300000.0
+1993,43,London / Queen's Club,Outdoor,Grass,"$625,000",Michael Stich,michael-stich,$,625000.0
+1993,44,Rosmalen,Outdoor,Grass,"$300,000",Arnaud Boetsch,arnaud-boetsch,$,300000.0
+1993,45,Genova,Outdoor,Clay,"$300,000",Thomas Muster,thomas-muster,$,300000.0
+1993,46,Halle,Outdoor,Grass,"$375,000",Henri Leconte,henri-leconte,$,375000.0
+1993,47,Manchester,Outdoor,Grass,"$300,000",Jason Stoltenberg,jason-stoltenberg,$,300000.0
+1993,49,Bastad,Outdoor,Clay,"$260,000",Horst Skoff,horst-skoff,$,260000.0
+1993,50,Gstaad,Outdoor,Clay,"$400,000",Sergi Bruguera,sergi-bruguera,$,400000.0
+1993,51,Newport,Outdoor,Grass,"$200,000",Greg Rusedski,greg-rusedski,$,200000.0
+1993,52,Stuttgart Outdoor,Outdoor,Clay,"$1,040,000",Magnus Gustafsson,magnus-gustafsson,$,1040000.0
+1993,53,Washington,Outdoor,Hard,"$625,000",Amos Mansdorf,amos-mansdorf,$,625000.0
+1993,54,Hilversum,Outdoor,Clay,"$260,000",Carlos Costa,carlos-costa,$,260000.0
+1993,55,ATP Masters Series Canada,Outdoor,Hard,"$1,650,000",Mikael Pernfors,mikael-pernfors,$,1650000.0
+1993,56,Kitzbuhel,Outdoor,Clay,"$400,000",Thomas Muster,thomas-muster,$,400000.0
+1993,57,Los Angeles,Outdoor,Hard,"$300,000",Richard Krajicek,richard-krajicek,$,300000.0
+1993,58,Prague,Outdoor,Clay,"$365,000",Sergi Bruguera,sergi-bruguera,$,365000.0
+1993,59,ATP Masters Series Cincinnati,Outdoor,Hard,"$1,650,000",Michael Chang,michael-chang,$,1650000.0
+1993,60,San Marino,Outdoor,Clay,"$300,000",Thomas Muster,thomas-muster,$,300000.0
+1993,61,Indianapolis,Outdoor,Hard,"$1,040,000",Jim Courier,jim-courier,$,1040000.0
+1993,62,New Haven,Outdoor,Hard,"$1,040,000",Andrei Medvedev,andrei-medvedev,$,1040000.0
+1993,63,Long Island,Outdoor,Hard,"$300,000",Marc Rosset,marc-rosset,$,300000.0
+1993,64,Schenectady,Outdoor,Hard,"$200,000",Thomas Enqvist,thomas-enqvist,$,200000.0
+1993,65,Umag,Outdoor,Clay,"$400,000",Thomas Muster,thomas-muster,$,400000.0
+1993,67,Bordeaux,Outdoor,Hard,"$355,000",Sergi Bruguera,sergi-bruguera,$,355000.0
+1993,68,Bucharest,Outdoor,Clay,"$525,000",Goran Ivanisevic,goran-ivanisevic,$,525000.0
+1993,69,Basel,Indoor,Hard,"$800,000",Michael Stich,michael-stich,$,800000.0
+1993,70,Kuala Lumpur-2,Indoor,Hard,"$300,000",Michael Chang,michael-chang,$,300000.0
+1993,71,Palermo,Outdoor,Clay,"$315,000",Thomas Muster,thomas-muster,$,315000.0
+1993,72,Athens,Outdoor,Clay,"$200,000",Jordi Arrese,jordi-arrese,$,200000.0
+1993,73,Sydney Indoor,Indoor,Hard,"$1,000,000",Jaime Yzaga,jaime-yzaga,$,1000000.0
+1993,74,Toulouse,Indoor,Hard,"$400,000",Arnaud Boetsch,arnaud-boetsch,$,400000.0
+1993,75,Bolzano,Indoor,Carpet,"$315,000",Jonathan Stark,jonathan-stark,$,315000.0
+1993,76,Tel Aviv,Outdoor,Hard,"$200,000",Stefano Pescosolido,stefano-pescosolido,$,200000.0
+1993,77,Tokyo Indoor,Indoor,Carpet,"$1,000,000",Ivan Lendl,ivan-lendl,$,1000000.0
+1993,78,Beijing,Indoor,Carpet,"$300,000",Michael Chang,michael-chang,$,300000.0
+1993,79,Lyon,Indoor,Carpet,"$600,000",Pete Sampras,pete-sampras,$,600000.0
+1993,80,Vienna,Indoor,Carpet,"$300,000",Goran Ivanisevic,goran-ivanisevic,$,300000.0
+1993,81,Santiago,Outdoor,Clay,"$200,000",Javier Frana,javier-frana,$,200000.0
+1993,82,ATP Masters Series Stockholm,Indoor,Carpet,"$1,650,000",Michael Stich,michael-stich,$,1650000.0
+1993,83,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,165,000",Goran Ivanisevic,goran-ivanisevic,$,2165000.0
+1993,84,Sao Paulo,Outdoor,Clay,"$200,000",Alberto Berasategui,alberto-berasategui,$,200000.0
+1993,85,Antwerp,Indoor,Carpet,"$1,110,000",Pete Sampras,pete-sampras,$,1110000.0
+1993,86,Buenos Aires,Outdoor,Clay,"$300,000",Carlos Costa,carlos-costa,$,300000.0
+1993,87,Moscow,Indoor,Carpet,"$350,000",Marc Rosset,marc-rosset,$,350000.0
+1993,88,ATP Tour World Championship,Indoor,Carpet,"$2,750,000",Michael Stich,michael-stich,$,2750000.0
+1993,89,ATP Tour World Doubles Championship,Indoor,Hard,"$1,200,000",,,$,1200000.0
+1994,0,Adelaide,Outdoor,Hard,"$313,750",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,313750.0
+1994,1,Doha,Outdoor,Hard,"$525,000",Stefan Edberg,stefan-edberg,$,525000.0
+1994,2,Oahu,Outdoor,Hard,"$313,750",Wayne Ferreira,wayne-ferreira,$,313750.0
+1994,3,Auckland,Outdoor,Hard,"$313,750",Magnus Gustafsson,magnus-gustafsson,$,313750.0
+1994,4,Jakarta,Outdoor,Hard,"$313,750",Michael Chang,michael-chang,$,313750.0
+1994,5,Sydney Outdoor,Outdoor,Hard,"$313,750",Pete Sampras,pete-sampras,$,313750.0
+1994,7,Dubai,Outdoor,Hard,"$1,038,750",Magnus Gustafsson,magnus-gustafsson,$,1038750.0
+1994,8,Marseille,Indoor,Hard,"$538,750",Marc Rosset,marc-rosset,$,538750.0
+1994,9,San Jose,Indoor,Hard,"$313,750",Renzo Furlan,renzo-furlan,$,313750.0
+1994,10,Memphis,Indoor,Hard,"$800,000",Todd Martin,todd-martin,$,800000.0
+1994,11,Milan,Indoor,Carpet,"$813,750",Boris Becker,boris-becker,$,813750.0
+1994,12,Philadelphia,Indoor,Carpet,"$713,750",Michael Chang,michael-chang,$,713750.0
+1994,13,Stuttgart Indoor,Indoor,Carpet,"$2,250,000",Stefan Edberg,stefan-edberg,$,2250000.0
+1994,14,Mexico City,Outdoor,Clay,"$325,000",Thomas Muster,thomas-muster,$,325000.0
+1994,15,Rotterdam,Indoor,Carpet,"$600,000",Michael Stich,michael-stich,$,600000.0
+1994,16,Scottsdale,Outdoor,Hard,"$313,750",Andre Agassi,andre-agassi,$,313750.0
+1994,17,Copenhagen,Indoor,Carpet,"$213,750",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,213750.0
+1994,18,ATP Masters Series Indian Wells,Outdoor,Hard,"$1,720,000",Pete Sampras,pete-sampras,$,1720000.0
+1994,19,ATP Masters Series Miami,Outdoor,Hard,"$1,875,000",Pete Sampras,pete-sampras,$,1875000.0
+1994,20,Zaragoza,Indoor,Carpet,"$225,000",Magnus Larsson,magnus-larsson,$,225000.0
+1994,21,Casablanca,Outdoor,Clay,"$213,750",Renzo Furlan,renzo-furlan,$,213750.0
+1994,22,Estoril,Outdoor,Clay,"$525,000",Carlos Costa,carlos-costa,$,525000.0
+1994,23,Osaka,Outdoor,Hard,"$650,000",Pete Sampras,pete-sampras,$,650000.0
+1994,24,Sun City,Outdoor,Hard,"$313,750",Markus Zoecke,markus-zoecke,$,313750.0
+1994,25,Barcelona,Outdoor,Clay,"$900,000",Richard Krajicek,richard-krajicek,$,900000.0
+1994,26,Tokyo Outdoor,Outdoor,Hard,"$1,053,750",Pete Sampras,pete-sampras,$,1053750.0
+1994,27,Birmingham,Outdoor,Clay,"$313,750",Jason Stoltenberg,jason-stoltenberg,$,313750.0
+1994,28,Hong Kong,Outdoor,Hard,"$320,000",Michael Chang,michael-chang,$,320000.0
+1994,29,Nice,Outdoor,Clay,"$313,750",Alberto Berasategui,alberto-berasategui,$,313750.0
+1994,30,ATP Masters Series Monte Carlo,Outdoor,Clay,"$1,720,000",Andrei Medvedev,andrei-medvedev,$,1720000.0
+1994,31,Seoul,Outdoor,Hard,"$213,750",Jeremy Bates,jeremy-bates,$,213750.0
+1994,32,Atlanta,Outdoor,Clay,"$313,750",Michael Chang,michael-chang,$,313750.0
+1994,33,Madrid,Outdoor,Clay,"$800,000",Thomas Muster,thomas-muster,$,800000.0
+1994,34,Munich,Outdoor,Clay,"$425,000",Michael Stich,michael-stich,$,425000.0
+1994,35,ATP Masters Series Hamburg,Outdoor,Clay,"$1,720,000",Andrei Medvedev,andrei-medvedev,$,1720000.0
+1994,36,Pinehurst,Outdoor,Clay,"$313,750",Jared Palmer,jared-palmer,$,313750.0
+1994,37,Delray Beach,Outdoor,Hard,"$240,000",Luiz Mattar,luiz-mattar,$,240000.0
+1994,38,ATP Masters Series Rome,Outdoor,Clay,"$2,000,000",Pete Sampras,pete-sampras,$,2000000.0
+1994,39,Bologna,Outdoor,Clay,"$313,750",Javier Sanchez,javier-sanchez,$,313750.0
+1994,40,World Team Cup,Outdoor,Clay,"$1,750,000",Carlos Costa,carlos-costa,$,1750000.0
+1994,42,Florence,Outdoor,Clay,"$313,750",Marcelo Filippini,marcelo-filippini,$,313750.0
+1994,43,London / Queen's Club,Outdoor,Grass,"$625,000",Todd Martin,todd-martin,$,625000.0
+1994,44,Rosmalen,Outdoor,Grass,"$313,750",Richard Krajicek,richard-krajicek,$,313750.0
+1994,45,Halle,Outdoor,Grass,"$525,000",Michael Stich,michael-stich,$,525000.0
+1994,46,Manchester,Outdoor,Grass,"$315,000",Patrick Rafter,patrick-rafter,$,315000.0
+1994,47,St. Poelten,Outdoor,Clay,"$325,000",Thomas Muster,thomas-muster,$,325000.0
+1994,48,Wimbledon,Outdoor,Grass,"$3,920,625",Pete Sampras,pete-sampras,$,3920625.0
+1994,49,Bastad,Outdoor,Clay,"$313,750",Bernd Karbacher,bernd-karbacher,$,313750.0
+1994,50,Gstaad,Outdoor,Clay,"$400,000",Sergi Bruguera,sergi-bruguera,$,400000.0
+1994,51,Newport,Outdoor,Grass,"$240,000",David Wheaton,david-wheaton,$,240000.0
+1994,52,Stuttgart Outdoor,Outdoor,Clay,"$1,040,000",Alberto Berasategui,alberto-berasategui,$,1040000.0
+1994,53,Washington,Outdoor,Hard,"$650,000",Stefan Edberg,stefan-edberg,$,650000.0
+1994,54,Hilversum,Outdoor,Clay,"$300,000",Karel Novacek,karel-novacek,$,300000.0
+1994,55,ATP Masters Series Canada,Outdoor,Hard,"$1,720,000",Andre Agassi,andre-agassi,$,1720000.0
+1994,56,Kitzbuhel,Outdoor,Clay,"$400,000",Goran Ivanisevic,goran-ivanisevic,$,400000.0
+1994,57,Los Angeles,Outdoor,Hard,"$313,750",Boris Becker,boris-becker,$,313750.0
+1994,58,Prague,Outdoor,Clay,"$365,000",Sergi Bruguera,sergi-bruguera,$,365000.0
+1994,59,ATP Masters Series Cincinnati,Outdoor,Hard,"$1,720,000",Michael Chang,michael-chang,$,1720000.0
+1994,60,San Marino,Outdoor,Clay,"$300,000",Carlos Costa,carlos-costa,$,300000.0
+1994,61,Indianapolis,Outdoor,Hard,"$1,040,000",Wayne Ferreira,wayne-ferreira,$,1040000.0
+1994,62,New Haven,Outdoor,Hard,"$1,040,000",Boris Becker,boris-becker,$,1040000.0
+1994,63,Long Island,Outdoor,Hard,"$313,750",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,313750.0
+1994,64,Schenectady,Outdoor,Hard,"$313,750",Jacco Eltingh,jacco-eltingh,$,313750.0
+1994,65,Umag,Outdoor,Clay,"$400,000",Alberto Berasategui,alberto-berasategui,$,400000.0
+1994,67,Bogota,Outdoor,Clay,"$313,750",Nicolas Pereira,nicolas-pereira,$,313750.0
+1994,68,Bordeaux,Outdoor,Hard,"$400,000",Wayne Ferreira,wayne-ferreira,$,400000.0
+1994,69,Bucharest,Outdoor,Clay,"$550,000",Franco Davin,franco-davin,$,550000.0
+1994,70,Basel,Indoor,Hard,"$800,000",Wayne Ferreira,wayne-ferreira,$,800000.0
+1994,71,Kuala Lumpur,Indoor,Carpet,"$400,000",Jacco Eltingh,jacco-eltingh,$,400000.0
+1994,72,Palermo,Outdoor,Clay,"$315,000",Alberto Berasategui,alberto-berasategui,$,315000.0
+1994,73,Athens,Outdoor,Clay,"$213,750",Alberto Berasategui,alberto-berasategui,$,213750.0
+1994,74,Sydney Indoor,Indoor,Hard,"$1,020,000",Richard Krajicek,richard-krajicek,$,1020000.0
+1994,75,Toulouse,Indoor,Hard,"$400,000",Magnus Larsson,magnus-larsson,$,400000.0
+1994,76,Ostrava,Indoor,Carpet,"$315,000",MaliVai Washington,malivai-washington,$,315000.0
+1994,77,Tel Aviv,Outdoor,Hard,"$275,000",Wayne Ferreira,wayne-ferreira,$,275000.0
+1994,78,Tokyo Indoor,Indoor,Carpet,"$1,020,000",Goran Ivanisevic,goran-ivanisevic,$,1020000.0
+1994,79,Beijing,Indoor,Carpet,"$320,000",Michael Chang,michael-chang,$,320000.0
+1994,80,Lyon,Indoor,Carpet,"$600,000",Marc Rosset,marc-rosset,$,600000.0
+1994,81,Vienna,Indoor,Carpet,"$400,000",Andre Agassi,andre-agassi,$,400000.0
+1994,82,Santiago,Outdoor,Clay,"$213,750",Alberto Berasategui,alberto-berasategui,$,213750.0
+1994,83,ATP Masters Series Stockholm,Indoor,Carpet,"$1,720,000",Boris Becker,boris-becker,$,1720000.0
+1994,84,Montevideo,Outdoor,Clay,"$213,750",Alberto Berasategui,alberto-berasategui,$,213750.0
+1994,85,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,250,000",Andre Agassi,andre-agassi,$,2250000.0
+1994,86,Antwerp,Indoor,Carpet,"$1,125,000",Pete Sampras,pete-sampras,$,1125000.0
+1994,87,Buenos Aires,Outdoor,Clay,"$313,750",Alex Corretja,alex-corretja,$,313750.0
+1994,88,Moscow,Indoor,Carpet,"$353,750",Alexander Volkov,alexander-volkov,$,353750.0
+1994,89,ATP Tour World Championship,Indoor,Carpet,"$3,000,000",Pete Sampras,pete-sampras,$,3000000.0
+1994,90,ATP Tour World Doubles Championship,Indoor,Hard,"$1,300,000",,,$,1300000.0
+1995,0,Adelaide,Outdoor,Hard,"$328,000",Jim Courier,jim-courier,$,328000.0
+1995,1,Doha,Outdoor,Hard,"$625,000",Stefan Edberg,stefan-edberg,$,625000.0
+1995,2,Auckland,Outdoor,Hard,"$328,000",Thomas Enqvist,thomas-enqvist,$,328000.0
+1995,3,Jakarta,Outdoor,Hard,"$328,000",Paul Haarhuis,paul-haarhuis,$,328000.0
+1995,4,Sydney Outdoor,Outdoor,Hard,"$328,000",Patrick McEnroe,patrick-mcenroe,$,328000.0
+1995,6,Dubai,Outdoor,Hard,"$1,039,250",Wayne Ferreira,wayne-ferreira,$,1039250.0
+1995,7,Marseille,Indoor,Hard,"$539,250",Boris Becker,boris-becker,$,539250.0
+1995,8,San Jose,Indoor,Hard,"$328,000",Andre Agassi,andre-agassi,$,328000.0
+1995,9,Memphis,Indoor,Hard,"$808,000",Todd Martin,todd-martin,$,808000.0
+1995,10,Milan,Indoor,Carpet,"$814,250",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,814250.0
+1995,11,Philadelphia,Indoor,Carpet,"$714,250",Thomas Enqvist,thomas-enqvist,$,714250.0
+1995,12,Stuttgart Indoor,Indoor,Carpet,"$2,250,000",Richard Krajicek,richard-krajicek,$,2250000.0
+1995,13,Mexico City,Outdoor,Clay,"$330,000",Thomas Muster,thomas-muster,$,330000.0
+1995,14,Rotterdam,Indoor,Carpet,"$600,000",Richard Krajicek,richard-krajicek,$,600000.0
+1995,15,Scottsdale,Outdoor,Hard,"$328,000",Jim Courier,jim-courier,$,328000.0
+1995,16,Copenhagen,Indoor,Carpet,"$228,000",Martin Sinner,martin-sinner,$,228000.0
+1995,17,ATP Masters Series Indian Wells,Outdoor,Hard,"$1,800,000",Pete Sampras,pete-sampras,$,1800000.0
+1995,18,ATP Masters Series Miami,Outdoor,Hard,"$2,500,000",Andre Agassi,andre-agassi,$,2500000.0
+1995,19,St. Petersburg,Indoor,Carpet,"$325,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,325000.0
+1995,20,Casablanca,Outdoor,Clay,"$228,000",Gilbert Schaller,gilbert-schaller,$,228000.0
+1995,21,Estoril,Outdoor,Clay,"$575,000",Thomas Muster,thomas-muster,$,575000.0
+1995,22,Johannesburg,Outdoor,Hard,"$328,000",Martin Sinner,martin-sinner,$,328000.0
+1995,23,Barcelona,Outdoor,Clay,"$900,000",Thomas Muster,thomas-muster,$,900000.0
+1995,24,Tokyo Outdoor,Outdoor,Hard,"$1,060,000",Jim Courier,jim-courier,$,1060000.0
+1995,25,Bermuda,Outdoor,Clay,"$328,000",Mauricio Hadad,mauricio-hadad,$,328000.0
+1995,26,Hong Kong,Outdoor,Hard,"$328,000",Michael Chang,michael-chang,$,328000.0
+1995,27,Nice,Outdoor,Clay,"$328,000",Marc Rosset,marc-rosset,$,328000.0
+1995,28,ATP Masters Series Monte Carlo,Outdoor,Clay,"$1,795,000",Thomas Muster,thomas-muster,$,1795000.0
+1995,29,Seoul,Outdoor,Hard,"$228,000",Greg Rusedski,greg-rusedski,$,228000.0
+1995,30,Atlanta,Outdoor,Clay,"$425,000",Michael Chang,michael-chang,$,425000.0
+1995,31,Munich,Outdoor,Clay,"$328,000",Wayne Ferreira,wayne-ferreira,$,328000.0
+1995,32,ATP Masters Series Hamburg,Outdoor,Clay,"$1,795,000",Andrei Medvedev,andrei-medvedev,$,1795000.0
+1995,33,Pinehurst,Outdoor,Clay,"$289,250",Thomas Enqvist,thomas-enqvist,$,289250.0
+1995,34,Delray Beach,Outdoor,Hard,"$255,000",Todd Woodbridge,todd-woodbridge,$,255000.0
+1995,35,ATP Masters Series Rome,Outdoor,Clay,"$2,000,000",Thomas Muster,thomas-muster,$,2000000.0
+1995,36,Bologna,Outdoor,Clay,"$328,000",Marcelo Rios,marcelo-rios,$,328000.0
+1995,37,World Team Cup,Outdoor,Clay,"$1,800,000",Goran Ivanisevic,goran-ivanisevic,$,1800000.0
+1995,39,London / Queen's Club,Outdoor,Grass,"$625,000",Pete Sampras,pete-sampras,$,625000.0
+1995,40,Oporto,Outdoor,Clay,"$328,000",Alberto Berasategui,alberto-berasategui,$,328000.0
+1995,41,Rosmalen,Outdoor,Grass,"$328,000",Karol Kucera,karol-kucera,$,328000.0
+1995,42,Halle,Outdoor,Grass,"$725,000",Marc Rosset,marc-rosset,$,725000.0
+1995,43,Nottingham,Outdoor,Grass,"$328,000",Javier Frana,javier-frana,$,328000.0
+1995,44,St. Poelten,Outdoor,Clay,"$375,000",Thomas Muster,thomas-muster,$,375000.0
+1995,46,Bastad,Outdoor,Clay,"$328,000",Fernando Meligeni,fernando-meligeni,$,328000.0
+1995,47,Gstaad,Outdoor,Clay,"$550,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,550000.0
+1995,48,Newport,Outdoor,Grass,"$255,000",David Prinosil,david-prinosil,$,255000.0
+1995,49,Stuttgart Outdoor,Outdoor,Clay,"$1,040,000",Thomas Muster,thomas-muster,$,1040000.0
+1995,50,Washington,Outdoor,Hard,"$675,000",Andre Agassi,andre-agassi,$,675000.0
+1995,51,Amsterdam,Outdoor,Clay,"$500,000",Marcelo Rios,marcelo-rios,$,500000.0
+1995,52,ATP Masters Series Canada,Outdoor,Hard,"$1,795,000",Andre Agassi,andre-agassi,$,1795000.0
+1995,53,Kitzbuhel,Outdoor,Clay,"$425,000",Albert Costa,albert-costa,$,425000.0
+1995,54,Los Angeles,Outdoor,Hard,"$328,000",Michael Stich,michael-stich,$,328000.0
+1995,55,Prague,Outdoor,Clay,"$365,000",Bohdan Ulihrach,bohdan-ulihrach,$,365000.0
+1995,56,ATP Masters Series Cincinnati,Outdoor,Hard,"$1,795,000",Andre Agassi,andre-agassi,$,1795000.0
+1995,57,San Marino,Outdoor,Clay,"$300,000",Thomas Muster,thomas-muster,$,300000.0
+1995,58,Indianapolis,Outdoor,Hard,"$1,040,000",Thomas Enqvist,thomas-enqvist,$,1040000.0
+1995,59,New Haven,Outdoor,Hard,"$1,040,000",Andre Agassi,andre-agassi,$,1040000.0
+1995,60,Long Island,Outdoor,Hard,"$328,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,328000.0
+1995,61,Umag,Outdoor,Clay,"$400,000",Thomas Muster,thomas-muster,$,400000.0
+1995,63,Bogota,Outdoor,Clay,"$328,000",Nicolas Lapentti,nicolas-lapentti,$,328000.0
+1995,64,Bordeaux,Outdoor,Hard,"$400,000",Yahiya Doumbia,yahiya-doumbia,$,400000.0
+1995,65,Bucharest,Outdoor,Clay,"$1,375,000",Thomas Muster,thomas-muster,$,1375000.0
+1995,66,Basel,Indoor,Hard,"$1,000,000",Jim Courier,jim-courier,$,1000000.0
+1995,67,Palermo,Outdoor,Clay,"$328,000",Francisco Clavet,francisco-clavet,$,328000.0
+1995,68,Kuala Lumpur,Indoor,Carpet,"$414,250",Marcelo Rios,marcelo-rios,$,414250.0
+1995,69,Toulouse,Indoor,Hard,"$400,000",Arnaud Boetsch,arnaud-boetsch,$,400000.0
+1995,70,Valencia,Outdoor,Clay,"$228,000",Sjeng Schalken,sjeng-schalken,$,228000.0
+1995,71,Ostrava,Indoor,Carpet,"$400,000",Wayne Ferreira,wayne-ferreira,$,400000.0
+1995,72,Tel Aviv,Outdoor,Hard,"$275,000",Jan Kroslak,jan-kroslak,$,275000.0
+1995,73,Tokyo Indoor,Indoor,Carpet,"$1,020,000",Michael Chang,michael-chang,$,1020000.0
+1995,74,Beijing,Indoor,Carpet,"$328,000",Michael Chang,michael-chang,$,328000.0
+1995,75,Lyon,Indoor,Carpet,"$600,000",Wayne Ferreira,wayne-ferreira,$,600000.0
+1995,76,Vienna,Indoor,Carpet,"$400,000",Filip Dewulf,filip-dewulf,$,400000.0
+1995,77,ATP Masters Series Essen,Indoor,Carpet,"$2,094,000",Thomas Muster,thomas-muster,$,2094000.0
+1995,78,Santiago,Outdoor,Clay,"$228,750",Slava Dosedel,slava-dosedel,$,228750.0
+1995,79,Montevideo,Outdoor,Clay,"$228,000",Bohdan Ulihrach,bohdan-ulihrach,$,228000.0
+1995,80,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,250,000",Pete Sampras,pete-sampras,$,2250000.0
+1995,81,Buenos Aires,Outdoor,Clay,"$328,000",Carlos Moya,carlos-moya,$,328000.0
+1995,82,Moscow,Indoor,Carpet,"$1,125,000",Carl-Uwe Steeb,carl-uwe-steeb,$,1125000.0
+1995,83,Stockholm,Indoor,Hard,"$825,000",Thomas Enqvist,thomas-enqvist,$,825000.0
+1995,84,ATP Tour World Championship,Indoor,Carpet,"$3,300,000",Boris Becker,boris-becker,$,3300000.0
+1995,85,ATP Tour World Doubles Championship,Indoor,Carpet,"$1,400,000",,,$,1400000.0
+1996,0,Adelaide,Outdoor,Hard,"$328,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,328000.0
+1996,1,Doha,Outdoor,Hard,"$625,000",Petr Korda,petr-korda,$,625000.0
+1996,2,Auckland,Outdoor,Hard,"$328,000",Jiri Novak,jiri-novak,$,328000.0
+1996,3,Jakarta,Outdoor,Hard,"$328,000",Sjeng Schalken,sjeng-schalken,$,328000.0
+1996,4,Sydney Outdoor,Outdoor,Hard,"$328,000",Todd Martin,todd-martin,$,328000.0
+1996,6,Shanghai,Indoor,Carpet,"$330,000",Andrei Olhovskiy,andrei-olhovskiy,$,330000.0
+1996,7,Zagreb,Indoor,Carpet,"$400,000",Goran Ivanisevic,goran-ivanisevic,$,400000.0
+1996,8,Dubai,Outdoor,Hard,"$1,039,250",Goran Ivanisevic,goran-ivanisevic,$,1039250.0
+1996,9,Marseille,Indoor,Hard,"$539,250",Guy Forget,guy-forget,$,539250.0
+1996,10,San Jose,Indoor,Hard,"$328,000",Pete Sampras,pete-sampras,$,328000.0
+1996,11,Antwerp,Indoor,Carpet,"$1,000,000",Michael Stich,michael-stich,$,1000000.0
+1996,12,Memphis,Indoor,Hard,"$808,000",Pete Sampras,pete-sampras,$,808000.0
+1996,13,Milan,Indoor,Carpet,"$814,250",Goran Ivanisevic,goran-ivanisevic,$,814250.0
+1996,14,Philadelphia,Indoor,Carpet,"$714,250",Jim Courier,jim-courier,$,714250.0
+1996,15,Mexico City,Outdoor,Clay,"$330,000",Thomas Muster,thomas-muster,$,330000.0
+1996,16,Rotterdam,Indoor,Carpet,"$750,000",Goran Ivanisevic,goran-ivanisevic,$,750000.0
+1996,17,Scottsdale,Outdoor,Hard,"$328,000",Wayne Ferreira,wayne-ferreira,$,328000.0
+1996,18,Copenhagen,Indoor,Carpet,"$228,000",Cedric Pioline,cedric-pioline,$,228000.0
+1996,19,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,200,000",Michael Chang,michael-chang,$,2200000.0
+1996,20,ATP Masters Series Miami,Outdoor,Hard,"$2,550,000",Andre Agassi,andre-agassi,$,2550000.0
+1996,21,St. Petersburg,Indoor,Carpet,"$325,000",Magnus Gustafsson,magnus-gustafsson,$,325000.0
+1996,22,Casablanca,Outdoor,Clay,"$228,000",Tomas Carbonell,tomas-carbonell,$,228000.0
+1996,23,Estoril,Outdoor,Clay,"$625,000",Thomas Muster,thomas-muster,$,625000.0
+1996,24,Hong Kong,Outdoor,Hard,"$328,000",Pete Sampras,pete-sampras,$,328000.0
+1996,25,New Delhi,Outdoor,Hard,"$430,000",Thomas Enqvist,thomas-enqvist,$,430000.0
+1996,26,Barcelona,Outdoor,Clay,"$925,000",Thomas Muster,thomas-muster,$,925000.0
+1996,27,Bermuda,Outdoor,Clay,"$328,000",MaliVai Washington,malivai-washington,$,328000.0
+1996,28,Tokyo,Outdoor,Hard,"$1,060,000",Pete Sampras,pete-sampras,$,1060000.0
+1996,29,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,200,000",Thomas Muster,thomas-muster,$,2200000.0
+1996,30,Seoul,Outdoor,Hard,"$228,000",Byron Black,byron-black,$,228000.0
+1996,31,Atlanta,Outdoor,Clay,"$328,000",Karim Alami,karim-alami,$,328000.0
+1996,32,Munich,Outdoor,Clay,"$425,000",Slava Dosedel,slava-dosedel,$,425000.0
+1996,33,Prague,Outdoor,Clay,"$365,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,365000.0
+1996,34,ATP Masters Series Hamburg,Outdoor,Clay,"$2,200,000",Roberto Carretero,roberto-carretero,$,2200000.0
+1996,35,Pinehurst,Outdoor,Clay,"$289,250",Fernando Meligeni,fernando-meligeni,$,289250.0
+1996,36,Delray Beach,Outdoor,Hard,"$270,000",Jason Stoltenberg,jason-stoltenberg,$,270000.0
+1996,37,ATP Masters Series Rome,Outdoor,Clay,"$2,200,000",Thomas Muster,thomas-muster,$,2200000.0
+1996,38,World Team Cup,Outdoor,Clay,"$1,900,000",Petr Korda,petr-korda,$,1900000.0
+1996,39,St. Poelten,Outdoor,Clay,"$425,000",Marcelo Rios,marcelo-rios,$,425000.0
+1996,41,London / Queen's Club,Outdoor,Grass,"$700,000",Boris Becker,boris-becker,$,700000.0
+1996,42,Oporto,Outdoor,Clay,"$425,000",Felix Mantilla,felix-mantilla,$,425000.0
+1996,43,Rosmalen,Outdoor,Grass,"$500,000",Richey Reneberg,richey-reneberg,$,500000.0
+1996,44,Bologna,Outdoor,Clay,"$328,000",Alberto Berasategui,alberto-berasategui,$,328000.0
+1996,45,Halle,Outdoor,Grass,"$900,000",Nicklas Kulti,nicklas-kulti,$,900000.0
+1996,46,Nottingham,Outdoor,Grass,"$328,000",Jan Siemerink,jan-siemerink,$,328000.0
+1996,48,Bastad,Outdoor,Clay,"$328,000",Magnus Gustafsson,magnus-gustafsson,$,328000.0
+1996,49,Gstaad,Outdoor,Clay,"$550,000",Albert Costa,albert-costa,$,550000.0
+1996,50,Newport,Outdoor,Grass,"$255,000",Nicolas Pereira,nicolas-pereira,$,255000.0
+1996,51,Stuttgart Outdoor,Outdoor,Clay,"$1,040,000",Thomas Muster,thomas-muster,$,1040000.0
+1996,52,Washington,Outdoor,Hard,"$675,000",Michael Chang,michael-chang,$,675000.0
+1996,54,Kitzbuhel,Outdoor,Clay,"$425,000",Alberto Berasategui,alberto-berasategui,$,425000.0
+1996,55,Amsterdam,Outdoor,Clay,"$500,000",Francisco Clavet,francisco-clavet,$,500000.0
+1996,56,Los Angeles,Outdoor,Hard,"$328,000",Michael Chang,michael-chang,$,328000.0
+1996,57,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,200,000",Andre Agassi,andre-agassi,$,2200000.0
+1996,58,San Marino,Outdoor,Clay,"$300,000",Albert Costa,albert-costa,$,300000.0
+1996,59,Indianapolis,Outdoor,Hard,"$1,040,000",Pete Sampras,pete-sampras,$,1040000.0
+1996,60,New Haven,Outdoor,Hard,"$1,040,000",Alex O'Brien,alex-obrien,$,1040000.0
+1996,61,Umag,Outdoor,Clay,"$400,000",Carlos Moya,carlos-moya,$,400000.0
+1996,62,Long Island,Outdoor,Hard,"$250,000",Andrei Medvedev,andrei-medvedev,$,250000.0
+1996,63,ATP Masters Series Canada,Outdoor,Hard,"$2,000,000",Wayne Ferreira,wayne-ferreira,$,2000000.0
+1996,65,Bogota,Outdoor,Clay,"$328,000",Thomas Muster,thomas-muster,$,328000.0
+1996,66,Bournemouth,Outdoor,Clay,"$400,000",Albert Costa,albert-costa,$,400000.0
+1996,67,Bucharest,Outdoor,Clay,"$500,000",Alberto Berasategui,alberto-berasategui,$,500000.0
+1996,68,Basel,Indoor,Hard,"$1,000,000",Pete Sampras,pete-sampras,$,1000000.0
+1996,69,Palermo,Outdoor,Clay,"$328,000",Karim Alami,karim-alami,$,328000.0
+1996,70,Lyon,Indoor,Carpet,"$750,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,750000.0
+1996,71,Marbella,Outdoor,Clay,"$328,000",Marc-Kevin Goellner,marc-kevin-goellner,$,328000.0
+1996,72,Singapore,Indoor,Carpet,"$414,250",Jonathan Stark,jonathan-stark,$,414250.0
+1996,73,Beijing,Indoor,Carpet,"$328,000",Greg Rusedski,greg-rusedski,$,328000.0
+1996,74,Vienna,Indoor,Carpet,"$800,000",Boris Becker,boris-becker,$,800000.0
+1996,75,Ostrava,Indoor,Carpet,"$475,000",David Prinosil,david-prinosil,$,475000.0
+1996,76,Tel Aviv,Outdoor,Hard,"$328,000",Javier Sanchez,javier-sanchez,$,328000.0
+1996,77,Toulouse,Indoor,Hard,"$400,000",Mark Philippoussis,mark-philippoussis,$,400000.0
+1996,78,ATP Masters Series Stuttgart,Indoor,Carpet,"$2,200,000",Boris Becker,boris-becker,$,2200000.0
+1996,79,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,550,000",Thomas Enqvist,thomas-enqvist,$,2550000.0
+1996,80,Moscow,Indoor,Carpet,"$1,150,000",Goran Ivanisevic,goran-ivanisevic,$,1150000.0
+1996,81,Santiago,Outdoor,Clay,"$228,000",Hernan Gumy,hernan-gumy,$,228000.0
+1996,82,Stockholm,Indoor,Hard,"$825,000",Thomas Enqvist,thomas-enqvist,$,825000.0
+1996,83,ATP Tour World Doubles Championship,Indoor,Carpet,"$500,000",,,$,500000.0
+1996,84,ATP Tour World Championship,Indoor,Carpet,"$3,300,000",Pete Sampras,pete-sampras,$,3300000.0
+1997,0,Adelaide,Outdoor,Hard,"$328,000",Todd Woodbridge,todd-woodbridge,$,328000.0
+1997,1,Doha,Outdoor,Hard,"$625,000",Jim Courier,jim-courier,$,625000.0
+1997,2,Auckland,Outdoor,Hard,"$328,000",Jonas Bjorkman,jonas-bjorkman,$,328000.0
+1997,3,Sydney Outdoor,Outdoor,Hard,"$328,000",Tim Henman,tim-henman,$,328000.0
+1997,4,Australian Open,Outdoor,Hard,"$3,538,866",Pete Sampras,pete-sampras,$,3538866.0
+1997,5,Shanghai,Indoor,Carpet,"$330,000",Jan Kroslak,jan-kroslak,$,330000.0
+1997,6,Zagreb,Indoor,Carpet,"$400,000",Goran Ivanisevic,goran-ivanisevic,$,400000.0
+1997,7,Dubai,Outdoor,Hard,"$1,039,250",Thomas Muster,thomas-muster,$,1039250.0
+1997,8,Marseille,Indoor,Hard,"$539,250",Thomas Enqvist,thomas-enqvist,$,539250.0
+1997,9,San Jose,Indoor,Hard,"$328,000",Pete Sampras,pete-sampras,$,328000.0
+1997,10,Antwerp,Indoor,Hard,"$1,000,000",Marc Rosset,marc-rosset,$,1000000.0
+1997,11,Memphis,Indoor,Hard,"$825,000",Michael Chang,michael-chang,$,825000.0
+1997,12,Milan,Indoor,Carpet,"$814,250",Goran Ivanisevic,goran-ivanisevic,$,814250.0
+1997,13,Philadelphia,Indoor,Hard,"$714,250",Pete Sampras,pete-sampras,$,714250.0
+1997,14,Rotterdam,Indoor,Carpet,"$750,000",Richard Krajicek,richard-krajicek,$,750000.0
+1997,15,Scottsdale,Outdoor,Hard,"$328,000",Mark Philippoussis,mark-philippoussis,$,328000.0
+1997,16,Copenhagen,Indoor,Carpet,"$228,000",Thomas Johansson,thomas-johansson,$,228000.0
+1997,17,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,300,000",Michael Chang,michael-chang,$,2300000.0
+1997,18,ATP Masters Series Miami,Outdoor,Hard,"$2,700,000",Thomas Muster,thomas-muster,$,2700000.0
+1997,19,St. Petersburg,Indoor,Carpet,"$325,000",Thomas Johansson,thomas-johansson,$,325000.0
+1997,20,Casablanca,Outdoor,Clay,"$228,000",Hicham Arazi,hicham-arazi,$,228000.0
+1997,21,Chennai,Outdoor,Hard,"$430,000",Mikael Tillstrom,mikael-tillstrom,$,430000.0
+1997,22,Estoril,Outdoor,Clay,"$625,000",Alex Corretja,alex-corretja,$,625000.0
+1997,23,Hong Kong,Outdoor,Hard,"$328,000",Michael Chang,michael-chang,$,328000.0
+1997,24,Barcelona,Outdoor,Clay,"$950,000",Albert Costa,albert-costa,$,950000.0
+1997,25,Tokyo,Outdoor,Hard,"$1,060,000",Richard Krajicek,richard-krajicek,$,1060000.0
+1997,26,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,300,000",Marcelo Rios,marcelo-rios,$,2300000.0
+1997,27,Orlando,Outdoor,Clay,"$289,250",Michael Chang,michael-chang,$,289250.0
+1997,28,Atlanta,Outdoor,Clay,"$328,000",Marcelo Filippini,marcelo-filippini,$,328000.0
+1997,29,Munich,Outdoor,Clay,"$425,000",Mark Philippoussis,mark-philippoussis,$,425000.0
+1997,30,Prague,Outdoor,Clay,"$365,000",Cedric Pioline,cedric-pioline,$,365000.0
+1997,31,Delray Beach,Outdoor,Hard,"$270,000",Jason Stoltenberg,jason-stoltenberg,$,270000.0
+1997,32,ATP Masters Series Hamburg,Outdoor,Clay,"$2,300,000",Andrei Medvedev,andrei-medvedev,$,2300000.0
+1997,33,ATP Masters Series Rome,Outdoor,Clay,"$2,300,000",Alex Corretja,alex-corretja,$,2300000.0
+1997,34,World Team Cup,Outdoor,Clay,"$1,900,000",Albert Costa,albert-costa,$,1900000.0
+1997,35,St. Poelten,Outdoor,Clay,"$425,000",Marcelo Filippini,marcelo-filippini,$,425000.0
+1997,36,Roland Garros,Outdoor,Clay,"$5,544,184",Gustavo Kuerten,gustavo-kuerten,$,5544184.0
+1997,37,Bologna,Outdoor,Clay,"$328,000",Felix Mantilla,felix-mantilla,$,328000.0
+1997,38,Halle,Outdoor,Grass,"$900,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,900000.0
+1997,39,London / Queen's Club,Outdoor,Grass,"$700,000",Mark Philippoussis,mark-philippoussis,$,700000.0
+1997,40,Nottingham,Outdoor,Grass,"$328,000",Greg Rusedski,greg-rusedski,$,328000.0
+1997,41,Rosmalen,Outdoor,Grass,"$500,000",Richard Krajicek,richard-krajicek,$,500000.0
+1997,42,Wimbledon,Outdoor,Grass,"$5,445,815",Pete Sampras,pete-sampras,$,5445815.0
+1997,43,Bastad,Outdoor,Clay,"$328,000",Magnus Norman,magnus-norman,$,328000.0
+1997,44,Gstaad,Outdoor,Clay,"$550,000",Felix Mantilla,felix-mantilla,$,550000.0
+1997,45,Newport,Outdoor,Grass,"$280,000",Sargis Sargsian,sargis-sargsian,$,280000.0
+1997,46,Stuttgart Outdoor,Outdoor,Clay,"$1,040,000",Alex Corretja,alex-corretja,$,1040000.0
+1997,47,Washington,Outdoor,Hard,"$675,000",Michael Chang,michael-chang,$,675000.0
+1997,48,Kitzbuhel,Outdoor,Clay,"$525,000",Filip Dewulf,filip-dewulf,$,525000.0
+1997,49,Los Angeles,Outdoor,Hard,"$328,000",Jim Courier,jim-courier,$,328000.0
+1997,50,Umag,Outdoor,Clay,"$400,000",Felix Mantilla,felix-mantilla,$,400000.0
+1997,51,Amsterdam,Outdoor,Clay,"$500,000",Slava Dosedel,slava-dosedel,$,500000.0
+1997,52,ATP Masters Series Canada,Outdoor,Hard,"$2,300,000",Chris Woodruff,chris-woodruff,$,2300000.0
+1997,53,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,300,000",Pete Sampras,pete-sampras,$,2300000.0
+1997,54,San Marino,Outdoor,Clay,"$300,000",Felix Mantilla,felix-mantilla,$,300000.0
+1997,55,Indianapolis,Outdoor,Hard,"$1,040,000",Jonas Bjorkman,jonas-bjorkman,$,1040000.0
+1997,56,New Haven,Outdoor,Hard,"$1,040,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,1040000.0
+1997,57,Boston,Outdoor,Hard,"$328,000",Sjeng Schalken,sjeng-schalken,$,328000.0
+1997,58,Long Island,Outdoor,Hard,"$328,000",Carlos Moya,carlos-moya,$,328000.0
+1997,59,US Open,Outdoor,Hard,"$5,152,000",Patrick Rafter,patrick-rafter,$,5152000.0
+1997,60,Bournemouth,Outdoor,Clay,"$400,000",Felix Mantilla,felix-mantilla,$,400000.0
+1997,61,Marbella,Outdoor,Clay,"$328,000",Albert Costa,albert-costa,$,328000.0
+1997,62,Tashkent,Outdoor,Hard,"$328,000",Tim Henman,tim-henman,$,328000.0
+1997,63,Bucharest,Outdoor,Clay,"$500,000",Richard Fromberg,richard-fromberg,$,500000.0
+1997,64,Toulouse,Indoor,Hard,"$400,000",Nicolas Kiefer,nicolas-kiefer,$,400000.0
+1997,65,Grand Slam Cup,Indoor,Carpet,"$6,000,000",Pete Sampras,pete-sampras,$,6000000.0
+1997,66,Basel,Indoor,Carpet,"$1,000,000",Greg Rusedski,greg-rusedski,$,1000000.0
+1997,67,Beijing,Indoor,Hard,"$328,000",Jim Courier,jim-courier,$,328000.0
+1997,68,Palermo,Outdoor,Clay,"$328,000",Alberto Berasategui,alberto-berasategui,$,328000.0
+1997,69,Singapore,Indoor,Carpet,"$675,000",Magnus Gustafsson,magnus-gustafsson,$,675000.0
+1997,70,Vienna,Indoor,Carpet,"$800,000",Goran Ivanisevic,goran-ivanisevic,$,800000.0
+1997,71,Lyon,Indoor,Carpet,"$750,000",Fabrice Santoro,fabrice-santoro,$,750000.0
+1997,72,Ostrava,Indoor,Carpet,"$1,000,000",Karol Kucera,karol-kucera,$,1000000.0
+1997,73,Mexico City,Outdoor,Clay,"$330,000",Francisco Clavet,francisco-clavet,$,330000.0
+1997,74,ATP Masters Series Stuttgart,Indoor,Carpet,"$2,300,000",Petr Korda,petr-korda,$,2300000.0
+1997,75,Bogota,Outdoor,Clay,"$328,000",Francisco Clavet,francisco-clavet,$,328000.0
+1997,76,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,550,000",Pete Sampras,pete-sampras,$,2550000.0
+1997,77,Moscow,Indoor,Carpet,"$1,150,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,1150000.0
+1997,78,Santiago,Outdoor,Clay,"$328,000",Julian Alonso,julian-alonso,$,328000.0
+1997,79,Stockholm,Indoor,Hard,"$825,000",Jonas Bjorkman,jonas-bjorkman,$,825000.0
+1997,80,ATP Tour World Championship,Indoor,Hard,"$3,300,000",Pete Sampras,pete-sampras,$,3300000.0
+1997,81,ATP Tour World Doubles Championship,Indoor,Carpet,"$500,000",,,$,500000.0
+1998,0,Adelaide,Outdoor,Hard,"$340,000",Lleyton Hewitt,lleyton-hewitt,$,340000.0
+1998,1,Doha,Outdoor,Hard,"$1,000,000",Petr Korda,petr-korda,$,1000000.0
+1998,2,Auckland,Outdoor,Hard,"$340,000",Marcelo Rios,marcelo-rios,$,340000.0
+1998,3,Sydney Outdoor,Outdoor,Hard,"$340,000",Karol Kucera,karol-kucera,$,340000.0
+1998,4,Australian Open,Outdoor,Hard,"$3,140,107",Petr Korda,petr-korda,$,3140107.0
+1998,5,Marseille,Indoor,Hard,"$539,250",Thomas Enqvist,thomas-enqvist,$,539250.0
+1998,6,Split,Indoor,Carpet,"$400,000",Goran Ivanisevic,goran-ivanisevic,$,400000.0
+1998,7,Dubai,Outdoor,Hard,"$1,039,250",Alex Corretja,alex-corretja,$,1039250.0
+1998,8,San Jose,Indoor,Hard,"$340,000",Andre Agassi,andre-agassi,$,340000.0
+1998,9,St. Petersburg,Indoor,Carpet,"$340,000",Richard Krajicek,richard-krajicek,$,340000.0
+1998,10,Antwerp,Outdoor,Hard,"$1,000,000",Greg Rusedski,greg-rusedski,$,1000000.0
+1998,11,Memphis,Indoor,Hard,"$825,000",Mark Philippoussis,mark-philippoussis,$,825000.0
+1998,12,London,Indoor,Carpet,"$814,250",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,814250.0
+1998,13,Philadelphia,Indoor,Hard,"$714,250",Pete Sampras,pete-sampras,$,714250.0
+1998,14,Rotterdam,Indoor,Carpet,"$750,000",Jan Siemerink,jan-siemerink,$,750000.0
+1998,15,Scottsdale,Outdoor,Hard,"$340,000",Andre Agassi,andre-agassi,$,340000.0
+1998,16,Copenhagen,Indoor,Carpet,"$235,000",Magnus Gustafsson,magnus-gustafsson,$,235000.0
+1998,17,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,450,000",Marcelo Rios,marcelo-rios,$,2450000.0
+1998,18,ATP Masters Series Miami,Outdoor,Hard,"$2,700,000",Marcelo Rios,marcelo-rios,$,2700000.0
+1998,19,Casablanca,Outdoor,Clay,"$235,000",Andrea Gaudenzi,andrea-gaudenzi,$,235000.0
+1998,20,Chennai,Outdoor,Hard,"$430,000",Patrick Rafter,patrick-rafter,$,430000.0
+1998,21,Estoril,Outdoor,Clay,"$625,000",Alberto Berasategui,alberto-berasategui,$,625000.0
+1998,22,Hong Kong,Outdoor,Hard,"$340,000",Kenneth Carlsen,kenneth-carlsen,$,340000.0
+1998,23,Barcelona,Outdoor,Clay,"$950,000",Todd Martin,todd-martin,$,950000.0
+1998,24,Tokyo,Outdoor,Hard,"$700,000",Andrei Pavel,andrei-pavel,$,700000.0
+1998,25,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,450,000",Carlos Moya,carlos-moya,$,2450000.0
+1998,26,Orlando,Outdoor,Clay,"$289,250",Jim Courier,jim-courier,$,289250.0
+1998,27,Atlanta,Outdoor,Clay,"$340,000",Pete Sampras,pete-sampras,$,340000.0
+1998,28,Munich,Outdoor,Clay,"$525,000",Thomas Enqvist,thomas-enqvist,$,525000.0
+1998,29,Prague,Outdoor,Clay,"$365,000",Fernando Meligeni,fernando-meligeni,$,365000.0
+1998,30,Delray Beach,Outdoor,Hard,"$270,000",Andrew Ilie,andrew-ilie,$,270000.0
+1998,31,ATP Masters Series Hamburg,Outdoor,Clay,"$2,450,000",Albert Costa,albert-costa,$,2450000.0
+1998,32,ATP Masters Series Rome,Outdoor,Clay,"$2,450,000",Marcelo Rios,marcelo-rios,$,2450000.0
+1998,33,World Team Cup,Outdoor,Clay,"$1,900,000",Tommy Haas,tommy-haas,$,1900000.0
+1998,34,St. Poelten,Outdoor,Clay,"$425,000",Marcelo Rios,marcelo-rios,$,425000.0
+1998,35,Roland Garros,Outdoor,Clay,"$5,026,607",Carlos Moya,carlos-moya,$,5026607.0
+1998,36,Bologna,Outdoor,Clay,"$340,000",Julian Alonso,julian-alonso,$,340000.0
+1998,37,Halle,Outdoor,Grass,"$900,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,900000.0
+1998,38,London / Queen's Club,Outdoor,Grass,"$750,000",Scott Draper,scott-draper,$,750000.0
+1998,39,Nottingham,Outdoor,Grass,"$340,000",Jonas Bjorkman,jonas-bjorkman,$,340000.0
+1998,40,'s-Hertogenbosch,Outdoor,Grass,"$500,000",Patrick Rafter,patrick-rafter,$,500000.0
+1998,41,Wimbledon,Outdoor,Grass,"$5,638,006",Pete Sampras,pete-sampras,$,5638006.0
+1998,42,Bastad,Outdoor,Clay,"$340,000",Magnus Gustafsson,magnus-gustafsson,$,340000.0
+1998,43,Gstaad,Outdoor,Clay,"$550,000",Alex Corretja,alex-corretja,$,550000.0
+1998,44,Newport,Outdoor,Grass,"$300,000",Leander Paes,leander-paes,$,300000.0
+1998,45,Stuttgart Outdoor,Outdoor,Clay,"$1,040,000",Gustavo Kuerten,gustavo-kuerten,$,1040000.0
+1998,46,Washington,Outdoor,Hard,"$700,000",Andre Agassi,andre-agassi,$,700000.0
+1998,47,Kitzbuehel,Outdoor,Clay,"$525,000",Albert Costa,albert-costa,$,525000.0
+1998,48,Los Angeles,Outdoor,Hard,"$340,000",Andre Agassi,andre-agassi,$,340000.0
+1998,49,Umag,Outdoor,Clay,"$400,000",Bohdan Ulihrach,bohdan-ulihrach,$,400000.0
+1998,50,Amsterdam,Outdoor,Clay,"$500,000",Magnus Norman,magnus-norman,$,500000.0
+1998,51,ATP Masters Series Canada,Outdoor,Hard,"$2,450,000",Patrick Rafter,patrick-rafter,$,2450000.0
+1998,52,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,450,000",Patrick Rafter,patrick-rafter,$,2450000.0
+1998,53,San Marino,Outdoor,Clay,"$300,000",Dominik Hrbaty,dominik-hrbaty,$,300000.0
+1998,54,Indianapolis,Outdoor,Hard,"$1,040,000",Alex Corretja,alex-corretja,$,1040000.0
+1998,55,New Haven,Outdoor,Hard,"$870,000",Karol Kucera,karol-kucera,$,870000.0
+1998,56,Boston,Outdoor,Hard,"$340,000",Michael Chang,michael-chang,$,340000.0
+1998,57,Long Island,Outdoor,Hard,"$340,000",Patrick Rafter,patrick-rafter,$,340000.0
+1998,58,US Open,Outdoor,Hard,"$6,032,000",Patrick Rafter,patrick-rafter,$,6032000.0
+1998,59,Bournemouth,Outdoor,Clay,"$400,000",Felix Mantilla,felix-mantilla,$,400000.0
+1998,60,Bucharest,Outdoor,Clay,"$500,000",Francisco Clavet,francisco-clavet,$,500000.0
+1998,61,Tashkent,Outdoor,Hard,"$500,000",Tim Henman,tim-henman,$,500000.0
+1998,62,Mallorca,Outdoor,Clay,"$475,000",Gustavo Kuerten,gustavo-kuerten,$,475000.0
+1998,63,Grand Slam Cup,Indoor,Hard,"$6,000,000",Marcelo Rios,marcelo-rios,$,6000000.0
+1998,64,Toulouse,Indoor,Hard,"$400,000",Jan Siemerink,jan-siemerink,$,400000.0
+1998,65,Basel,Indoor,Hard,"$1,000,000",Tim Henman,tim-henman,$,1000000.0
+1998,66,Palermo,Outdoor,Clay,"$340,000",Mariano Puerta,mariano-puerta,$,340000.0
+1998,67,Shanghai,Indoor,Carpet,"$340,000",Michael Chang,michael-chang,$,340000.0
+1998,68,Singapore,Indoor,Carpet,"$700,000",Marcelo Rios,marcelo-rios,$,700000.0
+1998,69,Vienna,Indoor,Carpet,"$800,000",Pete Sampras,pete-sampras,$,800000.0
+1998,70,Lyon,Indoor,Carpet,"$750,000",Alex Corretja,alex-corretja,$,750000.0
+1998,71,Ostrava,Indoor,Carpet,"$1,000,000",Andre Agassi,andre-agassi,$,1000000.0
+1998,72,Mexico City,Outdoor,Clay,"$340,000",Jiri Novak,jiri-novak,$,340000.0
+1998,73,ATP Masters Series Stuttgart,Indoor,Hard,"$2,450,000",Richard Krajicek,richard-krajicek,$,2450000.0
+1998,74,Bogota,Outdoor,Clay,"$340,000",Mariano Zabaleta,mariano-zabaleta,$,340000.0
+1998,75,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,550,000",Greg Rusedski,greg-rusedski,$,2550000.0
+1998,76,Moscow,Indoor,Carpet,"$1,150,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,1150000.0
+1998,77,Santiago,Outdoor,Clay,"$340,000",Francisco Clavet,francisco-clavet,$,340000.0
+1998,78,Stockholm,Indoor,Hard,"$825,000",Todd Martin,todd-martin,$,825000.0
+1998,79,ATP Tour World Doubles Championship,Indoor,Carpet,"$500,000",,,$,500000.0
+1998,80,ATP Tour World Championship,Indoor,Hard,"$3,300,000",Alex Corretja,alex-corretja,$,3300000.0
+1999,0,Adelaide,Outdoor,Hard,"$350,000",Thomas Enqvist,thomas-enqvist,$,350000.0
+1999,1,Doha,Outdoor,Hard,"$1,000,000",Rainer Schuettler,rainer-schuettler,$,1000000.0
+1999,2,Auckland,Outdoor,Hard,"$350,000",Sjeng Schalken,sjeng-schalken,$,350000.0
+1999,3,Sydney,Outdoor,Hard,"$350,000",Todd Martin,todd-martin,$,350000.0
+1999,4,Australian Open,Outdoor,Hard,"$3,539,387",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,3539387.0
+1999,5,Marseille,Indoor,Hard,"$539,250",Fabrice Santoro,fabrice-santoro,$,539250.0
+1999,6,Dubai,Outdoor,Hard,"$1,039,250",Jerome Golmard,jerome-golmard,$,1039250.0
+1999,7,San Jose,Indoor,Hard,"$350,000",Mark Philippoussis,mark-philippoussis,$,350000.0
+1999,8,St. Petersburg,Indoor,Carpet,"$350,000",Marc Rosset,marc-rosset,$,350000.0
+1999,9,Memphis,Indoor,Hard,"$825,000",Tommy Haas,tommy-haas,$,825000.0
+1999,10,Rotterdam,Indoor,Carpet,"$850,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,850000.0
+1999,11,London,Indoor,Carpet,"$814,250",Richard Krajicek,richard-krajicek,$,814250.0
+1999,12,Copenhagen,Indoor,Carpet,"$240,000",Magnus Gustafsson,magnus-gustafsson,$,240000.0
+1999,13,Scottsdale,Outdoor,Hard,"$350,000",Jan-Michael Gambill,jan-michael-gambill,$,350000.0
+1999,14,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,450,000",Mark Philippoussis,mark-philippoussis,$,2450000.0
+1999,15,ATP Masters Series Miami,Outdoor,Hard,"$2,700,000",Richard Krajicek,richard-krajicek,$,2700000.0
+1999,16,Casablanca,Outdoor,Clay,"$240,000",Alberto Martin,alberto-martin,$,240000.0
+1999,17,Chennai,Outdoor,Hard,"$430,000",Byron Black,byron-black,$,430000.0
+1999,18,Estoril,Outdoor,Clay,"$625,000",Albert Costa,albert-costa,$,625000.0
+1999,19,Hong Kong,Outdoor,Hard,"$350,000",Andre Agassi,andre-agassi,$,350000.0
+1999,20,Barcelona,Outdoor,Clay,"$950,000",Felix Mantilla,felix-mantilla,$,950000.0
+1999,21,Tokyo,Outdoor,Hard,"$725,000",Nicolas Kiefer,nicolas-kiefer,$,725000.0
+1999,22,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,450,000",Gustavo Kuerten,gustavo-kuerten,$,2450000.0
+1999,23,Orlando,Outdoor,Clay,"$289,250",Magnus Norman,magnus-norman,$,289250.0
+1999,24,Atlanta,Outdoor,Clay,"$350,000",Stefan Koubek,stefan-koubek,$,350000.0
+1999,25,Munich,Outdoor,Clay,"$525,000",Franco Squillari,franco-squillari,$,525000.0
+1999,26,Prague,Outdoor,Clay,"$500,000",Dominik Hrbaty,dominik-hrbaty,$,500000.0
+1999,27,Delray Beach,Outdoor,Hard,"$270,000",Lleyton Hewitt,lleyton-hewitt,$,270000.0
+1999,28,ATP Masters Series Hamburg,Outdoor,Clay,"$2,450,000",Marcelo Rios,marcelo-rios,$,2450000.0
+1999,29,ATP Masters Series Rome,Outdoor,Clay,"$2,450,000",Gustavo Kuerten,gustavo-kuerten,$,2450000.0
+1999,30,World Team Cup,Outdoor,Clay,"$1,650,000",Jonas Bjorkman,jonas-bjorkman,$,1650000.0
+1999,31,St. Poelten,Outdoor,Clay,"$425,000",Marcelo Rios,marcelo-rios,$,425000.0
+1999,32,Roland Garros,Outdoor,Clay,"$5,159,915",Andre Agassi,andre-agassi,$,5159915.0
+1999,33,Halle,Outdoor,Grass,"$900,000",Nicolas Kiefer,nicolas-kiefer,$,900000.0
+1999,34,London / Queen's Club,Outdoor,Grass,"$750,000",Pete Sampras,pete-sampras,$,750000.0
+1999,35,Merano,Outdoor,Clay,"$350,000",Fernando Vicente,fernando-vicente,$,350000.0
+1999,36,Nottingham,Outdoor,Grass,"$350,000",Cedric Pioline,cedric-pioline,$,350000.0
+1999,37,'s-Hertogenbosch,Outdoor,Grass,"$500,000",Patrick Rafter,patrick-rafter,$,500000.0
+1999,38,Wimbledon,Outdoor,Grass,"$5,614,685",Pete Sampras,pete-sampras,$,5614685.0
+1999,39,Bastad,Outdoor,Clay,"$350,000",Juan Antonio Marin,juan-antonio-marin,$,350000.0
+1999,40,Gstaad,Outdoor,Clay,"$550,000",Albert Costa,albert-costa,$,550000.0
+1999,41,Newport,Outdoor,Grass,"$320,000",Chris Woodruff,chris-woodruff,$,320000.0
+1999,42,Stuttgart Outdoor,Outdoor,Clay,"$1,040,000",Magnus Norman,magnus-norman,$,1040000.0
+1999,43,Kitzbuhel,Outdoor,Clay,"$525,000",Albert Costa,albert-costa,$,525000.0
+1999,44,Los Angeles,Outdoor,Hard,"$350,000",Pete Sampras,pete-sampras,$,350000.0
+1999,45,Umag,Outdoor,Clay,"$400,000",Magnus Norman,magnus-norman,$,400000.0
+1999,46,Amsterdam,Outdoor,Clay,"$500,000",Younes El Aynaoui,younes-el-aynaoui,$,500000.0
+1999,47,ATP Masters Series Canada,Outdoor,Hard,"$2,450,000",Thomas Johansson,thomas-johansson,$,2450000.0
+1999,48,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,450,000",Pete Sampras,pete-sampras,$,2450000.0
+1999,49,San Marino,Outdoor,Clay,"$300,000",Galo Blanco,galo-blanco,$,300000.0
+1999,50,Indianapolis,Outdoor,Hard,"$870,000",Nicolas Lapentti,nicolas-lapentti,$,870000.0
+1999,51,Washington,Outdoor,Hard,"$725,000",Andre Agassi,andre-agassi,$,725000.0
+1999,52,Boston,Outdoor,Hard,"$350,000",Marat Safin,marat-safin,$,350000.0
+1999,53,Long Island,Outdoor,Hard,"$350,000",Magnus Norman,magnus-norman,$,350000.0
+1999,54,US Open,Outdoor,Hard,"$6,235,000",Andre Agassi,andre-agassi,$,6235000.0
+1999,55,Bournemouth,Outdoor,Clay,"$400,000",Adrian Voinea,adrian-voinea,$,400000.0
+1999,56,Mallorca,Outdoor,Clay,"$500,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,500000.0
+1999,57,Tashkent,Outdoor,Hard,"$500,000",Nicolas Kiefer,nicolas-kiefer,$,500000.0
+1999,58,Bucharest,Outdoor,Clay,"$350,000",Alberto Martin,alberto-martin,$,350000.0
+1999,60,Toulouse,Indoor,Hard,"$400,000",Nicolas Escude,nicolas-escude,$,400000.0
+1999,61,Basel,Indoor,Carpet,"$1,000,000",Karol Kucera,karol-kucera,$,1000000.0
+1999,62,Palermo,Outdoor,Clay,"$350,000",Arnaud Di Pasquale,arnaud-di-pasquale,$,350000.0
+1999,63,Shanghai,Outdoor,Hard,"$350,000",Magnus Norman,magnus-norman,$,350000.0
+1999,64,Singapore,Indoor,Hard,"$725,000",Marcelo Rios,marcelo-rios,$,725000.0
+1999,65,Vienna,Indoor,Hard,"$800,000",Greg Rusedski,greg-rusedski,$,800000.0
+1999,66,Lyon,Indoor,Carpet,"$750,000",Nicolas Lapentti,nicolas-lapentti,$,750000.0
+1999,67,ATP Masters Series Stuttgart,Indoor,Hard,"$2,450,000",Thomas Enqvist,thomas-enqvist,$,2450000.0
+1999,68,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,550,000",Andre Agassi,andre-agassi,$,2550000.0
+1999,69,Moscow,Indoor,Carpet,"$1,000,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,1000000.0
+1999,70,Stockholm,Indoor,Hard,"$825,000",Thomas Enqvist,thomas-enqvist,$,825000.0
+1999,71,ATP Tour World Doubles Championship,Indoor,Carpet,"$900,000",,,$,900000.0
+1999,72,ATP Tour World Championship,Indoor,Hard,"$3,600,000",Pete Sampras,pete-sampras,$,3600000.0
+2000,0,Adelaide,Outdoor,Hard,"$350,000",Lleyton Hewitt,lleyton-hewitt,$,350000.0
+2000,1,Chennai,Outdoor,Hard,"$430,000",Jerome Golmard,jerome-golmard,$,430000.0
+2000,2,Doha,Outdoor,Hard,"$1,000,000",Fabrice Santoro,fabrice-santoro,$,1000000.0
+2000,3,Auckland,Outdoor,Hard,"$350,000",Magnus Norman,magnus-norman,$,350000.0
+2000,4,Sydney,Outdoor,Hard,"$350,000",Lleyton Hewitt,lleyton-hewitt,$,350000.0
+2000,5,Australian Open,Outdoor,Hard,"$3,864,414",Andre Agassi,andre-agassi,$,3864414.0
+2000,6,Dubai,Outdoor,Hard,"$1,000,000",Nicolas Kiefer,nicolas-kiefer,$,1000000.0
+2000,7,Marseille,Indoor,Hard,"$500,000",Marc Rosset,marc-rosset,$,500000.0
+2000,8,San Jose,Indoor,Hard,"$375,000",Mark Philippoussis,mark-philippoussis,$,375000.0
+2000,9,Memphis,Indoor,Hard,"$800,000",Magnus Larsson,magnus-larsson,$,800000.0
+2000,10,Rotterdam,Indoor,Hard,"$850,000",Cedric Pioline,cedric-pioline,$,850000.0
+2000,11,London,Indoor,Hard,"$800,000",Marc Rosset,marc-rosset,$,800000.0
+2000,12,Mexico City,Outdoor,Clay,"$800,000",Juan Ignacio Chela,juan-ignacio-chela,$,800000.0
+2000,13,Copenhagen,Indoor,Hard,"$350,000",Andreas Vinciguerra,andreas-vinciguerra,$,350000.0
+2000,14,Delray Beach,Outdoor,Hard,"$350,000",Stefan Koubek,stefan-koubek,$,350000.0
+2000,15,Santiago,Outdoor,Clay,"$375,000",Gustavo Kuerten,gustavo-kuerten,$,375000.0
+2000,16,Bogota,Outdoor,Clay,"$375,000",Mariano Puerta,mariano-puerta,$,375000.0
+2000,17,Scottsdale,Outdoor,Hard,"$375,000",Lleyton Hewitt,lleyton-hewitt,$,375000.0
+2000,18,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,950,000",Alex Corretja,alex-corretja,$,2950000.0
+2000,19,ATP Masters Series Miami,Outdoor,Hard,"$3,200,000",Pete Sampras,pete-sampras,$,3200000.0
+2000,20,Atlanta,Outdoor,Clay,"$375,000",Andrew Ilie,andrew-ilie,$,375000.0
+2000,21,Casablanca,Outdoor,Clay,"$350,000",Fernando Vicente,fernando-vicente,$,350000.0
+2000,22,Estoril,Outdoor,Clay,"$625,000",Carlos Moya,carlos-moya,$,625000.0
+2000,23,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,950,000",Cedric Pioline,cedric-pioline,$,2950000.0
+2000,24,Barcelona,Outdoor,Clay,"$1,000,000",Marat Safin,marat-safin,$,1000000.0
+2000,25,Mallorca,Outdoor,Clay,"$500,000",Marat Safin,marat-safin,$,500000.0
+2000,26,Munich,Outdoor,Clay,"$400,000",Franco Squillari,franco-squillari,$,400000.0
+2000,27,Orlando,Outdoor,Clay,"$350,000",Fernando Gonzalez,fernando-gonzalez,$,350000.0
+2000,28,ATP Masters Series Rome,Outdoor,Clay,"$2,950,000",Magnus Norman,magnus-norman,$,2950000.0
+2000,29,ATP Masters Series Hamburg,Outdoor,Clay,"$2,950,000",Gustavo Kuerten,gustavo-kuerten,$,2950000.0
+2000,30,World Team Cup,Outdoor,Clay,"$1,900,000",Dominik Hrbaty,dominik-hrbaty,$,1900000.0
+2000,31,St. Poelten,Outdoor,Clay,"$425,000",Andrei Pavel,andrei-pavel,$,425000.0
+2000,32,Roland Garros,Outdoor,Clay,"$4,564,505",Gustavo Kuerten,gustavo-kuerten,$,4564505.0
+2000,33,Halle,Outdoor,Grass,"$1,000,000",David Prinosil,david-prinosil,$,1000000.0
+2000,34,London / Queen's Club,Outdoor,Grass,"$800,000",Lleyton Hewitt,lleyton-hewitt,$,800000.0
+2000,35,Nottingham,Outdoor,Grass,"$375,000",Sebastien Grosjean,sebastien-grosjean,$,375000.0
+2000,36,'s-Hertogenbosch,Outdoor,Grass,"$400,000",Patrick Rafter,patrick-rafter,$,400000.0
+2000,37,Wimbledon,Outdoor,Grass,"$5,564,842",Pete Sampras,pete-sampras,$,5564842.0
+2000,38,Bastad,Outdoor,Clay,"$375,000",Magnus Norman,magnus-norman,$,375000.0
+2000,39,Gstaad,Outdoor,Clay,"$600,000",Alex Corretja,alex-corretja,$,600000.0
+2000,40,Newport,Outdoor,Grass,"$375,000",Peter Wessels,peter-wessels,$,375000.0
+2000,41,Amsterdam,Outdoor,Clay,"$400,000",Magnus Gustafsson,magnus-gustafsson,$,400000.0
+2000,42,Stuttgart Outdoor,Outdoor,Clay,"$1,000,000",Franco Squillari,franco-squillari,$,1000000.0
+2000,43,Umag,Outdoor,Clay,"$400,000",Marcelo Rios,marcelo-rios,$,400000.0
+2000,44,Kitzbuhel,Outdoor,Clay,"$750,000",Alex Corretja,alex-corretja,$,750000.0
+2000,45,Los Angeles,Outdoor,Hard,"$375,000",Michael Chang,michael-chang,$,375000.0
+2000,46,San Marino,Outdoor,Clay,"$350,000",Alex Calatrava,alex-calatrava,$,350000.0
+2000,47,ATP Masters Series Canada,Outdoor,Hard,"$2,450,000",Marat Safin,marat-safin,$,2450000.0
+2000,48,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,950,000",Thomas Enqvist,thomas-enqvist,$,2950000.0
+2000,49,Indianapolis,Outdoor,Hard,"$800,000",Gustavo Kuerten,gustavo-kuerten,$,800000.0
+2000,50,Washington,Outdoor,Hard,"$800,000",Alex Corretja,alex-corretja,$,800000.0
+2000,51,Long Island,Outdoor,Hard,"$415,200",Magnus Norman,magnus-norman,$,415200.0
+2000,52,US Open,Outdoor,Hard,"$6,467,000",Marat Safin,marat-safin,$,6467000.0
+2000,53,Bucharest,Outdoor,Clay,"$375,000",Juan Balcells,juan-balcells,$,375000.0
+2000,54,Tashkent,Outdoor,Hard,"$525,000",Marat Safin,marat-safin,$,525000.0
+2000,56,Palermo,Outdoor,Clay,"$375,000",Olivier Rochus,olivier-rochus,$,375000.0
+2000,57,Hong Kong,Outdoor,Hard,"$375,000",Nicolas Kiefer,nicolas-kiefer,$,375000.0
+2000,58,Tokyo,Outdoor,Hard,"$800,000",Sjeng Schalken,sjeng-schalken,$,800000.0
+2000,59,Vienna,Indoor,Hard,"$800,000",Tim Henman,tim-henman,$,800000.0
+2000,60,Shanghai,Outdoor,Hard,"$375,000",Magnus Norman,magnus-norman,$,375000.0
+2000,61,Toulouse,Indoor,Hard,"$400,000",Alex Corretja,alex-corretja,$,400000.0
+2000,62,Basel,Indoor,Carpet,"$1,000,000",Thomas Enqvist,thomas-enqvist,$,1000000.0
+2000,63,Moscow,Indoor,Carpet,"$1,000,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,1000000.0
+2000,64,ATP Masters Series Stuttgart,Indoor,Hard,"$2,950,000",Wayne Ferreira,wayne-ferreira,$,2950000.0
+2000,65,Lyon,Indoor,Carpet,"$800,000",Arnaud Clement,arnaud-clement,$,800000.0
+2000,66,St. Petersburg,Indoor,Hard,"$800,000",Marat Safin,marat-safin,$,800000.0
+2000,67,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,950,000",Marat Safin,marat-safin,$,2950000.0
+2000,68,Brighton,Indoor,Hard,"$400,000",Tim Henman,tim-henman,$,400000.0
+2000,69,Stockholm,Indoor,Hard,"$800,000",Thomas Johansson,thomas-johansson,$,800000.0
+2000,70,Tennis Masters Cup,Indoor,Hard,"$3,700,000",Gustavo Kuerten,gustavo-kuerten,$,3700000.0
+2000,71,Doubles Championship,Outdoor,Hard,"$750,000",,,$,750000.0
+2001,0,Adelaide,Outdoor,Hard,"$375,000",Tommy Haas,tommy-haas,$,375000.0
+2001,1,Chennai,Outdoor,Hard,"$400,000",Michal Tabara,michal-tabara,$,400000.0
+2001,2,Doha,Outdoor,Hard,"$1,000,000",Marcelo Rios,marcelo-rios,$,1000000.0
+2001,3,Auckland,Outdoor,Hard,"$375,000",Dominik Hrbaty,dominik-hrbaty,$,375000.0
+2001,4,Sydney,Outdoor,Hard,"$400,000",Lleyton Hewitt,lleyton-hewitt,$,400000.0
+2001,5,Australian Open,Outdoor,Hard,"$3,568,313",Andre Agassi,andre-agassi,$,3568313.0
+2001,6,Bogota,Outdoor,Clay,"$375,000",Fernando Vicente,fernando-vicente,$,375000.0
+2001,7,Milan,Indoor,Carpet,"$400,000",Roger Federer,roger-federer,$,400000.0
+2001,8,Copenhagen,Indoor,Hard,"$350,000",Tim Henman,tim-henman,$,350000.0
+2001,9,Marseille,Indoor,Hard,"$500,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,500000.0
+2001,10,Vina del Mar,Outdoor,Clay,"$375,000",Guillermo Coria,guillermo-coria,$,375000.0
+2001,11,Buenos Aires,Outdoor,Clay,"$600,000",Gustavo Kuerten,gustavo-kuerten,$,600000.0
+2001,12,Memphis,Indoor,Hard,"$800,000",Mark Philippoussis,mark-philippoussis,$,800000.0
+2001,13,Rotterdam,Indoor,Hard,"$850,000",Nicolas Escude,nicolas-escude,$,850000.0
+2001,14,Acapulco,Outdoor,Clay,"$800,000",Gustavo Kuerten,gustavo-kuerten,$,800000.0
+2001,15,Dubai,Outdoor,Hard,"$1,000,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,1000000.0
+2001,16,San Jose,Indoor,Hard,"$400,000",Greg Rusedski,greg-rusedski,$,400000.0
+2001,17,Delray Beach,Outdoor,Hard,"$350,000",Jan-Michael Gambill,jan-michael-gambill,$,350000.0
+2001,18,Scottsdale,Outdoor,Hard,"$400,000",Francisco Clavet,francisco-clavet,$,400000.0
+2001,19,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,950,000",Andre Agassi,andre-agassi,$,2950000.0
+2001,20,ATP Masters Series Miami,Outdoor,Hard,"$3,400,000",Andre Agassi,andre-agassi,$,3400000.0
+2001,21,Casablanca,Outdoor,Clay,"$350,000",Guillermo Canas,guillermo-canas,$,350000.0
+2001,22,Estoril,Outdoor,Clay,"$625,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,625000.0
+2001,23,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,950,000",Gustavo Kuerten,gustavo-kuerten,$,2950000.0
+2001,24,Atlanta,Outdoor,Clay,"$400,000",Andy Roddick,andy-roddick,$,400000.0
+2001,25,Barcelona,Outdoor,Clay,"$1,000,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,1000000.0
+2001,26,Houston,Outdoor,Clay,"$350,000",Andy Roddick,andy-roddick,$,350000.0
+2001,27,Mallorca,Outdoor,Clay,"$500,000",Alberto Martin,alberto-martin,$,500000.0
+2001,28,Munich,Outdoor,Clay,"$400,000",Jiri Novak,jiri-novak,$,400000.0
+2001,29,ATP Masters Series Rome,Outdoor,Clay,"$2,950,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,2950000.0
+2001,30,ATP Masters Series Hamburg,Outdoor,Clay,"$2,950,000",Albert Portas,albert-portas,$,2950000.0
+2001,31,World Team Cup,Outdoor,Clay,"$1,900,000",Lleyton Hewitt,lleyton-hewitt,$,1900000.0
+2001,32,St. Poelten,Outdoor,Clay,"$425,000",Andrea Gaudenzi,andrea-gaudenzi,$,425000.0
+2001,33,Roland Garros,Outdoor,Clay,"$4,700,806",Gustavo Kuerten,gustavo-kuerten,$,4700806.0
+2001,34,Halle,Outdoor,Grass,"$1,000,000",Thomas Johansson,thomas-johansson,$,1000000.0
+2001,35,London / Queen's Club,Outdoor,Grass,"$800,000",Lleyton Hewitt,lleyton-hewitt,$,800000.0
+2001,36,Nottingham,Outdoor,Grass,"$400,000",Thomas Johansson,thomas-johansson,$,400000.0
+2001,37,'s-Hertogenbosch,Outdoor,Grass,"$400,000",Lleyton Hewitt,lleyton-hewitt,$,400000.0
+2001,38,Wimbledon,Outdoor,Grass,"$5,476,164",Goran Ivanisevic,goran-ivanisevic,$,5476164.0
+2001,39,Bastad,Outdoor,Clay,"$400,000",Andrea Gaudenzi,andrea-gaudenzi,$,400000.0
+2001,40,Gstaad,Outdoor,Clay,"$600,000",Jiri Novak,jiri-novak,$,600000.0
+2001,41,Newport,Outdoor,Grass,"$400,000",Neville Godwin,neville-godwin,$,400000.0
+2001,42,Amsterdam,Outdoor,Clay,"$400,000",Alex Corretja,alex-corretja,$,400000.0
+2001,43,Stuttgart,Outdoor,Clay,"$800,000",Gustavo Kuerten,gustavo-kuerten,$,800000.0
+2001,44,Umag,Outdoor,Clay,"$400,000",Carlos Moya,carlos-moya,$,400000.0
+2001,45,Kitzbuhel,Outdoor,Clay,"$900,000",Nicolas Lapentti,nicolas-lapentti,$,900000.0
+2001,46,Los Angeles,Outdoor,Hard,"$400,000",Andre Agassi,andre-agassi,$,400000.0
+2001,47,Sopot - WS,Outdoor,Clay,"$400,000",Tommy Robredo,tommy-robredo,$,400000.0
+2001,48,ATP Masters Series Canada,Outdoor,Hard,"$2,950,000",Andrei Pavel,andrei-pavel,$,2950000.0
+2001,49,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,950,000",Gustavo Kuerten,gustavo-kuerten,$,2950000.0
+2001,50,Indianapolis,Outdoor,Hard,"$800,000",Patrick Rafter,patrick-rafter,$,800000.0
+2001,51,Washington,Outdoor,Hard,"$800,000",Andy Roddick,andy-roddick,$,800000.0
+2001,52,Long Island,Outdoor,Hard,"$415,200",Tommy Haas,tommy-haas,$,415200.0
+2001,53,US Open,Outdoor,Hard,"$6,578,000",Lleyton Hewitt,lleyton-hewitt,$,6578000.0
+2001,54,Bucharest,Outdoor,Clay,"$400,000",Younes El Aynaoui,younes-el-aynaoui,$,400000.0
+2001,55,Sao Paulo,Outdoor,Clay,"$375,000",Jan Vacek,jan-vacek,$,375000.0
+2001,56,Tashkent,Outdoor,Hard,"$550,000",Marat Safin,marat-safin,$,550000.0
+2001,57,Shanghai,Outdoor,Hard,"$400,000",Rainer Schuettler,rainer-schuettler,$,400000.0
+2001,58,Hong Kong,Outdoor,Hard,"$400,000",Marcelo Rios,marcelo-rios,$,400000.0
+2001,59,Palermo,Outdoor,Clay,"$400,000",Felix Mantilla,felix-mantilla,$,400000.0
+2001,60,Moscow,Indoor,Carpet,"$1,000,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,1000000.0
+2001,61,Tokyo,Outdoor,Hard,"$800,000",Lleyton Hewitt,lleyton-hewitt,$,800000.0
+2001,62,Lyon,Indoor,Carpet,"$800,000",Ivan Ljubicic,ivan-ljubicic,$,800000.0
+2001,63,Vienna,Indoor,Hard,"$800,000",Tommy Haas,tommy-haas,$,800000.0
+2001,64,ATP Masters Series Stuttgart,Indoor,Hard,"$2,950,000",Tommy Haas,tommy-haas,$,2950000.0
+2001,65,Basel,Indoor,Carpet,"$1,000,000",Tim Henman,tim-henman,$,1000000.0
+2001,66,St. Petersburg,Indoor,Hard,"$800,000",Marat Safin,marat-safin,$,800000.0
+2001,67,Stockholm,Indoor,Hard,"$800,000",Sjeng Schalken,sjeng-schalken,$,800000.0
+2001,68,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,950,000",Sebastien Grosjean,sebastien-grosjean,$,2950000.0
+2001,69,Tennis Masters Cup,Indoor,Hard,"$3,700,000",Lleyton Hewitt,lleyton-hewitt,$,3700000.0
+2001,70,ATP Doubles Challenge Cup,Outdoor,Hard,"$750,000",,,$,750000.0
+2002,0,Adelaide,Outdoor,Hard,"$357,000",Tim Henman,tim-henman,$,357000.0
+2002,1,Chennai,Outdoor,Hard,"$400,000",Guillermo Canas,guillermo-canas,$,400000.0
+2002,2,Doha,Outdoor,Hard,"$1,000,000",Younes El Aynaoui,younes-el-aynaoui,$,1000000.0
+2002,3,Auckland,Outdoor,Hard,"$357,000",Greg Rusedski,greg-rusedski,$,357000.0
+2002,4,Sydney,Outdoor,Hard,"$381,000",Roger Federer,roger-federer,$,381000.0
+2002,5,Australian Open,Outdoor,Hard,"$3,927,210",Thomas Johansson,thomas-johansson,$,3927210.0
+2002,6,Milan,Indoor,Carpet,"$381,000",Davide Sanguinetti,davide-sanguinetti,$,381000.0
+2002,7,Copenhagen,Indoor,Hard,"$381,000",Lars Burgsmuller,lars-burgsmuller,$,381000.0
+2002,8,Marseille,Indoor,Hard,"$476,000",Thomas Enqvist,thomas-enqvist,$,476000.0
+2002,9,Vina del Mar,Outdoor,Clay,"$381,000",Fernando Gonzalez,fernando-gonzalez,$,381000.0
+2002,10,Buenos Aires,Outdoor,Clay,"$425,000",Nicolas Massu,nicolas-massu,$,425000.0
+2002,11,Memphis,Indoor,Hard,"$725,000",Andy Roddick,andy-roddick,$,725000.0
+2002,12,Rotterdam,Indoor,Hard,"$738,000",Nicolas Escude,nicolas-escude,$,738000.0
+2002,13,Acapulco,Outdoor,Clay,"$725,000",Carlos Moya,carlos-moya,$,725000.0
+2002,14,Dubai,Outdoor,Hard,"$925,000",Fabrice Santoro,fabrice-santoro,$,925000.0
+2002,15,San Jose,Indoor,Hard,"$400,000",Lleyton Hewitt,lleyton-hewitt,$,400000.0
+2002,16,Delray Beach,Outdoor,Hard,"$400,000",Davide Sanguinetti,davide-sanguinetti,$,400000.0
+2002,17,Scottsdale,Outdoor,Hard,"$400,000",Andre Agassi,andre-agassi,$,400000.0
+2002,18,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,950,000",Lleyton Hewitt,lleyton-hewitt,$,2950000.0
+2002,19,ATP Masters Series Miami,Outdoor,Hard,"$3,575,000",Andre Agassi,andre-agassi,$,3575000.0
+2002,20,Casablanca,Outdoor,Clay,"$381,000",Younes El Aynaoui,younes-el-aynaoui,$,381000.0
+2002,21,Estoril,Outdoor,Clay,"$600,000",David Nalbandian,david-nalbandian,$,600000.0
+2002,22,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,950,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,2950000.0
+2002,23,Barcelona,Outdoor,Clay,"$955,000",Gaston Gaudio,gaston-gaudio,$,955000.0
+2002,24,Houston,Outdoor,Clay,"$400,000",Andy Roddick,andy-roddick,$,400000.0
+2002,25,Mallorca,Outdoor,Clay,"$381,000",Gaston Gaudio,gaston-gaudio,$,381000.0
+2002,26,Munich,Outdoor,Clay,"$381,000",Younes El Aynaoui,younes-el-aynaoui,$,381000.0
+2002,27,ATP Masters Series Rome,Outdoor,Clay,"$2,950,000",Andre Agassi,andre-agassi,$,2950000.0
+2002,28,ATP Masters Series Hamburg,Outdoor,Clay,"$2,950,000",Roger Federer,roger-federer,$,2950000.0
+2002,29,World Team Cup,Outdoor,Clay,"$2,100,000",Jose Acasuso,jose-acasuso,$,2100000.0
+2002,30,St. Poelten,Outdoor,Clay,"$381,000",Nicolas Lapentti,nicolas-lapentti,$,381000.0
+2002,31,Roland Garros,Outdoor,Clay,"$5,268,536",Albert Costa,albert-costa,$,5268536.0
+2002,32,Halle,Outdoor,Grass,"$951,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,951000.0
+2002,33,London / Queen's Club,Outdoor,Grass,"$761,000",Lleyton Hewitt,lleyton-hewitt,$,761000.0
+2002,34,Nottingham,Outdoor,Grass,"$381,000",Jonas Bjorkman,jonas-bjorkman,$,381000.0
+2002,35,'s-Hertogenbosch,Outdoor,Grass,"$381,000",Sjeng Schalken,sjeng-schalken,$,381000.0
+2002,36,Wimbledon,Outdoor,Grass,"$6,061,152",Lleyton Hewitt,lleyton-hewitt,$,6061152.0
+2002,37,Bastad,Outdoor,Clay,"$381,000",Carlos Moya,carlos-moya,$,381000.0
+2002,38,Gstaad,Outdoor,Clay,"$600,000",Alex Corretja,alex-corretja,$,600000.0
+2002,39,Newport,Outdoor,Grass,"$400,000",Taylor Dent,taylor-dent,$,400000.0
+2002,40,Amersfoort,Outdoor,Clay,"$381,000",Juan Ignacio Chela,juan-ignacio-chela,$,381000.0
+2002,41,Stuttgart,Outdoor,Clay,"$500,000",Mikhail Youzhny,mikhail-youzhny,$,500000.0
+2002,42,Umag,Outdoor,Clay,"$381,000",Carlos Moya,carlos-moya,$,381000.0
+2002,43,Kitzbuhel,Outdoor,Clay,"$880,000",Alex Corretja,alex-corretja,$,880000.0
+2002,44,Los Angeles,Outdoor,Hard,"$400,000",Andre Agassi,andre-agassi,$,400000.0
+2002,45,Sopot,Outdoor,Clay,"$381,000",Jose Acasuso,jose-acasuso,$,381000.0
+2002,46,ATP Masters Series Canada,Outdoor,Hard,"$2,950,000",Guillermo Canas,guillermo-canas,$,2950000.0
+2002,47,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,950,000",Carlos Moya,carlos-moya,$,2950000.0
+2002,48,Indianapolis,Outdoor,Hard,"$800,000",Greg Rusedski,greg-rusedski,$,800000.0
+2002,49,Washington,Outdoor,Hard,"$800,000",James Blake,james-blake,$,800000.0
+2002,50,Long Island,Outdoor,Hard,"$480,000",Paradorn Srichaphan,paradorn-srichaphan,$,480000.0
+2002,51,US Open,Outdoor,Hard,"$6,883,000",Pete Sampras,pete-sampras,$,6883000.0
+2002,52,Bucharest,Outdoor,Clay,"$381,000",David Ferrer,david-ferrer,$,381000.0
+2002,53,Sao Paulo,Outdoor,Clay,"$571,000",Gustavo Kuerten,gustavo-kuerten,$,571000.0
+2002,54,Tashkent,Outdoor,Hard,"$550,000",Yevgeny Kafelnikov,yevgeny-kafelnikov,$,550000.0
+2002,55,Hong Kong,Outdoor,Hard,"$400,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,400000.0
+2002,56,Palermo,Outdoor,Clay,"$381,000",Fernando Gonzalez,fernando-gonzalez,$,381000.0
+2002,57,Moscow,Indoor,Carpet,"$1,000,000",Paul-Henri Mathieu,paul-henri-mathieu,$,1000000.0
+2002,58,Tokyo,Outdoor,Hard,"$800,000",Kenneth Carlsen,kenneth-carlsen,$,800000.0
+2002,59,Lyon,Indoor,Carpet,"$761,000",Paul-Henri Mathieu,paul-henri-mathieu,$,761000.0
+2002,60,Vienna,Indoor,Hard,"$765,000",Roger Federer,roger-federer,$,765000.0
+2002,61,ATP Masters Series Madrid,Indoor,Hard,"$2,950,000",Andre Agassi,andre-agassi,$,2950000.0
+2002,62,Basel,Indoor,Carpet,"$1,000,000",David Nalbandian,david-nalbandian,$,1000000.0
+2002,63,St. Petersburg,Indoor,Hard,"$1,000,000",Sebastien Grosjean,sebastien-grosjean,$,1000000.0
+2002,64,Stockholm,Indoor,Hard,"$650,000",Paradorn Srichaphan,paradorn-srichaphan,$,650000.0
+2002,65,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,950,000",Marat Safin,marat-safin,$,2950000.0
+2002,66,Tennis Masters Cup,Indoor,Hard,"$3,700,000",Lleyton Hewitt,lleyton-hewitt,$,3700000.0
+2003,0,Adelaide,Outdoor,Hard,"$347,000",Nikolay Davydenko,nikolay-davydenko,$,347000.0
+2003,1,Chennai,Outdoor,Hard,"$380,000",Paradorn Srichaphan,paradorn-srichaphan,$,380000.0
+2003,2,Doha,Outdoor,Hard,"$1,000,000",Stefan Koubek,stefan-koubek,$,1000000.0
+2003,3,Auckland,Outdoor,Hard,"$347,000",Gustavo Kuerten,gustavo-kuerten,$,347000.0
+2003,4,Sydney,Outdoor,Hard,"$347,000",Hyung-Taik Lee,hyung-taik-lee,$,347000.0
+2003,5,Australian Open,Outdoor,Hard,"$4,861,502",Andre Agassi,andre-agassi,$,4861502.0
+2003,6,Milan,Indoor,Carpet,"$380,000",Martin Verkerk,martin-verkerk,$,380000.0
+2003,7,Marseille,Indoor,Hard,"$500,000",Roger Federer,roger-federer,$,500000.0
+2003,8,San Jose,Indoor,Hard,"$380,000",Andre Agassi,andre-agassi,$,380000.0
+2003,9,Viña del Mar,Outdoor,Clay,"$345,000",David Sanchez,david-sanchez,$,345000.0
+2003,10,Buenos Aires,Outdoor,Clay,"$380,000",Carlos Moya,carlos-moya,$,380000.0
+2003,11,Memphis,Indoor,Hard,"$690,000",Taylor Dent,taylor-dent,$,690000.0
+2003,12,Rotterdam,Indoor,Hard,"$825,000",Max Mirnyi,max-mirnyi,$,825000.0
+2003,13,Acapulco,Outdoor,Clay,"$690,000",Agustin Calleri,agustin-calleri,$,690000.0
+2003,14,Copenhagen,Indoor,Hard,"$380,000",Karol Kucera,karol-kucera,$,380000.0
+2003,15,Dubai,Outdoor,Hard,"$1,000,000",Roger Federer,roger-federer,$,1000000.0
+2003,16,Delray Beach,Outdoor,Hard,"$380,000",Jan-Michael Gambill,jan-michael-gambill,$,380000.0
+2003,17,Scottsdale,Outdoor,Hard,"$380,000",Lleyton Hewitt,lleyton-hewitt,$,380000.0
+2003,18,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,450,000",Lleyton Hewitt,lleyton-hewitt,$,2450000.0
+2003,19,ATP Masters Series Miami,Outdoor,Hard,"$3,250,000",Andre Agassi,andre-agassi,$,3250000.0
+2003,20,Casablanca,Outdoor,Clay,"$400,000",Julien Boutter,julien-boutter,$,400000.0
+2003,21,Estoril,Outdoor,Clay,"$525,000",Nikolay Davydenko,nikolay-davydenko,$,525000.0
+2003,22,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,450,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,2450000.0
+2003,23,Barcelona,Outdoor,Clay,"$1,000,000",Carlos Moya,carlos-moya,$,1000000.0
+2003,24,Houston,Outdoor,Clay,"$380,000",Andre Agassi,andre-agassi,$,380000.0
+2003,25,Munich,Outdoor,Clay,"$380,000",Roger Federer,roger-federer,$,380000.0
+2003,26,Valencia,Outdoor,Clay,"$400,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,400000.0
+2003,27,ATP Masters Series Rome,Outdoor,Clay,"$2,450,000",Felix Mantilla,felix-mantilla,$,2450000.0
+2003,28,ATP Masters Series Hamburg,Outdoor,Clay,"$2,450,000",Guillermo Coria,guillermo-coria,$,2450000.0
+2003,29,World Team Championship,Outdoor,Clay,"$1,850,000",Fernando Gonzalez,fernando-gonzalez,$,1850000.0
+2003,30,St. Poelten,Outdoor,Clay,"$380,000",Andy Roddick,andy-roddick,$,380000.0
+2003,31,Roland Garros,Outdoor,Clay,"$7,202,717",Juan Carlos Ferrero,juan-carlos-ferrero,$,7202717.0
+2003,32,Halle,Outdoor,Grass,"$775,000",Roger Federer,roger-federer,$,775000.0
+2003,33,London / Queen's Club,Outdoor,Grass,"$800,000",Andy Roddick,andy-roddick,$,800000.0
+2003,34,Nottingham,Outdoor,Grass,"$380,000",Greg Rusedski,greg-rusedski,$,380000.0
+2003,35,'s-Hertogenbosch,Outdoor,Grass,"$380,000",Sjeng Schalken,sjeng-schalken,$,380000.0
+2003,36,Wimbledon,Outdoor,Grass,"$7,229,232",Roger Federer,roger-federer,$,7229232.0
+2003,37,Bastad,Outdoor,Clay,"$380,000",Mariano Zabaleta,mariano-zabaleta,$,380000.0
+2003,38,Gstaad,Outdoor,Clay,"$550,000",Jiri Novak,jiri-novak,$,550000.0
+2003,39,Newport,Outdoor,Grass,"$380,000",Robby Ginepri,robby-ginepri,$,380000.0
+2003,40,Amersfoort,Outdoor,Clay,"$380,000",Nicolas Massu,nicolas-massu,$,380000.0
+2003,41,Stuttgart,Outdoor,Clay,"$765,000",Guillermo Coria,guillermo-coria,$,765000.0
+2003,42,Indianapolis,Outdoor,Hard,"$600,000",Andy Roddick,andy-roddick,$,600000.0
+2003,43,Kitzbuhel,Outdoor,Clay,"$925,000",Guillermo Coria,guillermo-coria,$,925000.0
+2003,44,Umag,Outdoor,Clay,"$400,000",Carlos Moya,carlos-moya,$,400000.0
+2003,45,Los Angeles,Outdoor,Hard,"$380,000",Wayne Ferreira,wayne-ferreira,$,380000.0
+2003,46,Sopot,Outdoor,Clay,"$500,000",Guillermo Coria,guillermo-coria,$,500000.0
+2003,47,Washington,Outdoor,Hard,"$600,000",Tim Henman,tim-henman,$,600000.0
+2003,48,ATP Masters Series Canada,Outdoor,Hard,"$2,450,000",Andy Roddick,andy-roddick,$,2450000.0
+2003,49,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,450,000",Andy Roddick,andy-roddick,$,2450000.0
+2003,50,Long Island,Outdoor,Hard,"$380,000",Paradorn Srichaphan,paradorn-srichaphan,$,380000.0
+2003,51,US Open,Outdoor,Hard,"$7,336,000",Andy Roddick,andy-roddick,$,7336000.0
+2003,52,Bucharest,Outdoor,Clay,"$380,000",David Sanchez,david-sanchez,$,380000.0
+2003,53,Sao Paulo,Outdoor,Clay,"$380,000",Sjeng Schalken,sjeng-schalken,$,380000.0
+2003,54,Bangkok,Indoor,Hard,"$525,000",Taylor Dent,taylor-dent,$,525000.0
+2003,55,Palermo,Outdoor,Clay,"$380,000",Nicolas Massu,nicolas-massu,$,380000.0
+2003,56,Shanghai,Outdoor,Hard,"$380,000",Mark Philippoussis,mark-philippoussis,$,380000.0
+2003,57,Metz,Indoor,Hard,"$380,000",Arnaud Clement,arnaud-clement,$,380000.0
+2003,58,Moscow,Indoor,Carpet,"$1,000,000",Taylor Dent,taylor-dent,$,1000000.0
+2003,59,Tokyo,Outdoor,Hard,"$690,000",Rainer Schuettler,rainer-schuettler,$,690000.0
+2003,60,Lyon,Indoor,Carpet,"$800,000",Rainer Schuettler,rainer-schuettler,$,800000.0
+2003,61,Vienna,Indoor,Hard,"$765,000",Roger Federer,roger-federer,$,765000.0
+2003,62,ATP Masters Series Madrid,Indoor,Hard,"$2,240,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,2240000.0
+2003,63,Basel,Indoor,Carpet,"$1,000,000",Guillermo Coria,guillermo-coria,$,1000000.0
+2003,64,St. Petersburg,Indoor,Hard,"$1,000,000",Gustavo Kuerten,gustavo-kuerten,$,1000000.0
+2003,65,Stockholm,Indoor,Hard,"$650,000",Mardy Fish,mardy-fish,$,650000.0
+2003,66,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,240,000",Tim Henman,tim-henman,$,2240000.0
+2003,67,Tennis Masters Cup,Outdoor,Hard,"$3,700,000",Roger Federer,roger-federer,$,3700000.0
+2004,0,Adelaide,Outdoor,Hard,"$380,000",Dominik Hrbaty,dominik-hrbaty,$,380000.0
+2004,1,Chennai,Outdoor,Hard,"$380,000",Carlos Moya,carlos-moya,$,380000.0
+2004,2,Doha,Outdoor,Hard,"$1,000,000",Nicolas Escude,nicolas-escude,$,1000000.0
+2004,3,Auckland,Outdoor,Hard,"$404,000",Dominik Hrbaty,dominik-hrbaty,$,404000.0
+2004,4,Sydney,Outdoor,Hard,"$380,000",Lleyton Hewitt,lleyton-hewitt,$,380000.0
+2004,5,Australian Open,Outdoor,Hard,"$6,736,438",Roger Federer,roger-federer,$,6736438.0
+2004,6,Milan,Indoor,Carpet,"$380,000",Antony Dupuis,antony-dupuis,$,380000.0
+2004,7,San Jose,Indoor,Hard,"$380,000",Andy Roddick,andy-roddick,$,380000.0
+2004,8,Viña del Mar,Outdoor,Clay,"$333,000",Fernando Gonzalez,fernando-gonzalez,$,333000.0
+2004,9,Buenos Aires,Outdoor,Clay,"$380,000",Guillermo Coria,guillermo-coria,$,380000.0
+2004,10,Memphis,Indoor,Hard,"$690,000",Joachim Johansson,joachim-johansson,$,690000.0
+2004,11,Rotterdam,Indoor,Hard,"$875,505",Lleyton Hewitt,lleyton-hewitt,$,875505.0
+2004,12,Marseille,Indoor,Hard,"$600,000",Dominik Hrbaty,dominik-hrbaty,$,600000.0
+2004,13,Sao Paulo,Outdoor,Clay,"$380,000",Gustavo Kuerten,gustavo-kuerten,$,380000.0
+2004,14,Acapulco,Outdoor,Clay,"$652,000",Carlos Moya,carlos-moya,$,652000.0
+2004,15,Dubai,Outdoor,Hard,"$1,000,000",Roger Federer,roger-federer,$,1000000.0
+2004,16,Scottsdale,Outdoor,Hard,"$380,000",Vincent Spadea,vincent-spadea,$,380000.0
+2004,17,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,779,000",Roger Federer,roger-federer,$,2779000.0
+2004,18,ATP Masters Series Miami,Outdoor,Hard,"$3,450,000",Andy Roddick,andy-roddick,$,3450000.0
+2004,19,Estoril,Outdoor,Clay,"$525,000",Juan Ignacio Chela,juan-ignacio-chela,$,525000.0
+2004,20,Houston,Outdoor,Clay,"$380,000",Tommy Haas,tommy-haas,$,380000.0
+2004,21,Valencia,Outdoor,Clay,"$400,000",Fernando Verdasco,fernando-verdasco,$,400000.0
+2004,22,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,450,000",Guillermo Coria,guillermo-coria,$,2450000.0
+2004,23,Barcelona,Outdoor,Clay,"$1,000,000",Tommy Robredo,tommy-robredo,$,1000000.0
+2004,24,Munich,Outdoor,Clay,"$380,000",Nikolay Davydenko,nikolay-davydenko,$,380000.0
+2004,25,ATP Masters Series Rome,Outdoor,Clay,"$2,450,000",Carlos Moya,carlos-moya,$,2450000.0
+2004,26,ATP Masters Series Hamburg,Outdoor,Clay,"$2,450,000",Roger Federer,roger-federer,$,2450000.0
+2004,27,Casablanca,Outdoor,Clay,"$380,000",Santiago Ventura,santiago-ventura,$,380000.0
+2004,28,World Team Championship,Outdoor,Clay,"$1,850,000",Nicolas Massu,nicolas-massu,$,1850000.0
+2004,29,St. Poelten,Outdoor,Clay,"$380,000",Filippo Volandri,filippo-volandri,$,380000.0
+2004,30,Roland Garros,Outdoor,Clay,"$7,462,318",Gaston Gaudio,gaston-gaudio,$,7462318.0
+2004,31,Halle,Outdoor,Grass,"$791,750",Roger Federer,roger-federer,$,791750.0
+2004,32,London / Queen's Club,Outdoor,Grass,"$791,750",Andy Roddick,andy-roddick,$,791750.0
+2004,33,Nottingham,Outdoor,Grass,"$380,000",Paradorn Srichaphan,paradorn-srichaphan,$,380000.0
+2004,34,'s-Hertogenbosch,Outdoor,Grass,"$380,000",Michael Llodra,michael-llodra,$,380000.0
+2004,35,Wimbledon,Outdoor,Grass,"$8,328,704",Roger Federer,roger-federer,$,8328704.0
+2004,36,Bastad,Outdoor,Clay,"$380,000",Mariano Zabaleta,mariano-zabaleta,$,380000.0
+2004,37,Gstaad,Outdoor,Clay,"$544,750",Roger Federer,roger-federer,$,544750.0
+2004,38,Newport,Outdoor,Grass,"$380,000",Greg Rusedski,greg-rusedski,$,380000.0
+2004,39,Amersfoort,Outdoor,Clay,"$380,000",Martin Verkerk,martin-verkerk,$,380000.0
+2004,40,Los Angeles,Outdoor,Hard,"$380,000",Tommy Haas,tommy-haas,$,380000.0
+2004,41,Stuttgart,Outdoor,Clay,"$614,750",Guillermo Canas,guillermo-canas,$,614750.0
+2004,42,Indianapolis,Outdoor,Hard,"$600,000",Andy Roddick,andy-roddick,$,600000.0
+2004,43,Kitzbuhel,Outdoor,Clay,"$800,000",Nicolas Massu,nicolas-massu,$,800000.0
+2004,44,Umag,Outdoor,Clay,"$395,750",Guillermo Canas,guillermo-canas,$,395750.0
+2004,45,ATP Masters Series Canada,Outdoor,Hard,"$2,564,000",Roger Federer,roger-federer,$,2564000.0
+2004,46,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,450,000",Andre Agassi,andre-agassi,$,2450000.0
+2004,47,Sopot,Outdoor,Clay,"$500,000",Rafael Nadal,rafael-nadal,$,500000.0
+2004,49,Washington,Outdoor,Hard,"$500,000",Lleyton Hewitt,lleyton-hewitt,$,500000.0
+2004,50,Long Island,Outdoor,Hard,"$380,000",Lleyton Hewitt,lleyton-hewitt,$,380000.0
+2004,51,US Open,Outdoor,Hard,"$7,696,000",Roger Federer,roger-federer,$,7696000.0
+2004,52,Beijing,Outdoor,Hard,"$500,000",Marat Safin,marat-safin,$,500000.0
+2004,53,Bucharest,Outdoor,Clay,"$380,000",Jose Acasuso,jose-acasuso,$,380000.0
+2004,54,Delray Beach,Outdoor,Hard,"$380,000",Ricardo Mello,ricardo-mello,$,380000.0
+2004,55,Bangkok,Indoor,Hard,"$550,000",Roger Federer,roger-federer,$,550000.0
+2004,56,Palermo,Outdoor,Clay,"$380,000",Tomas Berdych,tomas-berdych,$,380000.0
+2004,57,Shanghai,Outdoor,Hard,"$380,000",Guillermo Canas,guillermo-canas,$,380000.0
+2004,58,Lyon,Indoor,Carpet,"$791,750",Robin Soderling,robin-soderling,$,791750.0
+2004,59,Tokyo,Outdoor,Hard,"$775,000",Jiri Novak,jiri-novak,$,775000.0
+2004,60,Metz,Indoor,Hard,"$380,000",Jerome Haehnel,jerome-haehnel,$,380000.0
+2004,61,Moscow,Indoor,Carpet,"$1,000,000",Nikolay Davydenko,nikolay-davydenko,$,1000000.0
+2004,62,Vienna,Indoor,Hard,"$682,750",Feliciano Lopez,feliciano-lopez,$,682750.0
+2004,63,ATP Masters Series Madrid,Indoor,Hard,"$2,425,500",Marat Safin,marat-safin,$,2425500.0
+2004,64,Basel,Indoor,Carpet,"$1,000,000",Jiri Novak,jiri-novak,$,1000000.0
+2004,65,St. Petersburg,Indoor,Carpet,"$1,000,000",Mikhail Youzhny,mikhail-youzhny,$,1000000.0
+2004,66,Stockholm,Indoor,Hard,"$643,750",Thomas Johansson,thomas-johansson,$,643750.0
+2004,67,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,425,500",Marat Safin,marat-safin,$,2425500.0
+2004,68,Tennis Masters Cup,Outdoor,Hard,"$3,700,000",Roger Federer,roger-federer,$,3700000.0
+2005,0,Adelaide,Outdoor,Hard,"$419,000",Joachim Johansson,joachim-johansson,$,419000.0
+2005,1,Chennai,Outdoor,Hard,"$380,000",Carlos Moya,carlos-moya,$,380000.0
+2005,2,Doha,Outdoor,Hard,"$1,000,000",Roger Federer,roger-federer,$,1000000.0
+2005,3,Auckland,Outdoor,Hard,"$426,000",Fernando Gonzalez,fernando-gonzalez,$,426000.0
+2005,4,Sydney,Outdoor,Hard,"$419,000",Lleyton Hewitt,lleyton-hewitt,$,419000.0
+2005,5,Australian Open,Outdoor,Hard,"$6,743,444",Marat Safin,marat-safin,$,6743444.0
+2005,6,Delray Beach,Outdoor,Hard,"$380,000",Xavier Malisse,xavier-malisse,$,380000.0
+2005,7,Milan,Indoor,Carpet,"$380,000",Robin Soderling,robin-soderling,$,380000.0
+2005,8,Viña del Mar,Outdoor,Clay,"$380,000",Gaston Gaudio,gaston-gaudio,$,380000.0
+2005,9,Buenos Aires,Outdoor,Clay,"$380,000",Gaston Gaudio,gaston-gaudio,$,380000.0
+2005,10,Marseille,Indoor,Hard,"$600,000",Joachim Johansson,joachim-johansson,$,600000.0
+2005,11,San Jose,Indoor,Hard,"$380,000",Andy Roddick,andy-roddick,$,380000.0
+2005,12,Memphis,Indoor,Hard,"$690,000",Kenneth Carlsen,kenneth-carlsen,$,690000.0
+2005,13,Rotterdam,Indoor,Hard,"$925,000",Roger Federer,roger-federer,$,925000.0
+2005,14,Sao Paulo,Outdoor,Clay,"$380,000",Rafael Nadal,rafael-nadal,$,380000.0
+2005,15,Acapulco,Outdoor,Clay,"$643,000",Rafael Nadal,rafael-nadal,$,643000.0
+2005,16,Dubai,Outdoor,Hard,"$1,000,000",Roger Federer,roger-federer,$,1000000.0
+2005,17,Scottsdale,Outdoor,Hard,"$380,000",Wayne Arthurs,wayne-arthurs,$,380000.0
+2005,18,ATP Masters Series Indian Wells,Outdoor,Hard,"$2,974,600",Roger Federer,roger-federer,$,2974600.0
+2005,19,ATP Masters Series Miami,Outdoor,Hard,"$3,450,000",Roger Federer,roger-federer,$,3450000.0
+2005,20,Casablanca,Outdoor,Clay,"$380,000",Mariano Puerta,mariano-puerta,$,380000.0
+2005,21,Valencia,Outdoor,Clay,"$400,000",Igor Andreev,igor-andreev,$,400000.0
+2005,22,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,450,000",Rafael Nadal,rafael-nadal,$,2450000.0
+2005,23,Barcelona,Outdoor,Clay,"$1,000,000",Rafael Nadal,rafael-nadal,$,1000000.0
+2005,24,Houston,Outdoor,Clay,"$380,000",Andy Roddick,andy-roddick,$,380000.0
+2005,25,Estoril,Outdoor,Clay,"$625,000",Gaston Gaudio,gaston-gaudio,$,625000.0
+2005,26,Munich,Outdoor,Clay,"$380,000",David Nalbandian,david-nalbandian,$,380000.0
+2005,27,ATP Masters Series Rome,Outdoor,Clay,"$2,450,000",Rafael Nadal,rafael-nadal,$,2450000.0
+2005,28,ATP Masters Series Hamburg,Outdoor,Clay,"$2,450,000",Roger Federer,roger-federer,$,2450000.0
+2005,29,World Team Championship,Outdoor,Clay,"$1,500,000",Guillermo Coria,guillermo-coria,$,1500000.0
+2005,30,St. Poelten,Outdoor,Clay,"$380,000",Nikolay Davydenko,nikolay-davydenko,$,380000.0
+2005,31,Roland Garros,Outdoor,Clay,"$7,992,394",Rafael Nadal,rafael-nadal,$,7992394.0
+2005,32,Halle,Outdoor,Grass,"$800,000",Roger Federer,roger-federer,$,800000.0
+2005,33,London / Queen's Club,Outdoor,Grass,"$800,000",Andy Roddick,andy-roddick,$,800000.0
+2005,34,Nottingham,Outdoor,Grass,"$380,000",Richard Gasquet,richard-gasquet,$,380000.0
+2005,35,'s-Hertogenbosch,Outdoor,Grass,"$380,000",Mario Ancic,mario-ancic,$,380000.0
+2005,36,Wimbledon,Outdoor,Grass,"$8,616,793",Roger Federer,roger-federer,$,8616793.0
+2005,37,Bastad,Outdoor,Clay,"$380,000",Rafael Nadal,rafael-nadal,$,380000.0
+2005,38,Gstaad,Outdoor,Clay,"$495,000",Gaston Gaudio,gaston-gaudio,$,495000.0
+2005,39,Newport,Outdoor,Grass,"$380,000",Greg Rusedski,greg-rusedski,$,380000.0
+2005,40,Amersfoort,Outdoor,Clay,"$380,000",Fernando Gonzalez,fernando-gonzalez,$,380000.0
+2005,41,Indianapolis,Outdoor,Hard,"$600,000",Robby Ginepri,robby-ginepri,$,600000.0
+2005,42,Stuttgart,Outdoor,Clay,"$719,000",Rafael Nadal,rafael-nadal,$,719000.0
+2005,43,Kitzbuhel,Outdoor,Clay,"$760,000",Gaston Gaudio,gaston-gaudio,$,760000.0
+2005,44,Los Angeles,Outdoor,Hard,"$380,000",Andre Agassi,andre-agassi,$,380000.0
+2005,45,Umag,Outdoor,Clay,"$400,000",Guillermo Coria,guillermo-coria,$,400000.0
+2005,46,Sopot,Outdoor,Clay,"$500,000",Gael Monfils,gael-monfils,$,500000.0
+2005,47,Washington,Outdoor,Hard,"$600,000",Andy Roddick,andy-roddick,$,600000.0
+2005,48,ATP Masters Series Canada,Outdoor,Hard,"$2,450,000",Rafael Nadal,rafael-nadal,$,2450000.0
+2005,49,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,450,000",Roger Federer,roger-federer,$,2450000.0
+2005,50,New Haven,Outdoor,Hard,"$675,000",James Blake,james-blake,$,675000.0
+2005,51,US Open,Outdoor,Hard,"$8,200,000",Roger Federer,roger-federer,$,8200000.0
+2005,52,Beijing,Outdoor,Hard,"$500,000",Rafael Nadal,rafael-nadal,$,500000.0
+2005,53,Bucharest,Outdoor,Clay,"$380,000",Florent Serra,florent-serra,$,380000.0
+2005,54,Bangkok,Indoor,Hard,"$550,000",Roger Federer,roger-federer,$,550000.0
+2005,55,Ho Chi Minh City,Indoor,Carpet,"$380,000",Jonas Bjorkman,jonas-bjorkman,$,380000.0
+2005,56,Palermo,Outdoor,Clay,"$380,000",Igor Andreev,igor-andreev,$,380000.0
+2005,57,Metz,Indoor,Hard,"$380,000",Ivan Ljubicic,ivan-ljubicic,$,380000.0
+2005,58,Tokyo,Outdoor,Hard,"$765,000",Wesley Moodie,wesley-moodie,$,765000.0
+2005,59,Moscow,Indoor,Carpet,"$1,000,000",Igor Andreev,igor-andreev,$,1000000.0
+2005,60,Stockholm,Indoor,Hard,"$800,000",James Blake,james-blake,$,800000.0
+2005,61,Vienna,Indoor,Hard,"$689,000",Ivan Ljubicic,ivan-ljubicic,$,689000.0
+2005,62,ATP Masters Series Madrid,Indoor,Hard,"$2,450,000",Rafael Nadal,rafael-nadal,$,2450000.0
+2005,63,Basel,Indoor,Carpet,"$1,000,000",Fernando Gonzalez,fernando-gonzalez,$,1000000.0
+2005,64,Lyon,Indoor,Carpet,"$800,000",Andy Roddick,andy-roddick,$,800000.0
+2005,65,St. Petersburg,Indoor,Carpet,"$1,000,000",Thomas Johansson,thomas-johansson,$,1000000.0
+2005,66,ATP Masters Series Paris,Indoor,Carpet,"$2,450,000",Tomas Berdych,tomas-berdych,$,2450000.0
+2005,67,Tennis Masters Cup,Indoor,Carpet,"$3,700,000",David Nalbandian,david-nalbandian,$,3700000.0
+2006,0,Adelaide,Outdoor,Hard,"$419,000",Florent Serra,florent-serra,$,419000.0
+2006,1,Chennai,Outdoor,Hard,"$380,000",Ivan Ljubicic,ivan-ljubicic,$,380000.0
+2006,2,Doha,Outdoor,Hard,"$1,000,000",Roger Federer,roger-federer,$,1000000.0
+2006,3,Auckland,Outdoor,Hard,"$430,000",Jarkko Nieminen,jarkko-nieminen,$,430000.0
+2006,4,Sydney,Outdoor,Hard,"$419,000",James Blake,james-blake,$,419000.0
+2006,5,Australian Open,Outdoor,Hard,"$6,784,589",Roger Federer,roger-federer,$,6784589.0
+2006,6,Delray Beach,Outdoor,Hard,"$380,000",Tommy Haas,tommy-haas,$,380000.0
+2006,7,Viña del Mar,Outdoor,Clay,"$380,000",Jose Acasuso,jose-acasuso,$,380000.0
+2006,8,Zagreb,Indoor,Carpet,"$380,000",Ivan Ljubicic,ivan-ljubicic,$,380000.0
+2006,9,Buenos Aires,Outdoor,Clay,"$425,000",Carlos Moya,carlos-moya,$,425000.0
+2006,10,Marseille,Indoor,Hard,"$600,000",Arnaud Clement,arnaud-clement,$,600000.0
+2006,11,San Jose,Indoor,Hard,"$380,000",Andy Murray,andy-murray,$,380000.0
+2006,12,Memphis,Indoor,Hard,"$690,000",Tommy Haas,tommy-haas,$,690000.0
+2006,13,Rotterdam,Indoor,Hard,"$925,000",Radek Stepanek,radek-stepanek,$,925000.0
+2006,14,Sao Paulo,Outdoor,Clay,"$380,000",Nicolas Massu,nicolas-massu,$,380000.0
+2006,15,Acapulco,Outdoor,Clay,"$690,000",Luis Horna,luis-horna,$,690000.0
+2006,16,Dubai,Outdoor,Hard,"$1,000,000",Rafael Nadal,rafael-nadal,$,1000000.0
+2006,17,Las Vegas,Outdoor,Hard,"$380,000",James Blake,james-blake,$,380000.0
+2006,18,ATP Masters Series Indian Wells,Outdoor,Hard,"$3,169,600",Roger Federer,roger-federer,$,3169600.0
+2006,19,ATP Masters Series Miami,Outdoor,Hard,"$3,450,000",Roger Federer,roger-federer,$,3450000.0
+2006,20,Houston,Outdoor,Clay,"$380,000",Mardy Fish,mardy-fish,$,380000.0
+2006,21,Valencia,Outdoor,Clay,"$400,000",Nicolas Almagro,nicolas-almagro,$,400000.0
+2006,22,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,450,000",Rafael Nadal,rafael-nadal,$,2450000.0
+2006,23,Barcelona,Outdoor,Clay,"$1,000,000",Rafael Nadal,rafael-nadal,$,1000000.0
+2006,24,Casablanca,Outdoor,Clay,"$380,000",Daniele Bracciali,daniele-bracciali,$,380000.0
+2006,25,Estoril,Outdoor,Clay,"$625,000",David Nalbandian,david-nalbandian,$,625000.0
+2006,26,Munich,Outdoor,Clay,"$380,000",Olivier Rochus,olivier-rochus,$,380000.0
+2006,27,ATP Masters Series Rome,Outdoor,Clay,"$2,450,000",Rafael Nadal,rafael-nadal,$,2450000.0
+2006,28,ATP Masters Series Hamburg,Outdoor,Clay,"$2,450,000",Tommy Robredo,tommy-robredo,$,2450000.0
+2006,29,World Team Championship,Outdoor,Clay,"$1,764,706",Ivo Karlovic,ivo-karlovic,$,1764706.0
+2006,30,Poertschach,Outdoor,Clay,"$380,000",Nikolay Davydenko,nikolay-davydenko,$,380000.0
+2006,31,Roland Garros,Outdoor,Clay,"$8,543,691",Rafael Nadal,rafael-nadal,$,8543691.0
+2006,32,Halle,Outdoor,Grass,"$800,000",Roger Federer,roger-federer,$,800000.0
+2006,33,London / Queen's Club,Outdoor,Grass,"$800,000",Lleyton Hewitt,lleyton-hewitt,$,800000.0
+2006,34,Nottingham,Outdoor,Grass,"$380,000",Richard Gasquet,richard-gasquet,$,380000.0
+2006,35,'s-Hertogenbosch,Outdoor,Grass,"$380,000",Mario Ancic,mario-ancic,$,380000.0
+2006,36,Wimbledon,Outdoor,Grass,"$8,847,338",Roger Federer,roger-federer,$,8847338.0
+2006,37,Bastad,Outdoor,Clay,"$380,000",Tommy Robredo,tommy-robredo,$,380000.0
+2006,38,Gstaad,Outdoor,Clay,"$495,000",Richard Gasquet,richard-gasquet,$,495000.0
+2006,39,Newport,Outdoor,Grass,"$380,000",Mark Philippoussis,mark-philippoussis,$,380000.0
+2006,40,Amersfoort,Outdoor,Clay,"$380,000",Novak Djokovic,novak-djokovic,$,380000.0
+2006,41,Indianapolis,Outdoor,Hard,"$600,000",James Blake,james-blake,$,600000.0
+2006,42,Stuttgart,Outdoor,Clay,"$690,000",David Ferrer,david-ferrer,$,690000.0
+2006,43,Kitzbuhel,Outdoor,Clay,"$760,000",Agustin Calleri,agustin-calleri,$,760000.0
+2006,44,Los Angeles,Outdoor,Hard,"$500,000",Tommy Haas,tommy-haas,$,500000.0
+2006,45,Umag,Outdoor,Clay,"$400,000",Stan Wawrinka,stan-wawrinka,$,400000.0
+2006,46,Sopot,Outdoor,Clay,"$500,000",Nikolay Davydenko,nikolay-davydenko,$,500000.0
+2006,47,Washington,Outdoor,Hard,"$600,000",Arnaud Clement,arnaud-clement,$,600000.0
+2006,48,ATP Masters Series Canada,Outdoor,Hard,"$2,450,000",Roger Federer,roger-federer,$,2450000.0
+2006,49,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,450,000",Andy Roddick,andy-roddick,$,2450000.0
+2006,50,New Haven,Outdoor,Hard,"$675,000",Nikolay Davydenko,nikolay-davydenko,$,675000.0
+2006,51,US Open,Outdoor,Hard,"$8,332,000",Roger Federer,roger-federer,$,8332000.0
+2006,52,Beijing,Outdoor,Hard,"$500,000",Marcos Baghdatis,marcos-baghdatis,$,500000.0
+2006,53,Bucharest,Outdoor,Clay,"$380,000",Jurgen Melzer,jurgen-melzer,$,380000.0
+2006,54,Bangkok,Indoor,Hard,"$550,000",James Blake,james-blake,$,550000.0
+2006,55,Mumbai,Outdoor,Hard,"$380,000",Dmitry Tursunov,dmitry-tursunov,$,380000.0
+2006,56,Palermo,Outdoor,Clay,"$380,000",Filippo Volandri,filippo-volandri,$,380000.0
+2006,57,Metz,Indoor,Hard,"$380,000",Novak Djokovic,novak-djokovic,$,380000.0
+2006,58,Tokyo,Outdoor,Hard,"$765,000",Roger Federer,roger-federer,$,765000.0
+2006,59,Moscow,Indoor,Carpet,"$1,000,000",Nikolay Davydenko,nikolay-davydenko,$,1000000.0
+2006,60,Stockholm,Indoor,Hard,"$800,000",James Blake,james-blake,$,800000.0
+2006,61,Vienna,Indoor,Hard,"$690,000",Ivan Ljubicic,ivan-ljubicic,$,690000.0
+2006,62,ATP Masters Series Madrid,Indoor,Hard,"$2,450,000",Roger Federer,roger-federer,$,2450000.0
+2006,63,Basel,Indoor,Carpet,"$1,000,000",Roger Federer,roger-federer,$,1000000.0
+2006,64,Lyon,Indoor,Carpet,"$800,000",Richard Gasquet,richard-gasquet,$,800000.0
+2006,65,St. Petersburg,Indoor,Carpet,"$1,000,000",Mario Ancic,mario-ancic,$,1000000.0
+2006,66,ATP Masters Series Paris,Indoor,Carpet,"$2,450,000",Nikolay Davydenko,nikolay-davydenko,$,2450000.0
+2006,67,Tennis Masters Cup,Indoor,Hard,"$3,700,000",Roger Federer,roger-federer,$,3700000.0
+2007,0,Adelaide,Outdoor,Hard,"$436,000",Novak Djokovic,novak-djokovic,$,436000.0
+2007,1,Chennai,Outdoor,Hard,"$416,000",Xavier Malisse,xavier-malisse,$,416000.0
+2007,2,Doha,Outdoor,Hard,"$1,000,000",Ivan Ljubicic,ivan-ljubicic,$,1000000.0
+2007,3,Auckland,Outdoor,Hard,"$416,000",David Ferrer,david-ferrer,$,416000.0
+2007,4,Sydney,Outdoor,Hard,"$436,000",James Blake,james-blake,$,436000.0
+2007,5,Australian Open,Outdoor,Hard,"$7,297,052",Roger Federer,roger-federer,$,7297052.0
+2007,6,Delray Beach,Outdoor,Hard,"$416,000",Xavier Malisse,xavier-malisse,$,416000.0
+2007,7,Viña del Mar,Outdoor,Clay,"$448,000",Luis Horna,luis-horna,$,448000.0
+2007,8,Zagreb,Indoor,Carpet,"$416,000",Marcos Baghdatis,marcos-baghdatis,$,416000.0
+2007,9,Marseille,Indoor,Hard,"$600,000",Gilles Simon,gilles-simon,$,600000.0
+2007,10,San Jose,Indoor,Hard,"$416,000",Andy Murray,andy-murray,$,416000.0
+2007,11,Sao Paulo,Outdoor,Clay,"$456,000",Guillermo Canas,guillermo-canas,$,456000.0
+2007,12,Buenos Aires,Outdoor,Clay,"$445,000",Juan Monaco,juan-monaco,$,445000.0
+2007,13,Memphis,Indoor,Hard,"$757,000",Tommy Haas,tommy-haas,$,757000.0
+2007,14,Rotterdam,Indoor,Hard,"$925,000",Mikhail Youzhny,mikhail-youzhny,$,925000.0
+2007,15,Acapulco,Outdoor,Clay,"$757,000",Juan Ignacio Chela,juan-ignacio-chela,$,757000.0
+2007,16,Dubai,Outdoor,Hard,"$1,426,250",Roger Federer,roger-federer,$,1426250.0
+2007,17,Las Vegas,Outdoor,Hard,"$416,000",Lleyton Hewitt,lleyton-hewitt,$,416000.0
+2007,18,ATP Masters Series Indian Wells,Outdoor,Hard,"$3,285,000",Rafael Nadal,rafael-nadal,$,3285000.0
+2007,19,ATP Masters Series Miami,Outdoor,Hard,"$3,450,000",Novak Djokovic,novak-djokovic,$,3450000.0
+2007,20,Houston,Outdoor,Clay,"$416,000",Ivo Karlovic,ivo-karlovic,$,416000.0
+2007,21,Valencia,Outdoor,Clay,"$416,000",Nicolas Almagro,nicolas-almagro,$,416000.0
+2007,22,ATP Masters Series Monte Carlo,Outdoor,Clay,"$2,450,000",Rafael Nadal,rafael-nadal,$,2450000.0
+2007,23,Barcelona,Outdoor,Clay,"$1,000,000",Rafael Nadal,rafael-nadal,$,1000000.0
+2007,24,Casablanca,Outdoor,Clay,"$416,000",Paul-Henri Mathieu,paul-henri-mathieu,$,416000.0
+2007,25,Estoril,Outdoor,Clay,"$625,000",Novak Djokovic,novak-djokovic,$,625000.0
+2007,26,Munich,Outdoor,Clay,"$416,000",Philipp Kohlschreiber,philipp-kohlschreiber,$,416000.0
+2007,27,ATP Masters Series Rome,Outdoor,Clay,"$2,450,000",Rafael Nadal,rafael-nadal,$,2450000.0
+2007,28,ATP Masters Series Hamburg,Outdoor,Clay,"$2,450,000",Roger Federer,roger-federer,$,2450000.0
+2007,29,World Team Championship,Outdoor,Clay,"$1,680,500",Agustin Calleri,agustin-calleri,$,1680500.0
+2007,30,Poertschach,Outdoor,Clay,"$416,000",Juan Monaco,juan-monaco,$,416000.0
+2007,31,Roland Garros,Outdoor,Clay,"$9,334,932",Rafael Nadal,rafael-nadal,$,9334932.0
+2007,32,Halle,Outdoor,Grass,"$800,000",Tomas Berdych,tomas-berdych,$,800000.0
+2007,33,London / Queen's Club,Outdoor,Grass,"$800,000",Andy Roddick,andy-roddick,$,800000.0
+2007,34,'s-Hertogenbosch,Outdoor,Grass,"$416,000",Ivan Ljubicic,ivan-ljubicic,$,416000.0
+2007,35,Nottingham,Outdoor,Grass,"$416,000",Ivo Karlovic,ivo-karlovic,$,416000.0
+2007,36,Wimbledon,Outdoor,Grass,"$10,039,193",Roger Federer,roger-federer,$,10039193.0
+2007,37,Bastad,Outdoor,Clay,"$416,000",David Ferrer,david-ferrer,$,416000.0
+2007,38,Gstaad,Outdoor,Clay,"$496,000",Paul-Henri Mathieu,paul-henri-mathieu,$,496000.0
+2007,39,Newport,Outdoor,Grass,"$416,000",Fabrice Santoro,fabrice-santoro,$,416000.0
+2007,40,Amersfoort,Outdoor,Clay,"$416,000",Steve Darcis,steve-darcis,$,416000.0
+2007,41,Los Angeles,Outdoor,Hard,"$525,000",Radek Stepanek,radek-stepanek,$,525000.0
+2007,42,Stuttgart,Outdoor,Clay,"$757,000",Rafael Nadal,rafael-nadal,$,757000.0
+2007,43,Indianapolis,Outdoor,Hard,"$525,000",Dmitry Tursunov,dmitry-tursunov,$,525000.0
+2007,44,Kitzbuhel,Outdoor,Clay,"$735,000",Juan Monaco,juan-monaco,$,735000.0
+2007,45,Umag,Outdoor,Clay,"$416,000",Carlos Moya,carlos-moya,$,416000.0
+2007,46,Washington,Outdoor,Hard,"$600,000",Andy Roddick,andy-roddick,$,600000.0
+2007,47,Sopot,Outdoor,Clay,"$500,000",Tommy Robredo,tommy-robredo,$,500000.0
+2007,48,ATP Masters Series Canada,Outdoor,Hard,"$2,450,000",Novak Djokovic,novak-djokovic,$,2450000.0
+2007,49,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,450,000",Roger Federer,roger-federer,$,2450000.0
+2007,50,New Haven,Outdoor,Hard,"$675,000",James Blake,james-blake,$,675000.0
+2007,51,US Open,Outdoor,Hard,"$8,848,000",Roger Federer,roger-federer,$,8848000.0
+2007,52,Beijing,Outdoor,Hard,"$500,000",Fernando Gonzalez,fernando-gonzalez,$,500000.0
+2007,53,Bucharest,Outdoor,Clay,"$416,000",Gilles Simon,gilles-simon,$,416000.0
+2007,54,Bangkok,Indoor,Hard,"$550,000",Dmitry Tursunov,dmitry-tursunov,$,550000.0
+2007,55,Mumbai,Outdoor,Hard,"$416,000",Richard Gasquet,richard-gasquet,$,416000.0
+2007,56,Metz,Indoor,Hard,"$416,000",Tommy Robredo,tommy-robredo,$,416000.0
+2007,57,Tokyo,Outdoor,Hard,"$832,000",David Ferrer,david-ferrer,$,832000.0
+2007,58,Stockholm,Indoor,Hard,"$800,000",Ivo Karlovic,ivo-karlovic,$,800000.0
+2007,59,Vienna,Indoor,Hard,"$757,000",Novak Djokovic,novak-djokovic,$,757000.0
+2007,60,Moscow,Indoor,Hard,"$1,000,000",Nikolay Davydenko,nikolay-davydenko,$,1000000.0
+2007,61,ATP Masters Series Madrid,Indoor,Hard,"$2,450,000",David Nalbandian,david-nalbandian,$,2450000.0
+2007,62,Basel,Indoor,Hard,"$1,000,000",Roger Federer,roger-federer,$,1000000.0
+2007,63,Lyon,Indoor,Carpet,"$800,000",Sebastien Grosjean,sebastien-grosjean,$,800000.0
+2007,64,St. Petersburg,Indoor,Carpet,"$1,000,000",Andy Murray,andy-murray,$,1000000.0
+2007,65,ATP World Tour Masters 1000 Paris,Indoor,Hard,"$2,450,000",David Nalbandian,david-nalbandian,$,2450000.0
+2007,66,Tennis Masters Cup,Indoor,Hard,"$3,800,000",Roger Federer,roger-federer,$,3800000.0
+2008,0,Adelaide,Outdoor,Hard,"$465,000",Michael Llodra,michael-llodra,$,465000.0
+2008,1,Chennai,Outdoor,Hard,"$436,000",Mikhail Youzhny,mikhail-youzhny,$,436000.0
+2008,2,Doha,Outdoor,Hard,"$1,049,000",Andy Murray,andy-murray,$,1049000.0
+2008,3,Auckland,Outdoor,Hard,"$464,000",Philipp Kohlschreiber,philipp-kohlschreiber,$,464000.0
+2008,4,Sydney,Outdoor,Hard,"$465,000",Dmitry Tursunov,dmitry-tursunov,$,465000.0
+2008,6,Viña del Mar,Outdoor,Clay,"$462,000",Fernando Gonzalez,fernando-gonzalez,$,462000.0
+2008,7,Delray Beach,Outdoor,Hard,"$436,000",Kei Nishikori,kei-nishikori,$,436000.0
+2008,8,Marseille,Indoor,Hard,"€534,000",Andy Murray,andy-murray,€,534000.0
+2008,9,Sao Paulo,Outdoor,Clay,"$485,000",Nicolas Almagro,nicolas-almagro,$,485000.0
+2008,10,Buenos Aires,Outdoor,Clay,"$466,000",David Nalbandian,david-nalbandian,$,466000.0
+2008,11,Rotterdam,Indoor,Hard,"€824,000",Michael Llodra,michael-llodra,€,824000.0
+2008,12,San Jose,Indoor,Hard,"$436,000",Andy Roddick,andy-roddick,$,436000.0
+2008,13,Acapulco,Outdoor,Clay,"$794,000",Nicolas Almagro,nicolas-almagro,$,794000.0
+2008,14,Memphis,Indoor,Hard,"$769,000",Steve Darcis,steve-darcis,$,769000.0
+2008,15,Zagreb,Indoor,Hard,"€370,000",Sergiy Stakhovsky,sergiy-stakhovsky,€,370000.0
+2008,16,Dubai,Outdoor,Hard,"$1,426,000",Andy Roddick,andy-roddick,$,1426000.0
+2008,17,Las Vegas,Outdoor,Hard,"$436,000",Sam Querrey,sam-querrey,$,436000.0
+2008,18,ATP Masters Series Indian Wells,Outdoor,Hard,"$3,677,245",Novak Djokovic,novak-djokovic,$,3677245.0
+2008,19,ATP Masters Series Miami,Outdoor,Hard,"$3,770,000",Nikolay Davydenko,nikolay-davydenko,$,3770000.0
+2008,20,Estoril,Outdoor,Clay,"€370,000",Roger Federer,roger-federer,€,370000.0
+2008,21,Houston,Outdoor,Clay,"$436,000",Marcel Granollers,marcel-granollers,$,436000.0
+2008,22,Valencia,Outdoor,Clay,"€370,000",David Ferrer,david-ferrer,€,370000.0
+2008,23,ATP Masters Series Monte Carlo,Outdoor,Clay,"€2,270,000",Rafael Nadal,rafael-nadal,€,2270000.0
+2008,24,Barcelona,Outdoor,Clay,"€824,000",Rafael Nadal,rafael-nadal,€,824000.0
+2008,25,Munich,Outdoor,Clay,"€370,000",Fernando Gonzalez,fernando-gonzalez,€,370000.0
+2008,26,ATP Masters Series Rome,Outdoor,Clay,"€2,270,000",Novak Djokovic,novak-djokovic,€,2270000.0
+2008,27,ATP Masters Series Hamburg,Outdoor,Clay,"€2,270,000",Rafael Nadal,rafael-nadal,€,2270000.0
+2008,28,Casablanca,Outdoor,Clay,"€370,000",Gilles Simon,gilles-simon,€,370000.0
+2008,29,World Team Championship,Outdoor,Clay,"€1,692,000",Igor Andreev,igor-andreev,€,1692000.0
+2008,30,Poertschach,Outdoor,Clay,"€370,000",Nikolay Davydenko,nikolay-davydenko,€,370000.0
+2008,31,Roland Garros,Outdoor,Clay,"€7,077,680",Rafael Nadal,rafael-nadal,€,7077680.0
+2008,32,Halle,Outdoor,Grass,"€713,000",Roger Federer,roger-federer,€,713000.0
+2008,33,London / Queen's Club,Outdoor,Grass,"€713,000",Rafael Nadal,rafael-nadal,€,713000.0
+2008,34,Warsaw,Outdoor,Clay,"€425,000",Nikolay Davydenko,nikolay-davydenko,€,425000.0
+2008,35,s-Hertogenbosch,Outdoor,Grass,"€370,000",David Ferrer,david-ferrer,€,370000.0
+2008,36,Nottingham,Outdoor,Grass,"€370,000",Ivo Karlovic,ivo-karlovic,€,370000.0
+2008,37,Wimbledon,Outdoor,Grass,"£5,257,000",Rafael Nadal,rafael-nadal,£,5257000.0
+2008,38,Båstad,Outdoor,Clay,"€326,000",Tommy Robredo,tommy-robredo,€,326000.0
+2008,39,Gstaad,Outdoor,Clay,"€389,000",Victor Hanescu,victor-hanescu,€,389000.0
+2008,40,Newport,Outdoor,Grass,"$385,000",Fabrice Santoro,fabrice-santoro,$,385000.0
+2008,41,Stuttgart,Outdoor,Clay,"€568,000",Juan Martin del Potro,juan-martin-del-potro,€,568000.0
+2008,42,Amersfoort,Outdoor,Clay,"€326,000",Albert Montanes,albert-montanes,€,326000.0
+2008,43,Indianapolis,Outdoor,Hard,"$525,000",Gilles Simon,gilles-simon,$,525000.0
+2008,44,Kitzbühel,Outdoor,Clay,"€571,000",Juan Martin del Potro,juan-martin-del-potro,€,571000.0
+2008,45,Umag,Outdoor,Clay,"€326,000",Fernando Verdasco,fernando-verdasco,€,326000.0
+2008,46,ATP Masters Series Canada,Outdoor,Hard,"$2,615,000",Rafael Nadal,rafael-nadal,$,2615000.0
+2008,47,ATP Masters Series Cincinnati,Outdoor,Hard,"$2,615,000",Andy Murray,andy-murray,$,2615000.0
+2008,48,Los Angeles,Outdoor,Hard,"$475,000",Juan Martin del Potro,juan-martin-del-potro,$,475000.0
+2008,49,Washington,Outdoor,Hard,"$508,000",Juan Martin del Potro,juan-martin-del-potro,$,508000.0
+2008,51,New Haven,Outdoor,Hard,"$708,000",Marin Cilic,marin-cilic,$,708000.0
+2008,52,US Open,Outdoor,Hard,"$9,350,000",Roger Federer,roger-federer,$,9350000.0
+2008,53,Bucharest,Outdoor,Clay,"€370,000",Gilles Simon,gilles-simon,€,370000.0
+2008,54,Bangkok,Indoor,Hard,"$576,000",Jo-Wilfried Tsonga,jo-wilfried-tsonga,$,576000.0
+2008,55,Beijing,Outdoor,Hard,"$524,000",Andy Roddick,andy-roddick,$,524000.0
+2008,56,Metz,Indoor,Hard,"€370,000",Dmitry Tursunov,dmitry-tursunov,€,370000.0
+2008,57,Tokyo,Outdoor,Hard,"$869,000",Tomas Berdych,tomas-berdych,$,869000.0
+2008,58,Moscow,Indoor,Hard,"$1,049,000",Igor Kunitsyn,igor-kunitsyn,$,1049000.0
+2008,59,Stockholm,Indoor,Hard,"€713,000",David Nalbandian,david-nalbandian,€,713000.0
+2008,60,Vienna,Indoor,Hard,"€674,000",Philipp Petzschner,philipp-petzschner,€,674000.0
+2008,61,ATP Masters Series Madrid,Indoor,Hard,"€2,270,000",Andy Murray,andy-murray,€,2270000.0
+2008,62,Basel,Indoor,Hard,"€891,000",Roger Federer,roger-federer,€,891000.0
+2008,63,Lyon,Indoor,Carpet,"€713,000",Robin Soderling,robin-soderling,€,713000.0
+2008,64,St. Petersburg,Indoor,Hard,"$1,049,000",Andy Murray,andy-murray,$,1049000.0
+2008,65,ATP World Tour Masters 1000 Paris,Indoor,Hard,"€2,270,000",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,2270000.0
+2008,66,Tennis Masters Cup,Indoor,Hard,"$3,800,000",Novak Djokovic,novak-djokovic,$,3800000.0
+2009,0,Brisbane,Outdoor,Hard,"$484,750",Radek Stepanek,radek-stepanek,$,484750.0
+2009,1,Chennai,Outdoor,Hard,"$450,000",Marin Cilic,marin-cilic,$,450000.0
+2009,2,Doha,Outdoor,Hard,"$1,110,250",Andy Murray,andy-murray,$,1110250.0
+2009,3,Auckland,Outdoor,Hard,"$480,750",Juan Martin del Potro,juan-martin-del-potro,$,480750.0
+2009,4,Sydney,Outdoor,Hard,"$484,750",David Nalbandian,david-nalbandian,$,484750.0
+2009,6,Johannesburg,Outdoor,Hard,"$500,000",Jo-Wilfried Tsonga,jo-wilfried-tsonga,$,500000.0
+2009,7,Viña del Mar,Outdoor,Clay,"$496,750",Fernando Gonzalez,fernando-gonzalez,$,496750.0
+2009,8,Zagreb,Indoor,Hard,"€450,000",Marin Cilic,marin-cilic,€,450000.0
+2009,9,Rotterdam,Indoor,Hard,"€1,445,000",Andy Murray,andy-murray,€,1445000.0
+2009,10,San Jose,Indoor,Hard,"$600,000",Radek Stepanek,radek-stepanek,$,600000.0
+2009,11,Sao Paulo,Outdoor,Clay,"$562,500",Tommy Robredo,tommy-robredo,$,562500.0
+2009,12,Buenos Aires,Outdoor,Clay,"$600,000",Tommy Robredo,tommy-robredo,$,600000.0
+2009,13,Marseille,Indoor,Hard,"€576,000",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,576000.0
+2009,14,Memphis,Indoor,Hard,"$1,226,500",Andy Roddick,andy-roddick,$,1226500.0
+2009,15,Acapulco,Outdoor,Clay,"$1,226,500",Nicolas Almagro,nicolas-almagro,$,1226500.0
+2009,16,Delray Beach,Outdoor,Hard,"$500,000",Mardy Fish,mardy-fish,$,500000.0
+2009,17,Dubai,Outdoor,Hard,"$2,233,000",Novak Djokovic,novak-djokovic,$,2233000.0
+2009,18,ATP World Tour Masters 1000 Indian Wells,Outdoor,Hard,"$4,615,170",Rafael Nadal,rafael-nadal,$,4615170.0
+2009,19,ATP World Tour Masters 1000 Miami,Outdoor,Hard,"$4,500,000",Andy Murray,andy-murray,$,4500000.0
+2009,20,Casablanca,Outdoor,Clay,"€450,000",Juan Carlos Ferrero,juan-carlos-ferrero,€,450000.0
+2009,21,Houston,Outdoor,Clay,"$500,000",Lleyton Hewitt,lleyton-hewitt,$,500000.0
+2009,22,ATP World Tour Masters 1000 Monte Carlo,Outdoor,Clay,"€2,750,000",Rafael Nadal,rafael-nadal,€,2750000.0
+2009,23,Barcelona,Outdoor,Clay,"€1,995,000",Rafael Nadal,rafael-nadal,€,1995000.0
+2009,24,ATP World Tour Masters 1000 Rome,Outdoor,Clay,"€2,750,000",Rafael Nadal,rafael-nadal,€,2750000.0
+2009,25,Estoril,Outdoor,Clay,"€450,000",Albert Montanes,albert-montanes,€,450000.0
+2009,26,Munich,Outdoor,Clay,"€450,000",Tomas Berdych,tomas-berdych,€,450000.0
+2009,27,Belgrade,Outdoor,Clay,"€450,000",Novak Djokovic,novak-djokovic,€,450000.0
+2009,28,ATP World Tour Masters 1000 Madrid,Outdoor,Clay,"€3,700,000",Roger Federer,roger-federer,€,3700000.0
+2009,29,World Team Championship,Outdoor,Clay,"€1,366,000",Viktor Troicki,viktor-troicki,€,1366000.0
+2009,30,Kitzbühel,Outdoor,Clay,"€450,000",Guillermo Garcia-Lopez,guillermo-garcia-lopez,€,450000.0
+2009,31,Roland Garros,Outdoor,Clay,"€7,322,320",Roger Federer,roger-federer,€,7322320.0
+2009,32,Halle,Outdoor,Grass,"€750,000",Tommy Haas,tommy-haas,€,750000.0
+2009,33,London / Queen's Club,Outdoor,Grass,"€750,000",Andy Murray,andy-murray,€,750000.0
+2009,34,Eastbourne,Outdoor,Grass,"€450,000",Dmitry Tursunov,dmitry-tursunov,€,450000.0
+2009,35,s-Hertogenbosch,Outdoor,Grass,"€450,000",Benjamin Becker,benjamin-becker,€,450000.0
+2009,36,Wimbledon,Outdoor,Grass,"£5,616,600",Roger Federer,roger-federer,£,5616600.0
+2009,37,Newport,Outdoor,Grass,"$500,000",Rajeev Ram,rajeev-ram,$,500000.0
+2009,38,Båstad,Outdoor,Clay,"€450,000",Robin Soderling,robin-soderling,€,450000.0
+2009,39,Stuttgart,Outdoor,Clay,"€450,000",Jeremy Chardy,jeremy-chardy,€,450000.0
+2009,40,Hamburg,Outdoor,Clay,"€1,115,000",Nikolay Davydenko,nikolay-davydenko,€,1115000.0
+2009,41,Indianapolis,Outdoor,Hard,"$519,000",Robby Ginepri,robby-ginepri,$,519000.0
+2009,42,Gstaad,Outdoor,Clay,"€450,000",Thomaz Bellucci,thomaz-bellucci,€,450000.0
+2009,43,Los Angeles,Outdoor,Hard,"$630,500",Sam Querrey,sam-querrey,$,630500.0
+2009,44,Umag,Outdoor,Clay,"€450,000",Nikolay Davydenko,nikolay-davydenko,€,450000.0
+2009,45,Washington,Outdoor,Hard,"$1,402,000",Juan Martin del Potro,juan-martin-del-potro,$,1402000.0
+2009,46,ATP World Tour Masters 1000 Canada,Outdoor,Hard,"$3,000,000",Andy Murray,andy-murray,$,3000000.0
+2009,47,ATP World Tour Masters 1000 Cincinnati,Outdoor,Hard,"$3,000,000",Roger Federer,roger-federer,$,3000000.0
+2009,48,New Haven,Outdoor,Hard,"$750,000",Fernando Verdasco,fernando-verdasco,$,750000.0
+2009,49,US Open,Outdoor,Hard,"$9,756,000",Juan Martin del Potro,juan-martin-del-potro,$,9756000.0
+2009,50,Bucharest,Outdoor,Clay,"€450,000",Albert Montanes,albert-montanes,€,450000.0
+2009,51,Metz,Indoor,Hard,"€450,000",Gael Monfils,gael-monfils,€,450000.0
+2009,52,Bangkok,Indoor,Hard,"$608,500",Gilles Simon,gilles-simon,$,608500.0
+2009,53,Kuala Lumpur,Indoor,Hard,"$947,750",Nikolay Davydenko,nikolay-davydenko,$,947750.0
+2009,54,Beijing,Outdoor,Hard,"$3,337,000",Novak Djokovic,novak-djokovic,$,3337000.0
+2009,55,Tokyo,Outdoor,Hard,"$1,226,500",Jo-Wilfried Tsonga,jo-wilfried-tsonga,$,1226500.0
+2009,56,ATP World Tour Masters 1000 Shanghai,Outdoor,Hard,"$5,250,000",Nikolay Davydenko,nikolay-davydenko,$,5250000.0
+2009,57,Moscow,Indoor,Hard,"$1,080,500",Mikhail Youzhny,mikhail-youzhny,$,1080500.0
+2009,58,Stockholm,Indoor,Hard,"€600,000",Marcos Baghdatis,marcos-baghdatis,€,600000.0
+2009,59,St. Petersburg,Indoor,Hard,"$750,000",Sergiy Stakhovsky,sergiy-stakhovsky,$,750000.0
+2009,60,Lyon,Indoor,Hard,"€650,000",Ivan Ljubicic,ivan-ljubicic,€,650000.0
+2009,61,Vienna,Indoor,Hard,"€574,750",Jurgen Melzer,jurgen-melzer,€,574750.0
+2009,62,Basel,Indoor,Hard,"€1,755,000",Novak Djokovic,novak-djokovic,€,1755000.0
+2009,63,Valencia,Indoor,Hard,"€2,019,000",Andy Murray,andy-murray,€,2019000.0
+2009,64,ATP World Tour Masters 1000 Paris,Indoor,Hard,"€2,750,000",Novak Djokovic,novak-djokovic,€,2750000.0
+2009,65,ATP Finals,Indoor,Hard,"$5,000,000",Nikolay Davydenko,nikolay-davydenko,$,5000000.0
+2010,0,Brisbane,Outdoor,Hard,"$424,250",Andy Roddick,andy-roddick,$,424250.0
+2010,1,Chennai,Outdoor,Hard,"$450,000",Marin Cilic,marin-cilic,$,450000.0
+2010,2,Doha,Outdoor,Hard,"$1,110,250",Nikolay Davydenko,nikolay-davydenko,$,1110250.0
+2010,3,Auckland,Outdoor,Hard,"$407,250",John Isner,john-isner,$,407250.0
+2010,4,Sydney,Outdoor,Hard,"$424,250",Marcos Baghdatis,marcos-baghdatis,$,424250.0
+2010,6,Johannesburg,Outdoor,Hard,"$500,000",Feliciano Lopez,feliciano-lopez,$,500000.0
+2010,7,Santiago,Outdoor,Clay,"$450,000",Thomaz Bellucci,thomaz-bellucci,$,450000.0
+2010,8,Zagreb,Indoor,Hard,"€450,000",Marin Cilic,marin-cilic,€,450000.0
+2010,9,Rotterdam,Indoor,Hard,"€1,445,000",Robin Soderling,robin-soderling,€,1445000.0
+2010,10,San Jose,Indoor,Hard,"$600,000",Fernando Verdasco,fernando-verdasco,$,600000.0
+2010,11,Sao Paulo,Outdoor,Clay,"$500,000",Juan Carlos Ferrero,juan-carlos-ferrero,$,500000.0
+2010,12,Buenos Aires,Outdoor,Clay,"$544,300",Juan Carlos Ferrero,juan-carlos-ferrero,$,544300.0
+2010,13,Marseille,Indoor,Hard,"€576,000",Michael Llodra,michael-llodra,€,576000.0
+2010,14,Memphis,Indoor,Hard,"$1,226,500",Sam Querrey,sam-querrey,$,1226500.0
+2010,15,Acapulco,Outdoor,Clay,"$1,081,500",David Ferrer,david-ferrer,$,1081500.0
+2010,16,Delray Beach,Outdoor,Hard,"$500,000",Ernests Gulbis,ernests-gulbis,$,500000.0
+2010,17,Dubai,Outdoor,Hard,"$2,233,000",Novak Djokovic,novak-djokovic,$,2233000.0
+2010,18,ATP World Tour Masters 1000 Indian Wells,Outdoor,Hard,"$4,702,285",Ivan Ljubicic,ivan-ljubicic,$,4702285.0
+2010,19,ATP World Tour Masters 1000 Miami,Outdoor,Hard,"$4,500,000",Andy Roddick,andy-roddick,$,4500000.0
+2010,20,Casablanca,Outdoor,Clay,"€450,000",Stan Wawrinka,stan-wawrinka,€,450000.0
+2010,21,Houston,Outdoor,Clay,"$500,000",Juan Ignacio Chela,juan-ignacio-chela,$,500000.0
+2010,22,ATP World Tour Masters 1000 Monte Carlo,Outdoor,Clay,"€2,750,000",Rafael Nadal,rafael-nadal,€,2750000.0
+2010,23,Barcelona,Outdoor,Clay,"€1,995,000",Fernando Verdasco,fernando-verdasco,€,1995000.0
+2010,24,ATP World Tour Masters 1000 Rome,Outdoor,Clay,"€2,750,000",Rafael Nadal,rafael-nadal,€,2750000.0
+2010,25,Munich,Outdoor,Clay,"€450,000",Mikhail Youzhny,mikhail-youzhny,€,450000.0
+2010,26,Belgrade,Outdoor,Clay,"€424,950",Sam Querrey,sam-querrey,€,424950.0
+2010,27,Estoril,Outdoor,Clay,"€450,000",Albert Montanes,albert-montanes,€,450000.0
+2010,28,ATP World Tour Masters 1000 Madrid,Outdoor,Clay,"€3,700,000",Rafael Nadal,rafael-nadal,€,3700000.0
+2010,29,World Team Championship,Outdoor,Clay,"€1,350,000",Juan Monaco,juan-monaco,€,1350000.0
+2010,30,Nice,Outdoor,Clay,"€450,000",Richard Gasquet,richard-gasquet,€,450000.0
+2010,31,Roland Garros,Outdoor,Clay,"€7,580,800",Rafael Nadal,rafael-nadal,€,7580800.0
+2010,32,Halle,Outdoor,Grass,"€750,000",Lleyton Hewitt,lleyton-hewitt,€,750000.0
+2010,33,London / Queen's Club,Outdoor,Grass,"€713,950",Sam Querrey,sam-querrey,€,713950.0
+2010,34,Eastbourne,Outdoor,Grass,"€456,750",Michael Llodra,michael-llodra,€,456750.0
+2010,35,s-Hertogenbosch,Outdoor,Grass,"€450,000",Sergiy Stakhovsky,sergiy-stakhovsky,€,450000.0
+2010,36,Wimbledon,Outdoor,Grass,"£6,196,000",Rafael Nadal,rafael-nadal,£,6196000.0
+2010,37,Newport,Outdoor,Grass,"$500,000",Mardy Fish,mardy-fish,$,500000.0
+2010,38,Båstad,Outdoor,Clay,"€450,000",Nicolas Almagro,nicolas-almagro,€,450000.0
+2010,39,Stuttgart,Outdoor,Clay,"€450,000",Albert Montanes,albert-montanes,€,450000.0
+2010,40,Atlanta,Outdoor,Hard,"$600,000",Mardy Fish,mardy-fish,$,600000.0
+2010,41,Hamburg,Outdoor,Clay,"€1,115,000",Andrey Golubev,andrey-golubev,€,1115000.0
+2010,42,Gstaad,Outdoor,Clay,"€450,000",Nicolas Almagro,nicolas-almagro,€,450000.0
+2010,43,Los Angeles,Outdoor,Hard,"$700,000",Sam Querrey,sam-querrey,$,700000.0
+2010,44,Umag,Outdoor,Clay,"€450,000",Juan Carlos Ferrero,juan-carlos-ferrero,€,450000.0
+2010,45,Washington,Outdoor,Hard,"$1,402,000",David Nalbandian,david-nalbandian,$,1402000.0
+2010,46,ATP World Tour Masters 1000 Canada,Outdoor,Hard,"$3,000,000",Andy Murray,andy-murray,$,3000000.0
+2010,47,ATP World Tour Masters 1000 Cincinnati,Outdoor,Hard,"$3,000,000",Roger Federer,roger-federer,$,3000000.0
+2010,48,New Haven,Outdoor,Hard,"$750,000",Sergiy Stakhovsky,sergiy-stakhovsky,$,750000.0
+2010,49,US Open,Outdoor,Hard,"$10,508,000",Rafael Nadal,rafael-nadal,$,10508000.0
+2010,50,Bucharest,Outdoor,Clay,"€420,200",Juan Ignacio Chela,juan-ignacio-chela,€,420200.0
+2010,51,Metz,Indoor,Hard,"€450,000",Gilles Simon,gilles-simon,€,450000.0
+2010,52,Bangkok,Indoor,Hard,"$608,500",Guillermo Garcia-Lopez,guillermo-garcia-lopez,$,608500.0
+2010,53,Kuala Lumpur,Indoor,Hard,"$947,750",Mikhail Youzhny,mikhail-youzhny,$,947750.0
+2010,54,Beijing,Outdoor,Hard,"$3,336,500",Novak Djokovic,novak-djokovic,$,3336500.0
+2010,55,Tokyo,Outdoor,Hard,"$1,226,500",Rafael Nadal,rafael-nadal,$,1226500.0
+2010,56,ATP World Tour Masters 1000 Shanghai,Outdoor,Hard,"$5,250,000",Andy Murray,andy-murray,$,5250000.0
+2010,57,Moscow,Indoor,Hard,"$1,080,500",Viktor Troicki,viktor-troicki,$,1080500.0
+2010,58,Stockholm,Indoor,Hard,"€600,000",Roger Federer,roger-federer,€,600000.0
+2010,59,Montpellier,Indoor,Hard,"€650,000",Gael Monfils,gael-monfils,€,650000.0
+2010,60,St. Petersburg,Indoor,Hard,"$750,000",Mikhail Kukushkin,mikhail-kukushkin,$,750000.0
+2010,61,Vienna,Indoor,Hard,"€650,000",Jurgen Melzer,jurgen-melzer,€,650000.0
+2010,62,Valencia,Indoor,Hard,"€2,019,000",David Ferrer,david-ferrer,€,2019000.0
+2010,63,Basel,Indoor,Hard,"€1,755,000",Roger Federer,roger-federer,€,1755000.0
+2010,64,ATP World Tour Masters 1000 Paris,Indoor,Hard,"€2,750,000",Robin Soderling,robin-soderling,€,2750000.0
+2010,65,ATP Finals,Indoor,Hard,"$5,070,000",Roger Federer,roger-federer,$,5070000.0
+2011,0,Brisbane,Outdoor,Hard,"$474,050",Robin Soderling,robin-soderling,$,474050.0
+2011,1,Chennai,Outdoor,Hard,"$450,000",Stan Wawrinka,stan-wawrinka,$,450000.0
+2011,2,Doha,Outdoor,Hard,"$1,110,250",Roger Federer,roger-federer,$,1110250.0
+2011,3,Auckland,Outdoor,Hard,"$450,000",David Ferrer,david-ferrer,$,450000.0
+2011,4,Sydney,Outdoor,Hard,"$474,050",Gilles Simon,gilles-simon,$,474050.0
+2011,6,Johannesburg,Outdoor,Hard,"$500,000",Kevin Anderson,kevin-anderson,$,500000.0
+2011,7,Santiago,Outdoor,Clay,"$450,000",Tommy Robredo,tommy-robredo,$,450000.0
+2011,8,Zagreb,Indoor,Hard,"€450,000",Ivan Dodig,ivan-dodig,€,450000.0
+2011,9,Rotterdam,Indoor,Hard,"€1,445,000",Robin Soderling,robin-soderling,€,1445000.0
+2011,10,San Jose,Indoor,Hard,"$600,000",Milos Raonic,milos-raonic,$,600000.0
+2011,11,Sao Paulo,Outdoor,Clay,"$527,700",Nicolas Almagro,nicolas-almagro,$,527700.0
+2011,12,Buenos Aires,Outdoor,Clay,"$547,900",Nicolas Almagro,nicolas-almagro,$,547900.0
+2011,13,Marseille,Indoor,Hard,"€576,000",Robin Soderling,robin-soderling,€,576000.0
+2011,14,Memphis,Indoor,Hard,"$1,226,500",Andy Roddick,andy-roddick,$,1226500.0
+2011,15,Acapulco,Outdoor,Clay,"$1,226,500",David Ferrer,david-ferrer,$,1226500.0
+2011,16,Delray Beach,Outdoor,Hard,"$442,500",Juan Martin del Potro,juan-martin-del-potro,$,442500.0
+2011,17,Dubai,Outdoor,Hard,"$2,233,000",Novak Djokovic,novak-djokovic,$,2233000.0
+2011,18,ATP World Tour Masters 1000 Indian Wells,Outdoor,Hard,"$4,717,540",Novak Djokovic,novak-djokovic,$,4717540.0
+2011,19,ATP World Tour Masters 1000 Miami,Outdoor,Hard,"$4,500,000",Novak Djokovic,novak-djokovic,$,4500000.0
+2011,20,Casablanca,Outdoor,Clay,"€450,000",Pablo Andujar,pablo-andujar,€,450000.0
+2011,21,Houston,Outdoor,Clay,"$500,000",Ryan Sweeting,ryan-sweeting,$,500000.0
+2011,22,ATP World Tour Masters 1000 Monte Carlo,Outdoor,Clay,"€2,543,750",Rafael Nadal,rafael-nadal,€,2543750.0
+2011,23,Barcelona,Outdoor,Clay,"€1,995,000",Rafael Nadal,rafael-nadal,€,1995000.0
+2011,24,Munich,Outdoor,Clay,"€450,000",Nikolay Davydenko,nikolay-davydenko,€,450000.0
+2011,25,Belgrade,Outdoor,Clay,"€416,650",Novak Djokovic,novak-djokovic,€,416650.0
+2011,26,Estoril,Outdoor,Clay,"€450,000",Juan Martin del Potro,juan-martin-del-potro,€,450000.0
+2011,27,ATP World Tour Masters 1000 Madrid,Outdoor,Clay,"€3,706,000",Novak Djokovic,novak-djokovic,€,3706000.0
+2011,28,ATP World Tour Masters 1000 Rome,Outdoor,Clay,"€2,750,000",Novak Djokovic,novak-djokovic,€,2750000.0
+2011,29,World Team Championship,Outdoor,Clay,"€1,100,000",Juan Ignacio Chela,juan-ignacio-chela,€,1100000.0
+2011,30,Nice,Outdoor,Clay,"€450,000",Nicolas Almagro,nicolas-almagro,€,450000.0
+2011,31,Roland Garros,Outdoor,Clay,"€7,884,000",Rafael Nadal,rafael-nadal,€,7884000.0
+2011,32,Halle,Outdoor,Grass,"€750,000",Philipp Kohlschreiber,philipp-kohlschreiber,€,750000.0
+2011,33,London / Queen's Club,Outdoor,Grass,"€694,250",Andy Murray,andy-murray,€,694250.0
+2011,34,Eastbourne,Outdoor,Grass,"€462,675",Andreas Seppi,andreas-seppi,€,462675.0
+2011,35,s-Hertogenbosch,Outdoor,Grass,"€450,000",Dmitry Tursunov,dmitry-tursunov,€,450000.0
+2011,36,Wimbledon,Outdoor,Grass,"£6,631,000",Novak Djokovic,novak-djokovic,£,6631000.0
+2011,37,Newport,Outdoor,Grass,"$500,000",John Isner,john-isner,$,500000.0
+2011,38,Båstad,Outdoor,Clay,"€450,000",Robin Soderling,robin-soderling,€,450000.0
+2011,39,Stuttgart,Outdoor,Clay,"€450,000",Juan Carlos Ferrero,juan-carlos-ferrero,€,450000.0
+2011,40,Atlanta,Outdoor,Hard,"$600,000",Mardy Fish,mardy-fish,$,600000.0
+2011,41,Hamburg,Outdoor,Clay,"€1,115,000",Gilles Simon,gilles-simon,€,1115000.0
+2011,42,Gstaad,Outdoor,Clay,"€450,000",Marcel Granollers,marcel-granollers,€,450000.0
+2011,43,Los Angeles,Outdoor,Hard,"$700,000",Ernests Gulbis,ernests-gulbis,$,700000.0
+2011,44,Umag,Outdoor,Clay,"€450,000",Alexandr Dolgopolov,alexandr-dolgopolov,€,450000.0
+2011,45,Kitzbühel,Outdoor,Clay,"€450,000",Robin Haase,robin-haase,€,450000.0
+2011,46,Washington,Outdoor,Hard,"$1,402,900",Radek Stepanek,radek-stepanek,$,1402900.0
+2011,47,ATP World Tour Masters 1000 Canada,Outdoor,Hard,"$3,000,000",Novak Djokovic,novak-djokovic,$,3000000.0
+2011,48,ATP World Tour Masters 1000 Cincinnati,Outdoor,Hard,"$3,200,000",Andy Murray,andy-murray,$,3200000.0
+2011,49,Winston-Salem,Outdoor,Hard,"$625,000",John Isner,john-isner,$,625000.0
+2011,50,US Open,Outdoor,Hard,"$10,768,000",Novak Djokovic,novak-djokovic,$,10768000.0
+2011,51,Bucharest,Outdoor,Clay,"€422,950",Florian Mayer,florian-mayer,€,422950.0
+2011,52,Metz,Indoor,Hard,"€450,000",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,450000.0
+2011,53,Bangkok,Indoor,Hard,"$644,500",Andy Murray,andy-murray,$,644500.0
+2011,54,Kuala Lumpur,Indoor,Hard,"$947,750",Janko Tipsarevic,janko-tipsarevic,$,947750.0
+2011,55,Beijing,Outdoor,Hard,"$3,336,500",Tomas Berdych,tomas-berdych,$,3336500.0
+2011,56,Tokyo,Outdoor,Hard,"$1,341,000",Andy Murray,andy-murray,$,1341000.0
+2011,57,ATP World Tour Masters 1000 Shanghai,Outdoor,Hard,"$5,650,000",Andy Murray,andy-murray,$,5650000.0
+2011,58,Moscow,Indoor,Hard,"$805,500",Janko Tipsarevic,janko-tipsarevic,$,805500.0
+2011,59,Stockholm,Indoor,Hard,"€600,000",Gael Monfils,gael-monfils,€,600000.0
+2011,60,St. Petersburg,Indoor,Hard,"$750,000",Marin Cilic,marin-cilic,$,750000.0
+2011,61,Vienna,Indoor,Hard,"€650,000",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,650000.0
+2011,62,Basel,Indoor,Hard,"€1,838,100",Roger Federer,roger-federer,€,1838100.0
+2011,63,Valencia,Indoor,Hard,"€2,019,000",Marcel Granollers,marcel-granollers,€,2019000.0
+2011,64,ATP World Tour Masters 1000 Paris,Indoor,Hard,"€2,750,000",Roger Federer,roger-federer,€,2750000.0
+2011,65,ATP Finals,Indoor,Hard,"$5,070,000",Roger Federer,roger-federer,$,5070000.0
+2012,0,Brisbane,Outdoor,Hard,"$486,000",Andy Murray,andy-murray,$,486000.0
+2012,1,Chennai,Outdoor,Hard,"$450,000",Milos Raonic,milos-raonic,$,450000.0
+2012,2,Doha,Outdoor,Hard,"$1,110,250",Jo-Wilfried Tsonga,jo-wilfried-tsonga,$,1110250.0
+2012,3,Auckland,Outdoor,Hard,"$450,000",David Ferrer,david-ferrer,$,450000.0
+2012,4,Sydney,Outdoor,Hard,"$486,000",Jarkko Nieminen,jarkko-nieminen,$,486000.0
+2012,6,Montpellier,Indoor,Hard,"€450,000",Tomas Berdych,tomas-berdych,€,450000.0
+2012,7,Vina del Mar,Outdoor,Clay,"$450,000",Juan Monaco,juan-monaco,$,450000.0
+2012,8,Zagreb,Indoor,Hard,"€450,000",Mikhail Youzhny,mikhail-youzhny,€,450000.0
+2012,9,Rotterdam,Indoor,Hard,"€1,502,500",Roger Federer,roger-federer,€,1502500.0
+2012,10,San Jose,Indoor,Hard,"$600,000",Milos Raonic,milos-raonic,$,600000.0
+2012,11,Sao Paulo,Indoor,Clay,"$532,800",Nicolas Almagro,nicolas-almagro,$,532800.0
+2012,12,Buenos Aires,Outdoor,Clay,"$553,100",David Ferrer,david-ferrer,$,553100.0
+2012,13,Marseille,Indoor,Hard,"€576,000",Juan Martin del Potro,juan-martin-del-potro,€,576000.0
+2012,14,Memphis,Indoor,Hard,"$1,281,500",Jurgen Melzer,jurgen-melzer,$,1281500.0
+2012,15,Acapulco,Outdoor,Clay,"$1,281,500",David Ferrer,david-ferrer,$,1281500.0
+2012,16,Delray Beach,Outdoor,Hard,"$500,000",Kevin Anderson,kevin-anderson,$,500000.0
+2012,17,Dubai,Outdoor,Hard,"$2,313,975",Roger Federer,roger-federer,$,2313975.0
+2012,18,ATP World Tour Masters 1000 Indian Wells,Outdoor,Hard,"$5,816,010",Roger Federer,roger-federer,$,5816010.0
+2012,19,ATP World Tour Masters 1000 Miami,Outdoor,Hard,"$4,828,050",Novak Djokovic,novak-djokovic,$,4828050.0
+2012,20,Casablanca,Outdoor,Clay,"€450,000",Pablo Andujar,pablo-andujar,€,450000.0
+2012,21,Houston,Outdoor,Clay,"$500,000",Juan Monaco,juan-monaco,$,500000.0
+2012,22,ATP World Tour Masters 1000 Monte Carlo,Outdoor,Clay,"€2,744,225",Rafael Nadal,rafael-nadal,€,2744225.0
+2012,23,Barcelona,Outdoor,Clay,"€2,072,500",Rafael Nadal,rafael-nadal,€,2072500.0
+2012,24,Bucharest,Outdoor,Clay,"€450,000",Gilles Simon,gilles-simon,€,450000.0
+2012,25,Belgrade,Outdoor,Clay,"€418,700",Andreas Seppi,andreas-seppi,€,418700.0
+2012,26,Estoril,Outdoor,Clay,"€450,000",Juan Martin del Potro,juan-martin-del-potro,€,450000.0
+2012,27,Munich,Outdoor,Clay,"€450,000",Philipp Kohlschreiber,philipp-kohlschreiber,€,450000.0
+2012,28,ATP World Tour Masters 1000 Madrid,Outdoor,Clay,"€3,973,695",Roger Federer,roger-federer,€,3973695.0
+2012,29,ATP World Tour Masters 1000 Rome,Outdoor,Clay,"€2,950,475",Rafael Nadal,rafael-nadal,€,2950475.0
+2012,30,World Team Championship,Outdoor,Clay,"€1,300,000",,,€,1300000.0
+2012,31,Nice,Outdoor,Clay,"€450,000",Nicolas Almagro,nicolas-almagro,€,450000.0
+2012,32,Roland Garros,Outdoor,Clay,"€8,487,000",Rafael Nadal,rafael-nadal,€,8487000.0
+2012,33,Halle,Outdoor,Grass,"€750,000",Tommy Haas,tommy-haas,€,750000.0
+2012,34,London / Queen's Club,Outdoor,Grass,"€711,550",Marin Cilic,marin-cilic,€,711550.0
+2012,35,s-Hertogenbosch,Outdoor,Grass,"€450,000",David Ferrer,david-ferrer,€,450000.0
+2012,36,Eastbourne,Outdoor,Grass,"€455,700",Andy Roddick,andy-roddick,€,455700.0
+2012,37,Wimbledon,Outdoor,Grass,"£7,285,200",Roger Federer,roger-federer,£,7285200.0
+2012,38,Bastad,Outdoor,Clay,"€410,175",David Ferrer,david-ferrer,€,410175.0
+2012,39,Newport,Outdoor,Grass,"$455,750",John Isner,john-isner,$,455750.0
+2012,40,Stuttgart,Outdoor,Clay,"€410,175",Janko Tipsarevic,janko-tipsarevic,€,410175.0
+2012,41,Umag,Outdoor,Clay,"€410,175",Marin Cilic,marin-cilic,€,410175.0
+2012,42,Atlanta,Outdoor,Hard,"$546,900",Andy Roddick,andy-roddick,$,546900.0
+2012,43,Gstaad,Outdoor,Clay,"€410,175",Thomaz Bellucci,thomaz-bellucci,€,410175.0
+2012,44,Hamburg,Outdoor,Clay,"€1,015,000",Juan Monaco,juan-monaco,€,1015000.0
+2012,45,Kitzbühel,Outdoor,Clay,"€410,175",Robin Haase,robin-haase,€,410175.0
+2012,46,Los Angeles,Outdoor,Hard,"$638,050",Sam Querrey,sam-querrey,$,638050.0
+2012,48,Washington,Outdoor,Hard,"$1,286,260",Alexandr Dolgopolov,alexandr-dolgopolov,$,1286260.0
+2012,49,ATP World Tour Masters 1000 Canada,Outdoor,Hard,"$3,218,700",Novak Djokovic,novak-djokovic,$,3218700.0
+2012,50,ATP World Tour Masters 1000 Cincinnati,Outdoor,Hard,"$3,433,280",Roger Federer,roger-federer,$,3433280.0
+2012,51,Winston-Salem,Outdoor,Hard,"$625,000",John Isner,john-isner,$,625000.0
+2012,52,US Open,Outdoor,Hard,"$11,777,000",Andy Murray,andy-murray,$,11777000.0
+2012,53,Metz,Indoor,Hard,"€450,000",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,450000.0
+2012,54,St. Petersburg,Indoor,Hard,"$468,350",Martin Klizan,martin-klizan,$,468350.0
+2012,55,Bangkok,Indoor,Hard,"$608,500",Richard Gasquet,richard-gasquet,$,608500.0
+2012,56,Kuala Lumpur,Indoor,Hard,"$947,750",Juan Monaco,juan-monaco,$,947750.0
+2012,57,Beijing,Outdoor,Hard,"$3,441,500",Novak Djokovic,novak-djokovic,$,3441500.0
+2012,58,Tokyo,Outdoor,Hard,"$1,407,065",Kei Nishikori,kei-nishikori,$,1407065.0
+2012,59,ATP World Tour Masters 1000 Shanghai,Outdoor,Hard,"$5,891,600",Novak Djokovic,novak-djokovic,$,5891600.0
+2012,60,Moscow,Indoor,Hard,"$742,150",Andreas Seppi,andreas-seppi,$,742150.0
+2012,61,Stockholm,Indoor,Hard,"€550,000",Tomas Berdych,tomas-berdych,€,550000.0
+2012,62,Vienna,Indoor,Hard,"€550,000",Juan Martin del Potro,juan-martin-del-potro,€,550000.0
+2012,63,Valencia,Indoor,Hard,"€2,086,850",David Ferrer,david-ferrer,€,2086850.0
+2012,64,Basel,Indoor,Hard,"€1,934,300",Juan Martin del Potro,juan-martin-del-potro,€,1934300.0
+2012,65,ATP World Tour Masters 1000 Paris,Indoor,Hard,"€2,950,475",David Ferrer,david-ferrer,€,2950475.0
+2012,66,ATP Finals,Indoor,Hard,"$5,500,000",Novak Djokovic,novak-djokovic,$,5500000.0
+2013,0,Brisbane,Outdoor,Hard,"$494,230",Andy Murray,andy-murray,$,494230.0
+2013,1,Chennai,Outdoor,Hard,"$442,750",Janko Tipsarevic,janko-tipsarevic,$,442750.0
+2013,2,Doha,Outdoor,Hard,"$1,150,720",Richard Gasquet,richard-gasquet,$,1150720.0
+2013,3,Auckland,Outdoor,Hard,"$491,000",David Ferrer,david-ferrer,$,491000.0
+2013,4,Sydney,Outdoor,Hard,"$494,230",Bernard Tomic,bernard-tomic,$,494230.0
+2013,6,Montpellier,Indoor,Hard,"€467,800",Richard Gasquet,richard-gasquet,€,467800.0
+2013,7,Vina del Mar,Outdoor,Clay,"$467,800",Horacio Zeballos,horacio-zeballos,$,467800.0
+2013,8,Zagreb,Indoor,Hard,"€467,800",Marin Cilic,marin-cilic,€,467800.0
+2013,9,Rotterdam,Indoor,Hard,"€1,575,875",Juan Martin del Potro,juan-martin-del-potro,€,1575875.0
+2013,10,San Jose,Indoor,Hard,"$623,730",Milos Raonic,milos-raonic,$,623730.0
+2013,11,Sao Paulo,Indoor,Clay,"$519,775",Rafael Nadal,rafael-nadal,$,519775.0
+2013,12,Buenos Aires,Outdoor,Clay,"$570,470",David Ferrer,david-ferrer,$,570470.0
+2013,13,Marseille,Indoor,Hard,"€598,535",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,598535.0
+2013,14,Memphis,Indoor,Hard,"$1,353,550",Kei Nishikori,kei-nishikori,$,1353550.0
+2013,15,Acapulco,Outdoor,Clay,"$1,353,550",Rafael Nadal,rafael-nadal,$,1353550.0
+2013,16,Delray Beach,Outdoor,Hard,"$519,775",Ernests Gulbis,ernests-gulbis,$,519775.0
+2013,17,Dubai,Outdoor,Hard,"$2,413,300",Novak Djokovic,novak-djokovic,$,2413300.0
+2013,18,ATP World Tour Masters 1000 Indian Wells,Outdoor,Hard,"$6,676,605",Rafael Nadal,rafael-nadal,$,6676605.0
+2013,19,ATP World Tour Masters 1000 Miami,Outdoor,Hard,"$5,244,125",Andy Murray,andy-murray,$,5244125.0
+2013,20,Casablanca,Outdoor,Clay,"€467,800",Tommy Robredo,tommy-robredo,€,467800.0
+2013,21,Houston,Outdoor,Clay,"$519,775",John Isner,john-isner,$,519775.0
+2013,22,ATP World Tour Masters 1000 Monte Carlo,Outdoor,Clay,"€2,998,495",Novak Djokovic,novak-djokovic,€,2998495.0
+2013,23,Barcelona,Outdoor,Clay,"€2,166,875",Rafael Nadal,rafael-nadal,€,2166875.0
+2013,24,Bucharest,Outdoor,Clay,"€467,800",Lukas Rosol,lukas-rosol,€,467800.0
+2013,25,Munich,Outdoor,Clay,"€467,800",Tommy Haas,tommy-haas,€,467800.0
+2013,26,Oeiras,Outdoor,Clay,"€467,800",Stan Wawrinka,stan-wawrinka,€,467800.0
+2013,27,ATP World Tour Masters 1000 Madrid,Outdoor,Clay,"€4,303,867",Rafael Nadal,rafael-nadal,€,4303867.0
+2013,28,ATP World Tour Masters 1000 Rome,Outdoor,Clay,"€3,204,745",Rafael Nadal,rafael-nadal,€,3204745.0
+2013,29,Dusseldorf,Outdoor,Clay,"€467,800",Juan Monaco,juan-monaco,€,467800.0
+2013,30,Nice,Outdoor,Clay,"€467,800",Albert Montanes,albert-montanes,€,467800.0
+2013,31,Roland Garros,Outdoor,Clay,"€10,104,000",Rafael Nadal,rafael-nadal,€,10104000.0
+2013,32,Halle,Outdoor,Grass,"€779,665",Roger Federer,roger-federer,€,779665.0
+2013,33,London / Queen's Club,Outdoor,Grass,"€779,665",Andy Murray,andy-murray,€,779665.0
+2013,34,s-Hertogenbosch,Outdoor,Grass,"€467,800",Nicolas Mahut,nicolas-mahut,€,467800.0
+2013,35,Eastbourne,Outdoor,Grass,"€526,060",Feliciano Lopez,feliciano-lopez,€,526060.0
+2013,36,Wimbledon,Outdoor,Grass,"£10,514,000",Andy Murray,andy-murray,£,10514000.0
+2013,37,Bastad,Outdoor,Clay,"€491,370",Carlos Berlocq,carlos-berlocq,€,491370.0
+2013,38,Newport,Outdoor,Grass,"$519,775",Nicolas Mahut,nicolas-mahut,$,519775.0
+2013,39,Stuttgart,Outdoor,Clay,"€467,800",Fabio Fognini,fabio-fognini,€,467800.0
+2013,40,Bogota,Outdoor,Hard,"$727,685",Ivo Karlovic,ivo-karlovic,$,727685.0
+2013,41,Hamburg,Outdoor,Clay,"€1,230,500",Fabio Fognini,fabio-fognini,€,1230500.0
+2013,42,Atlanta,Outdoor,Hard,"$623,730",John Isner,john-isner,$,623730.0
+2013,43,Gstaad,Outdoor,Clay,"€467,800",Mikhail Youzhny,mikhail-youzhny,€,467800.0
+2013,44,Umag,Outdoor,Clay,"€467,800",Tommy Robredo,tommy-robredo,€,467800.0
+2013,45,Kitzbühel,Outdoor,Clay,"€467,800",Marcel Granollers,marcel-granollers,€,467800.0
+2013,46,Washington,Outdoor,Hard,"$1,546,590",Juan Martin del Potro,juan-martin-del-potro,$,1546590.0
+2013,47,ATP World Tour Masters 1000 Canada,Outdoor,Hard,"$3,496,085",Rafael Nadal,rafael-nadal,$,3496085.0
+2013,48,ATP World Tour Masters 1000 Cincinnati,Outdoor,Hard,"$3,729,155",Rafael Nadal,rafael-nadal,$,3729155.0
+2013,49,Winston-Salem,Outdoor,Hard,"$658,450",Jurgen Melzer,jurgen-melzer,$,658450.0
+2013,50,US Open,Outdoor,Hard,"$16,102,000",Rafael Nadal,rafael-nadal,$,16102000.0
+2013,51,Metz,Indoor,Hard,"€467,800",Gilles Simon,gilles-simon,€,467800.0
+2013,52,St. Petersburg,Indoor,Hard,"$519,775",Ernests Gulbis,ernests-gulbis,$,519775.0
+2013,53,Bangkok,Indoor,Hard,"$631,530",Milos Raonic,milos-raonic,$,631530.0
+2013,54,Kuala Lumpur,Indoor,Hard,"$984,300",Joao Sousa,joao-sousa,$,984300.0
+2013,55,Beijing,Outdoor,Hard,"$3,566,050",Novak Djokovic,novak-djokovic,$,3566050.0
+2013,56,Tokyo,Outdoor,Hard,"$1,437,800",Juan Martin del Potro,juan-martin-del-potro,$,1437800.0
+2013,57,ATP World Tour Masters 1000 Shanghai,Outdoor,Hard,"$6,211,445",Novak Djokovic,novak-djokovic,$,6211445.0
+2013,58,Moscow,Indoor,Hard,"$823,550",Richard Gasquet,richard-gasquet,$,823550.0
+2013,59,Stockholm,Indoor,Hard,"€600,565",Grigor Dimitrov,grigor-dimitrov,€,600565.0
+2013,60,Vienna,Indoor,Hard,"€571,755",Tommy Haas,tommy-haas,€,571755.0
+2013,61,Basel,Indoor,Hard,"€1,988,835",Juan Martin del Potro,juan-martin-del-potro,€,1988835.0
+2013,62,Valencia,Indoor,Hard,"€2,171,095",Mikhail Youzhny,mikhail-youzhny,€,2171095.0
+2013,63,ATP World Tour Masters 1000 Paris,Indoor,Hard,"€3,204,745",Novak Djokovic,novak-djokovic,€,3204745.0
+2013,64,ATP Finals,Indoor,Hard,"$6,000,000",Novak Djokovic,novak-djokovic,$,6000000.0
+2014,0,Brisbane,Outdoor,Hard,"$511,825",Lleyton Hewitt,lleyton-hewitt,$,511825.0
+2014,1,Chennai,Outdoor,Hard,"$459,140",Stan Wawrinka,stan-wawrinka,$,459140.0
+2014,2,Doha,Outdoor,Hard,"$1,195,500",Rafael Nadal,rafael-nadal,$,1195500.0
+2014,3,Auckland,Outdoor,Hard,"$514,345",John Isner,john-isner,$,514345.0
+2014,4,Sydney,Outdoor,Hard,"$511,825",Juan Martin del Potro,juan-martin-del-potro,$,511825.0
+2014,6,Montpellier,Indoor,Hard,"€485,760",Gael Monfils,gael-monfils,€,485760.0
+2014,7,Vina del Mar,Outdoor,Clay,"$485,760",Fabio Fognini,fabio-fognini,$,485760.0
+2014,8,Zagreb,Indoor,Hard,"€485,760",Marin Cilic,marin-cilic,€,485760.0
+2014,9,Buenos Aires,Outdoor,Clay,"$567,760",David Ferrer,david-ferrer,$,567760.0
+2014,10,Memphis,Indoor,Hard,"$647,675",Kei Nishikori,kei-nishikori,$,647675.0
+2014,11,Rotterdam,Indoor,Hard,"€1,500,755",Tomas Berdych,tomas-berdych,€,1500755.0
+2014,12,Delray Beach,Outdoor,Hard,"$539,730",Marin Cilic,marin-cilic,$,539730.0
+2014,13,Marseille,Indoor,Hard,"€621,560",Ernests Gulbis,ernests-gulbis,€,621560.0
+2014,14,Rio de Janeiro,Outdoor,Clay,"$1,454,365",Rafael Nadal,rafael-nadal,$,1454365.0
+2014,15,Acapulco,Outdoor,Hard,"$1,454,365",Grigor Dimitrov,grigor-dimitrov,$,1454365.0
+2014,16,Dubai,Outdoor,Hard,"$2,359,935",Roger Federer,roger-federer,$,2359935.0
+2014,17,Sao Paulo,Indoor,Clay,"$539,730",Federico Delbonis,federico-delbonis,$,539730.0
+2014,18,ATP World Tour Masters 1000 Indian Wells,Outdoor,Hard,"$6,959,295",Novak Djokovic,novak-djokovic,$,6959295.0
+2014,19,ATP World Tour Masters 1000 Miami,Outdoor,Hard,"$5,649,405",Novak Djokovic,novak-djokovic,$,5649405.0
+2014,20,Casablanca,Outdoor,Clay,"€485,760",Guillermo Garcia-Lopez,guillermo-garcia-lopez,€,485760.0
+2014,21,Houston,Outdoor,Clay,"$539,730",Fernando Verdasco,fernando-verdasco,$,539730.0
+2014,22,ATP World Tour Masters 1000 Monte Carlo,Outdoor,Clay,"€3,246,165",Stan Wawrinka,stan-wawrinka,€,3246165.0
+2014,23,Barcelona,Outdoor,Clay,"€2,127,035",Kei Nishikori,kei-nishikori,€,2127035.0
+2014,24,Bucharest,Outdoor,Clay,"€485,760",Grigor Dimitrov,grigor-dimitrov,€,485760.0
+2014,25,Munich,Outdoor,Clay,"€485,760",Martin Klizan,martin-klizan,€,485760.0
+2014,26,Oeiras,Outdoor,Clay,"€485,760",Carlos Berlocq,carlos-berlocq,€,485760.0
+2014,27,ATP World Tour Masters 1000 Madrid,Outdoor,Clay,"€4,625,835",Rafael Nadal,rafael-nadal,€,4625835.0
+2014,28,ATP World Tour Masters 1000 Rome,Outdoor,Clay,"€3,452,415",Novak Djokovic,novak-djokovic,€,3452415.0
+2014,29,Dusseldorf,Outdoor,Clay,"€485,760",Philipp Kohlschreiber,philipp-kohlschreiber,€,485760.0
+2014,30,Nice,Outdoor,Clay,"€485,760",Ernests Gulbis,ernests-gulbis,€,485760.0
+2014,31,Roland Garros,Outdoor,Clay,"€11,552,000",Rafael Nadal,rafael-nadal,€,11552000.0
+2014,32,Halle,Outdoor,Grass,"€809,600",Roger Federer,roger-federer,€,809600.0
+2014,33,London / Queen's Club,Outdoor,Grass,"€809,600",Grigor Dimitrov,grigor-dimitrov,€,809600.0
+2014,34,s-Hertogenbosch,Outdoor,Grass,"€485,760",Roberto Bautista Agut,roberto-bautista-agut,€,485760.0
+2014,35,Eastbourne,Outdoor,Grass,"€562,340",Feliciano Lopez,feliciano-lopez,€,562340.0
+2014,36,Wimbledon,Outdoor,Grass,"£11,715,000",Novak Djokovic,novak-djokovic,£,11715000.0
+2014,37,Bastad,Outdoor,Clay,"€485,760",Pablo Cuevas,pablo-cuevas,€,485760.0
+2014,38,Newport,Outdoor,Grass,"$539,730",Lleyton Hewitt,lleyton-hewitt,$,539730.0
+2014,39,Stuttgart,Outdoor,Clay,"€485,760",Roberto Bautista Agut,roberto-bautista-agut,€,485760.0
+2014,40,Bogota,Outdoor,Hard,"$730,102",Bernard Tomic,bernard-tomic,$,730102.0
+2014,41,Hamburg,Outdoor,Clay,"€1,322,150",Leonardo Mayer,leonardo-mayer,€,1322150.0
+2014,42,Atlanta,Outdoor,Hard,"$647,675",John Isner,john-isner,$,647675.0
+2014,43,Gstaad,Outdoor,Clay,"€485,760",Pablo Andujar,pablo-andujar,€,485760.0
+2014,44,Umag,Outdoor,Clay,"€485,760",Pablo Cuevas,pablo-cuevas,€,485760.0
+2014,45,Kitzbühel,Outdoor,Clay,"€485,760",David Goffin,david-goffin,€,485760.0
+2014,46,Washington,Outdoor,Hard,"$1,654,295",Milos Raonic,milos-raonic,$,1654295.0
+2014,47,ATP World Tour Masters 1000 Canada,Outdoor,Hard,"$3,766,270",Jo-Wilfried Tsonga,jo-wilfried-tsonga,$,3766270.0
+2014,48,ATP World Tour Masters 1000 Cincinnati,Outdoor,Hard,"$4,017,355",Roger Federer,roger-federer,$,4017355.0
+2014,49,Winston-Salem,Outdoor,Hard,"$683,705",Lukas Rosol,lukas-rosol,$,683705.0
+2014,50,US Open,Outdoor,Hard,"$17,851,868",Marin Cilic,marin-cilic,$,17851868.0
+2014,51,Metz,Indoor,Hard,"€485,760",David Goffin,david-goffin,€,485760.0
+2014,52,Kuala Lumpur,Indoor,Hard,"$1,022,255",Kei Nishikori,kei-nishikori,$,1022255.0
+2014,53,Shenzhen,Outdoor,Hard,"$655,955",Andy Murray,andy-murray,$,655955.0
+2014,54,Beijing,Outdoor,Hard,"$3,755,065",Novak Djokovic,novak-djokovic,$,3755065.0
+2014,55,Tokyo,Outdoor,Hard,"$1,373,420",Kei Nishikori,kei-nishikori,$,1373420.0
+2014,56,ATP World Tour Masters 1000 Shanghai,Outdoor,Hard,"$6,521,695",Roger Federer,roger-federer,$,6521695.0
+2014,57,Moscow,Indoor,Hard,"$855,490",Marin Cilic,marin-cilic,$,855490.0
+2014,58,Stockholm,Indoor,Hard,"€593,705",Tomas Berdych,tomas-berdych,€,593705.0
+2014,59,Vienna,Indoor,Hard,"€593,705",Andy Murray,andy-murray,€,593705.0
+2014,60,Basel,Indoor,Hard,"€1,915,060",Roger Federer,roger-federer,€,1915060.0
+2014,61,Valencia,Indoor,Hard,"€2,204,230",Andy Murray,andy-murray,€,2204230.0
+2014,62,ATP World Tour Masters 1000 Paris,Indoor,Hard,"€3,452,415",Novak Djokovic,novak-djokovic,€,3452415.0
+2014,63,ATP Finals,Indoor,Hard,"$6,500,000",Novak Djokovic,novak-djokovic,$,6500000.0
+2015,0,Brisbane,Outdoor,Hard,"$494,310",Roger Federer,roger-federer,$,494310.0
+2015,1,Chennai,Outdoor,Hard,"$458,400",Stan Wawrinka,stan-wawrinka,$,458400.0
+2015,2,Doha,Outdoor,Hard,"$1,221,320",David Ferrer,david-ferrer,$,1221320.0
+2015,3,Sydney,Outdoor,Hard,"$494,310",Viktor Troicki,viktor-troicki,$,494310.0
+2015,4,Auckland,Outdoor,Hard,"$519,395",Jiri Vesely,jiri-vesely,$,519395.0
+2015,6,Montpellier,Indoor,Hard,"€494,310",Richard Gasquet,richard-gasquet,€,494310.0
+2015,7,Quito,Outdoor,Clay,"$494,310",Victor Estrella Burgos,victor-estrella-burgos,$,494310.0
+2015,8,Zagreb,Indoor,Hard,"€494,310",Guillermo Garcia-Lopez,guillermo-garcia-lopez,€,494310.0
+2015,9,Memphis,Indoor,Hard,"$659,070",Kei Nishikori,kei-nishikori,$,659070.0
+2015,10,Rotterdam,Indoor,Hard,"€1,600,855",Stan Wawrinka,stan-wawrinka,€,1600855.0
+2015,11,Sao Paulo,Indoor,Clay,"$505,655",Pablo Cuevas,pablo-cuevas,$,505655.0
+2015,12,Delray Beach,Outdoor,Hard,"$549,230",Ivo Karlovic,ivo-karlovic,$,549230.0
+2015,13,Marseille,Indoor,Hard,"€632,840",Gilles Simon,gilles-simon,€,632840.0
+2015,14,Rio de Janeiro,Outdoor,Clay,"$1,548,755",David Ferrer,david-ferrer,$,1548755.0
+2015,15,Acapulco,Outdoor,Hard,"$1,548,755",David Ferrer,david-ferrer,$,1548755.0
+2015,16,Buenos Aires,Outdoor,Clay,"$573,750",Rafael Nadal,rafael-nadal,$,573750.0
+2015,17,Dubai,Outdoor,Hard,"$2,503,810",Roger Federer,roger-federer,$,2503810.0
+2015,18,ATP World Tour Masters 1000 Indian Wells,Outdoor,Hard,"$7,107,445",Novak Djokovic,novak-djokovic,$,7107445.0
+2015,19,ATP World Tour Masters 1000 Miami,Outdoor,Hard,"$6,267,755",Novak Djokovic,novak-djokovic,$,6267755.0
+2015,20,Casablanca,Outdoor,Clay,"€494,310",Martin Klizan,martin-klizan,€,494310.0
+2015,21,Houston,Outdoor,Clay,"$549,230",Jack Sock,jack-sock,$,549230.0
+2015,22,ATP World Tour Masters 1000 Monte Carlo,Outdoor,Clay,"€3,624,045",Novak Djokovic,novak-djokovic,€,3624045.0
+2015,23,Barcelona,Outdoor,Clay,"€2,265,235",Kei Nishikori,kei-nishikori,€,2265235.0
+2015,24,Bucharest,Outdoor,Clay,"€494,310",Guillermo Garcia-Lopez,guillermo-garcia-lopez,€,494310.0
+2015,25,Estoril,Outdoor,Clay,"€494,310",Richard Gasquet,richard-gasquet,€,494310.0
+2015,26,Istanbul,Outdoor,Clay,"€494,310",Roger Federer,roger-federer,€,494310.0
+2015,27,Munich,Outdoor,Clay,"€494,310",Andy Murray,andy-murray,€,494310.0
+2015,28,ATP World Tour Masters 1000 Madrid,Outdoor,Clay,"€5,113,730",Andy Murray,andy-murray,€,5113730.0
+2015,29,ATP World Tour Masters 1000 Rome,Outdoor,Clay,"€3,830,295",Novak Djokovic,novak-djokovic,€,3830295.0
+2015,30,Geneva,Outdoor,Clay,"€494,310",Thomaz Bellucci,thomaz-bellucci,€,494310.0
+2015,31,Nice,Outdoor,Clay,"€494,310",Dominic Thiem,dominic-thiem,€,494310.0
+2015,32,Roland Garros,Outdoor,Clay,"€13,008,000",Stan Wawrinka,stan-wawrinka,€,13008000.0
+2015,33,s-Hertogenbosch,Outdoor,Grass,"€604,155",Nicolas Mahut,nicolas-mahut,€,604155.0
+2015,34,Stuttgart,Outdoor,Grass,"€642,070",Rafael Nadal,rafael-nadal,€,642070.0
+2015,35,Halle,Outdoor,Grass,"€1,696,645",Roger Federer,roger-federer,€,1696645.0
+2015,36,London / Queen's Club,Outdoor,Grass,"€1,696,645",Andy Murray,andy-murray,€,1696645.0
+2015,37,Nottingham,Outdoor,Grass,"€644,065",Denis Istomin,denis-istomin,€,644065.0
+2015,38,Wimbledon,Outdoor,Grass,"£12,568,000",Novak Djokovic,novak-djokovic,£,12568000.0
+2015,39,Newport,Outdoor,Grass,"$549,230",Rajeev Ram,rajeev-ram,$,549230.0
+2015,40,Bastad,Outdoor,Clay,"€494,310",Benoit Paire,benoit-paire,€,494310.0
+2015,41,Bogota,Outdoor,Hard,"$768,915",Bernard Tomic,bernard-tomic,$,768915.0
+2015,42,Umag,Outdoor,Clay,"€494,310",Dominic Thiem,dominic-thiem,€,494310.0
+2015,43,Atlanta,Outdoor,Hard,"$659,070",John Isner,john-isner,$,659070.0
+2015,44,Gstaad,Outdoor,Clay,"€494,310",Dominic Thiem,dominic-thiem,€,494310.0
+2015,45,Hamburg,Outdoor,Clay,"€1,407,960",Rafael Nadal,rafael-nadal,€,1407960.0
+2015,46,Kitzbühel,Outdoor,Clay,"€494,310",Philipp Kohlschreiber,philipp-kohlschreiber,€,494310.0
+2015,47,Washington,Outdoor,Hard,"$1,753,020",Kei Nishikori,kei-nishikori,$,1753020.0
+2015,48,ATP World Tour Masters 1000 Canada,Outdoor,Hard,"$4,178,500",Andy Murray,andy-murray,$,4178500.0
+2015,49,ATP World Tour Masters 1000 Cincinnati,Outdoor,Hard,"$4,457,065",Roger Federer,roger-federer,$,4457065.0
+2015,50,Winston-Salem,Outdoor,Hard,"$695,515",Kevin Anderson,kevin-anderson,$,695515.0
+2015,51,US Open,Outdoor,Hard,"$19,852,700",Novak Djokovic,novak-djokovic,$,19852700.0
+2015,52,Metz,Indoor,Hard,"€494,310",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,494310.0
+2015,53,St. Petersburg,Indoor,Hard,"$1,091,000",Milos Raonic,milos-raonic,$,1091000.0
+2015,54,Kuala Lumpur,Indoor,Hard,"$1,041,540",David Ferrer,david-ferrer,$,1041540.0
+2015,55,Shenzhen,Outdoor,Hard,"$668,945",Tomas Berdych,tomas-berdych,$,668945.0
+2015,56,Beijing,Outdoor,Hard,"$3,944,715",Novak Djokovic,novak-djokovic,$,3944715.0
+2015,57,Tokyo,Outdoor,Hard,"$1,397,250",Stan Wawrinka,stan-wawrinka,$,1397250.0
+2015,58,ATP World Tour Masters 1000 Shanghai,Outdoor,Hard,"$7,021,335",Novak Djokovic,novak-djokovic,$,7021335.0
+2015,59,Moscow,Indoor,Hard,"$771,525",Marin Cilic,marin-cilic,$,771525.0
+2015,60,Stockholm,Indoor,Hard,"€604,155",Tomas Berdych,tomas-berdych,€,604155.0
+2015,61,Vienna,Indoor,Hard,"€2,324,045",David Ferrer,david-ferrer,€,2324045.0
+2015,62,Basel,Indoor,Hard,"€2,022,300",Roger Federer,roger-federer,€,2022300.0
+2015,63,Valencia,Indoor,Hard,"€604,155",Joao Sousa,joao-sousa,€,604155.0
+2015,64,ATP World Tour Masters 1000 Paris,Indoor,Hard,"€3,830,295",Novak Djokovic,novak-djokovic,€,3830295.0
+2015,65,ATP Finals,Indoor,Hard,"$7,000,000",Novak Djokovic,novak-djokovic,$,7000000.0
+2016,0,Brisbane,Outdoor,Hard,"$461,330",Milos Raonic,milos-raonic,$,461330.0
+2016,1,Chennai,Outdoor,Hard,"$482,085",Stan Wawrinka,stan-wawrinka,$,482085.0
+2016,2,Doha,Outdoor,Hard,"$1,283,855",Novak Djokovic,novak-djokovic,$,1283855.0
+2016,3,Auckland,Outdoor,Hard,"$520,070",Roberto Bautista Agut,roberto-bautista-agut,$,520070.0
+2016,4,Sydney,Outdoor,Hard,"$461,330",Viktor Troicki,viktor-troicki,$,461330.0
+2016,6,Montpellier,Indoor,Hard,"€520,070",Richard Gasquet,richard-gasquet,€,520070.0
+2016,7,Quito,Outdoor,Clay,"$520,070",Victor Estrella Burgos,victor-estrella-burgos,$,520070.0
+2016,8,Sofia,Indoor,Hard,"€520,070",Roberto Bautista Agut,roberto-bautista-agut,€,520070.0
+2016,9,Buenos Aires,Outdoor,Clay,"$598,865",Dominic Thiem,dominic-thiem,$,598865.0
+2016,10,Memphis,Indoor,Hard,"$693,425",Kei Nishikori,kei-nishikori,$,693425.0
+2016,11,Rotterdam,Indoor,Hard,"€1,722,820",Martin Klizan,martin-klizan,€,1722820.0
+2016,12,Delray Beach,Outdoor,Hard,"$576,900",Sam Querrey,sam-querrey,$,576900.0
+2016,13,Marseille,Indoor,Hard,"€665,910",Nick Kyrgios,nick-kyrgios,€,665910.0
+2016,14,Rio de Janeiro,Outdoor,Clay,"$1,471,315",Pablo Cuevas,pablo-cuevas,$,1471315.0
+2016,15,Acapulco,Outdoor,Hard,"$1,551,830",Dominic Thiem,dominic-thiem,$,1551830.0
+2016,16,Dubai,Outdoor,Hard,"$2,674,445",Stan Wawrinka,stan-wawrinka,$,2674445.0
+2016,17,Sao Paulo,Outdoor,Clay,"$499,055",Pablo Cuevas,pablo-cuevas,$,499055.0
+2016,18,ATP World Tour Masters 1000 Indian Wells,Outdoor,Hard,"$7,037,595",Novak Djokovic,novak-djokovic,$,7037595.0
+2016,19,ATP World Tour Masters 1000 Miami,Outdoor,Hard,"$7,037,595",Novak Djokovic,novak-djokovic,$,7037595.0
+2016,20,Houston,Outdoor,Clay,"$577,860",Juan Monaco,juan-monaco,$,577860.0
+2016,21,Marrakech,Outdoor,Clay,"€520,070",Federico Delbonis,federico-delbonis,€,520070.0
+2016,22,ATP World Tour Masters 1000 Monte Carlo,Outdoor,Clay,"€4,094,505",Rafael Nadal,rafael-nadal,€,4094505.0
+2016,23,Barcelona,Outdoor,Clay,"€2,428,355",Rafael Nadal,rafael-nadal,€,2428355.0
+2016,24,Bucharest,Outdoor,Clay,"€520,070",Fernando Verdasco,fernando-verdasco,€,520070.0
+2016,25,Estoril,Outdoor,Clay,"€520,070",Nicolas Almagro,nicolas-almagro,€,520070.0
+2016,26,Istanbul,Outdoor,Clay,"€483,080",Diego Schwartzman,diego-schwartzman,€,483080.0
+2016,27,Munich,Outdoor,Clay,"€520,070",Philipp Kohlschreiber,philipp-kohlschreiber,€,520070.0
+2016,28,ATP World Tour Masters 1000 Madrid,Outdoor,Clay,"€5,719,660",Novak Djokovic,novak-djokovic,€,5719660.0
+2016,29,ATP World Tour Masters 1000 Rome,Outdoor,Clay,"€4,300,755",Andy Murray,andy-murray,€,4300755.0
+2016,30,Geneva,Outdoor,Clay,"€556,195",Stan Wawrinka,stan-wawrinka,€,556195.0
+2016,31,Nice,Outdoor,Clay,"€520,070",Dominic Thiem,dominic-thiem,€,520070.0
+2016,32,Roland Garros,Outdoor,Clay,"€16,008,750",Novak Djokovic,novak-djokovic,€,16008750.0
+2016,33,s-Hertogenbosch,Outdoor,Grass,"€635,645",Nicolas Mahut,nicolas-mahut,€,635645.0
+2016,34,Stuttgart,Outdoor,Grass,"€675,645",Dominic Thiem,dominic-thiem,€,675645.0
+2016,35,Halle,Outdoor,Grass,"€1,826,275",Florian Mayer,florian-mayer,€,1826275.0
+2016,36,London / Queen's Club,Outdoor,Grass,"€1,928,610",Andy Murray,andy-murray,€,1928610.0
+2016,37,Nottingham,Outdoor,Grass,"€704,805",Steve Johnson,steve-johnson,€,704805.0
+2016,38,Wimbledon,Outdoor,Grass,"£13,163,000",Andy Murray,andy-murray,£,13163000.0
+2016,39,Bastad,Outdoor,Clay,"€520,070",Albert Ramos-Vinolas,albert-ramos-vinolas,€,520070.0
+2016,40,Hamburg,Outdoor,Clay,"€1,514,495",Martin Klizan,martin-klizan,€,1514495.0
+2016,41,Newport,Outdoor,Grass,"$577,860",Ivo Karlovic,ivo-karlovic,$,577860.0
+2016,42,Gstaad,Outdoor,Clay,"€520,070",Feliciano Lopez,feliciano-lopez,€,520070.0
+2016,43,Kitzbühel,Outdoor,Clay,"€520,070",Paolo Lorenzi,paolo-lorenzi,€,520070.0
+2016,44,Umag,Outdoor,Clay,"€520,070",Fabio Fognini,fabio-fognini,€,520070.0
+2016,45,Washington,Outdoor,Hard,"$1,877,705",Gael Monfils,gael-monfils,$,1877705.0
+2016,46,ATP World Tour Masters 1000 Canada,Outdoor,Hard,"$4,691,730",Novak Djokovic,novak-djokovic,$,4691730.0
+2016,47,Atlanta,Outdoor,Hard,"$693,425",Nick Kyrgios,nick-kyrgios,$,693425.0
+2016,49,Los Cabos,Outdoor,Hard,"$808,995",Ivo Karlovic,ivo-karlovic,$,808995.0
+2016,50,ATP World Tour Masters 1000 Cincinnati,Outdoor,Hard,"$5,004,505",Marin Cilic,marin-cilic,$,5004505.0
+2016,51,Winston-Salem,Outdoor,Hard,"$720,940",Pablo Carreno Busta,pablo-carreno-busta,$,720940.0
+2016,52,US Open,Outdoor,Hard,"$21,862,744",Stan Wawrinka,stan-wawrinka,$,21862744.0
+2016,53,Metz,Indoor,Hard,"€520,070",Lucas Pouille,lucas-pouille,€,520070.0
+2016,54,St. Petersburg,Indoor,Hard,"$986,380",Alexander Zverev,alexander-zverev,$,986380.0
+2016,55,Chengdu,Outdoor,Hard,"$947,735",Karen Khachanov,karen-khachanov,$,947735.0
+2016,56,Shenzhen,Outdoor,Hard,"$704,140",Tomas Berdych,tomas-berdych,$,704140.0
+2016,57,Beijing,Outdoor,Hard,"$4,164,780",Andy Murray,andy-murray,$,4164780.0
+2016,58,Tokyo,Outdoor,Hard,"$1,506,835",Nick Kyrgios,nick-kyrgios,$,1506835.0
+2016,59,ATP World Tour Masters 1000 Shanghai,Outdoor,Hard,"$7,655,640",Andy Murray,andy-murray,$,7655640.0
+2016,60,Antwerp,Indoor,Hard,"€635,645",Richard Gasquet,richard-gasquet,€,635645.0
+2016,61,Moscow,Indoor,Hard,"$792,645",Pablo Carreno Busta,pablo-carreno-busta,$,792645.0
+2016,62,Stockholm,Indoor,Hard,"€635,645",Juan Martin del Potro,juan-martin-del-potro,€,635645.0
+2016,63,Basel,Indoor,Hard,"€2,151,985",Marin Cilic,marin-cilic,€,2151985.0
+2016,64,Vienna,Indoor,Hard,"€2,467,310",Andy Murray,andy-murray,€,2467310.0
+2016,65,ATP World Tour Masters 1000 Paris,Indoor,Hard,"€4,300,755",Andy Murray,andy-murray,€,4300755.0
+2016,66,ATP Finals,Indoor,Hard,"$7,500,000",Andy Murray,andy-murray,$,7500000.0
+2017,0,Brisbane International presented by Suncorp,Outdoor,Hard,"$495,630",Grigor Dimitrov,grigor-dimitrov,$,495630.0
+2017,1,Aircel Chennai Open,Outdoor,Hard,"$505,730",Roberto Bautista Agut,roberto-bautista-agut,$,505730.0
+2017,2,Qatar ExxonMobil Open,Outdoor,Hard,"$1,334,270",Novak Djokovic,novak-djokovic,$,1334270.0
+2017,3,Sydney International,Outdoor,Hard,"$495,630",Gilles Muller,gilles-muller,$,495630.0
+2017,4,ASB Classic,Outdoor,Hard,"$508,360",Jack Sock,jack-sock,$,508360.0
+2017,6,Open Sud de France,Indoor,Hard,"€540,310",Alexander Zverev,alexander-zverev,€,540310.0
+2017,7,Ecuador Open,Outdoor,Clay,"$540,310",Victor Estrella Burgos,victor-estrella-burgos,$,540310.0
+2017,8,Garanti Koza Sofia Open,Indoor,Hard,"€540,310",Grigor Dimitrov,grigor-dimitrov,€,540310.0
+2017,9,Argentina Open,Outdoor,Clay,"$624,340",Alexandr Dolgopolov,alexandr-dolgopolov,$,624340.0
+2017,10,Memphis Open,Indoor,Hard,"$720,410",Ryan Harrison,ryan-harrison,$,720410.0
+2017,11,ABN Amro World Tennis Tournament,Indoor,Hard,"€1,854,365",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,1854365.0
+2017,12,Delray Beach Open,Outdoor,Hard,"$599,345",Jack Sock,jack-sock,$,599345.0
+2017,13,Open 13 Marseille,Indoor,Hard,"€691,850",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,691850.0
+2017,14,Rio Open presented by Claro,Outdoor,Clay,"$1,603,940",Dominic Thiem,dominic-thiem,$,1603940.0
+2017,15,Abierto Mexicano Telcel,Outdoor,Hard,"$1,633,690",Sam Querrey,sam-querrey,$,1633690.0
+2017,16,Dubai Duty Free Tennis Championships,Outdoor,Hard,"$2,858,530",Andy Murray,andy-murray,$,2858530.0
+2017,17,Brasil Open,Outdoor,Clay,"$520,285",Pablo Cuevas,pablo-cuevas,$,520285.0
+2017,18,BNP Paribas Open,Outdoor,Hard,"$7,913,405",Roger Federer,roger-federer,$,7913405.0
+2017,19,Miami Open presented by Itaú,Outdoor,Hard,"$7,913,405",Roger Federer,roger-federer,$,7913405.0
+2017,20,Fayez Sarofim & Co. US Men’s Clay Court Championship,Outdoor,Clay,"$600,345",Steve Johnson,steve-johnson,$,600345.0
+2017,21,Grand Prix Hassan II,Outdoor,Clay,"€540,310",Borna Coric,borna-coric,€,540310.0
+2017,22,Rolex Monte-Carlo Masters,Outdoor,Clay,"€4,629,725",Rafael Nadal,rafael-nadal,€,4629725.0
+2017,23,Barcelona Open Banc Sabadell,Outdoor,Clay,"€2,604,340",Rafael Nadal,rafael-nadal,€,2604340.0
+2017,24,Gazprom Hungarian Open,Outdoor,Clay,"€540,310",Lucas Pouille,lucas-pouille,€,540310.0
+2017,25,Millennium Estoril Open,Outdoor,Clay,"€540,310",Pablo Carreno Busta,pablo-carreno-busta,€,540310.0
+2017,26,TEB BNP Paribas Istanbul Open,Outdoor,Clay,"€497,255",Marin Cilic,marin-cilic,€,497255.0
+2017,27,BMW Open by FWU,Outdoor,Clay,"€540,310",Alexander Zverev,alexander-zverev,€,540310.0
+2017,28,Mutua Madrid Open,Outdoor,Clay,"€6,408,230",Rafael Nadal,rafael-nadal,€,6408230.0
+2017,29,Internazionali BNL d’Italia,Outdoor,Clay,"€4,835,975",Alexander Zverev,alexander-zverev,€,4835975.0
+2017,30,Banque Eric Sturdza Geneva Open,Outdoor,Clay,"€540,310",Stan Wawrinka,stan-wawrinka,€,540310.0
+2017,31,Open Parc Auvergne-Rhône-Alpes Lyon,Outdoor,Clay,"€540,310",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,540310.0
+2017,32,Roland Garros,Outdoor,Clay,"€16,790,000",Rafael Nadal,rafael-nadal,€,16790000.0
+2017,33,Ricoh Open,Outdoor,Grass,"€660,375",Gilles Muller,gilles-muller,€,660375.0
+2017,34,Mercedes Cup,Outdoor,Grass,"€701,975",Lucas Pouille,lucas-pouille,€,701975.0
+2017,35,Gerry Weber Open,Outdoor,Grass,"€1,966,095",Roger Federer,roger-federer,€,1966095.0
+2017,36,Aegon Championships,Outdoor,Grass,"€1,966,095",Feliciano Lopez,feliciano-lopez,€,1966095.0
+2017,37,Antalya Open,Outdoor,Grass,"€497,255",Yuichi Sugita,yuichi-sugita,€,497255.0
+2017,38,Aegon International,Outdoor,Grass,"€693,910",Novak Djokovic,novak-djokovic,€,693910.0
+2017,39,Wimbledon,Outdoor,Grass,"£14,840,000",Roger Federer,roger-federer,£,14840000.0
+2017,40,SkiStar Swedish Open,Outdoor,Clay,"€540,310",David Ferrer,david-ferrer,€,540310.0
+2017,41,Dell Technologies Hall of Fame Open,Outdoor,Grass,"$600,345",John Isner,john-isner,$,600345.0
+2017,42,Plava Laguna Croatia Open Umag,Outdoor,Clay,"€540,310",Andrey Rublev,andrey-rublev,€,540310.0
+2017,43,BB&T Atlanta Open,Outdoor,Hard,"$720,410",John Isner,john-isner,$,720410.0
+2017,44,J. Safra Sarasin Swiss Open Gstaad,Outdoor,Clay,"€540,310",Fabio Fognini,fabio-fognini,€,540310.0
+2017,45,German Tennis Championships 2017,Outdoor,Clay,"€1,629,375",Leonardo Mayer,leonardo-mayer,€,1629375.0
+2017,46,Generali Open,Outdoor,Clay,"€540,310",Philipp Kohlschreiber,philipp-kohlschreiber,€,540310.0
+2017,47,Abierto Mexicano de Tenis Mifel presentado por Cinemex,Outdoor,Hard,"$727,995",Sam Querrey,sam-querrey,$,727995.0
+2017,48,Citi Open,Outdoor,Hard,"$2,002,460",Alexander Zverev,alexander-zverev,$,2002460.0
+2017,49,Coupe Rogers,Outdoor,Hard,"$5,275,595",Alexander Zverev,alexander-zverev,$,5275595.0
+2017,50,Western & Southern Open,Outdoor,Hard,"$5,627,305",Grigor Dimitrov,grigor-dimitrov,$,5627305.0
+2017,51,Winston-Salem Open,Outdoor,Hard,"$748,960",Roberto Bautista Agut,roberto-bautista-agut,$,748960.0
+2017,52,US Open,Outdoor,Hard,"$24,193,400",Rafael Nadal,rafael-nadal,$,24193400.0
+2017,53,Moselle Open,Indoor,Hard,"€540,310",Peter Gojowczyk,peter-gojowczyk,€,540310.0
+2017,54,St. Petersburg Open,Indoor,Hard,"$1,064,715",Damir Dzumhur,damir-dzumhur,$,1064715.0
+2017,55,Chengdu Open,Outdoor,Hard,"$1,138,910",Denis Istomin,denis-istomin,$,1138910.0
+2017,56,Shenzhen Open,Outdoor,Hard,"$731,680",David Goffin,david-goffin,$,731680.0
+2017,57,China Open,Outdoor,Hard,"$4,280,460",Rafael Nadal,rafael-nadal,$,4280460.0
+2017,58,Rakuten Japan Open Tennis Championships 2017,Outdoor,Hard,"$1,706,175",David Goffin,david-goffin,$,1706175.0
+2017,59,Shanghai Rolex Masters,Outdoor,Hard,"$8,092,625",Roger Federer,roger-federer,$,8092625.0
+2017,60,European Open,Indoor,Hard,"€660,375",Jo-Wilfried Tsonga,jo-wilfried-tsonga,€,660375.0
+2017,61,VTB Kremlin Cup,Indoor,Hard,"$823,600",Damir Dzumhur,damir-dzumhur,$,823600.0
+2017,62,Intrum Stockholm Open,Indoor,Hard,"€660,375",Juan Martin del Potro,juan-martin-del-potro,€,660375.0
+2017,63,Swiss Indoors Basel,Indoor,Hard,"€2,291,860",Roger Federer,roger-federer,€,2291860.0
+2017,64,Erste Bank Open 500,Indoor,Hard,"€2,621,850",Lucas Pouille,lucas-pouille,€,2621850.0
+2017,65,Rolex Paris Masters,Indoor,Hard,"€4,835,975",Jack Sock,jack-sock,€,4835975.0
+2017,66,Nitto ATP Finals,Indoor,Hard,"$8,000,000",Grigor Dimitrov,grigor-dimitrov,$,8000000.0
