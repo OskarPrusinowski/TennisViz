@@ -1,6 +1,6 @@
 library(shiny)
 library(DT)
- 
+
 custom_css <- "
   @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
   
@@ -37,8 +37,7 @@ custom_css <- "
   .datatables {
     margin-top: 10px;
   }
-
-  /* Custom slider styling */
+ 
   .irs--shiny .irs-bar,
   .irs--shiny .irs-bar-edge {
     background: #007bff;
@@ -57,7 +56,6 @@ custom_css <- "
     background: #cce5ff;
   }
 
-  /* Tooltip styling */
   .irs--shiny .irs-single {
     background: #007bff;
     color: white;
@@ -137,6 +135,28 @@ shinyUI(
                                        plotOutput("winsBySurfacePlot", height = "300px")
                                    )
                             )
+                          )
+                        )
+               ),
+               
+               # New About tab
+               tabPanel("About",
+                        fluidPage(
+                          div(class = "card",
+                              h2("About the Tennis Dashboard Project"),
+                              p("This Tennis Dashboard is an interactive web application built using R and Shiny."),
+                              p("It allows users to explore tennis tournaments data, view statistics on matches, and analyze player performance across various years and conditions."),
+                              p("The project aims to provide tennis enthusiasts and analysts with insightful visualizations and easy access to tournament information."),
+                              p("Data visualizations include distributions of match statistics, surface-specific win rates, and financial breakdowns by tournament conditions."),
+                             tags$hr(),
+                              h4("Developed by:"),
+                              tags$ul(
+                                tags$li("Jędrzej Pluta"),
+                                tags$li("Oskar prusinowski")
+                              ),
+                              tags$hr(),
+                              h4("Data Sources:"),
+                              p("https://datahub.io/core/atp-world-tour-tennis-data")
                           )
                         )
                )
