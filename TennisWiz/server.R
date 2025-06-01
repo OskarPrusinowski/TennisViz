@@ -189,7 +189,126 @@ shinyServer(function(input, output) {
             cex.names = 0.9)
   })
   
+  ranking_filtered_data <- reactive({
+    start_year <- as.numeric(input$year_range)
+    end_year <- start_year + 4
+   
+    
+    df <- ranking_data %>%
+      filter(!is.na(rank),
+             year >= start_year,
+             year <= end_year,
+             rank <= 10)
+    
+    print(str(df))
+    return(df)
+  })
+
+  output$top10Plot <- renderPlotly({
+    df <- ranking_filtered_data()
+    if (nrow(df) == 0) {
+      showNotification("No data available for this year range.", type = "error")
+      return(NULL)
+    }
+    
+    df <- df %>%
+      mutate(name_full = paste(name_first, name_last))
+    
+    top_players <- df %>%
+      group_by(player) %>%
+      summarise(
+        avg_rank = mean(rank, na.rm = TRUE),
+        name_full = first(name_full),
+        .groups = "drop"
+      ) %>%
+      arrange(avg_rank) %>%
+      slice_head(n = 3)
+    
+    df <- df %>%
+      mutate(
+        highlight = ifelse(name_full %in% top_players$name_full, name_full, "Other")
+      )
+    
+    df_filtered_lines <- df %>%
+      group_by(name_full) %>%
+      filter(n() > 1) %>%
+      ungroup()
+    
+    plot <- ggplot(df_filtered_lines, aes(
+      x = rank_date,
+      y = rank,
+      group = name_full,
+      color = highlight,
+      text = paste(name_full, "<br>Rank:", rank, "<br>Date:", rank_date)
+    )) +
+      
+      geom_line(size = 1, alpha = 0.8) +
+      
+      scale_y_reverse(breaks = 1:10) +
+      scale_color_manual(
+        values = c(
+          setNames(RColorBrewer::brewer.pal(3, "Dark2"), top_players$name_full),
+          Other = "gray80"
+        )
+      ) +
+      labs( x = "Date", y = "Rank") +
+      theme_minimal()
+    
+    ggplotly(plot, tooltip = "text")
+  })
   
+  top10_years_summary <- reactive({
+    df <- ranking_data %>%
+      filter(!is.na(rank), rank <= 10) %>%
+      group_by(player, name_first, name_last) %>%
+      summarise(years_in_top10 = n_distinct(year), .groups = "drop") %>%
+      arrange(desc(years_in_top10)) %>%
+      slice_head(n = 20) 
+    
+    return(df)
+  })
   
+  output$yearsInTop10Plot <- renderPlotly({
+    decade_range <- switch(input$decade,
+                           "1970s" = 1970:1979,
+                           "1980s" = 1980:1989,
+                           "1990s" = 1990:1999,
+                           "2000s" = 2000:2009,
+                           "2010s" = 2010:2019,
+                           "2020s" = 2020:2029)
+    
+    df_decade <- ranking_data %>%
+      filter(year %in% decade_range, !is.na(rank), rank <= 10)
+    
+    top10_counts <- df_decade %>%
+      group_by(name_last, name_first) %>%
+      summarise(weeks_in_top10 = n(), .groups = "drop") %>%
+      arrange(desc(weeks_in_top10)) %>%
+      slice_max(weeks_in_top10, n = 15)  
+    
+    # Create custom hover text
+    top10_counts <- top10_counts %>%
+      mutate(
+        player = paste(name_first, name_last),
+        hover_text = paste0(
+          "<b>", player, "</b><br>",
+          "Weeks in Top 10: <b>", weeks_in_top10, "</b>"
+        )
+      )
+    
+    plot <- ggplot(top10_counts, aes(
+      x = reorder(player, weeks_in_top10),
+      y = weeks_in_top10,
+      fill = weeks_in_top10,
+      text = hover_text  # 👈 Custom tooltip text
+    )) +
+      geom_col(show.legend = FALSE) +
+      scale_fill_gradient(low = "#deebf7", high = "#08519c") +
+      coord_flip() +
+      labs(x = "Player", y = "Weeks") +
+      theme_minimal()
+    
+    ggplotly(plot, tooltip = "text")  # 👈 Tell ggplotly to use `text`
+  })
   
 })

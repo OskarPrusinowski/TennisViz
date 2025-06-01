@@ -1,5 +1,8 @@
 library(shiny)
 library(DT)
+library(plotly)
+library(shinyWidgets)
+
 
 custom_css <- "
   @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
@@ -138,7 +141,45 @@ shinyUI(
                           )
                         )
                ),
-               
+               tabPanel("Rankings",
+                        fluidPage(
+                          titlePanel("🏆 ATP Rankings Visualizations"),
+                          
+                          sidebarLayout(
+                            sidebarPanel(
+                              conditionalPanel(
+                                condition = "input.tabs == 'top10'",
+                                sliderTextInput(
+                                  inputId = "year_range", 
+                                  label = "Select 5-Year Period:",
+                                  choices = as.character(1973:2019), 
+                                  selected = "2009",
+                                  grid = TRUE
+                                )
+                              ),
+                              conditionalPanel(
+                                condition = "input.tabs == 'decade'",
+                                selectInput("decade", "Choose a Decade:",
+                                            choices = c("1970s", "1980s", "1990s", "2000s", "2010s", "2020s"),
+                                            selected = "1980s")
+                              )
+                            ),
+                            
+                            mainPanel(
+                              tabsetPanel(id = "tabs",
+                                          tabPanel("📈 Top 10 Timeline", value = "top10",
+                                                   plotlyOutput("top10Plot", height = "600px")
+                                          ),
+                                          tabPanel("⌛ Weeks in Top 10", value = "decade",
+                                                   plotlyOutput("yearsInTop10Plot", height = "600px")
+                                          )
+                              )
+                            )
+                          )
+                        )
+                        
+                 
+               ),
                # New About tab
                tabPanel("About",
                         fluidPage(
