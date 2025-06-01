@@ -4,7 +4,9 @@ library(dplyr)
 library(plotly)
 library(grid)
 library(gridGraphics)
-library(countrycode)
+library(countrycode) 
+
+
 
 match_stats <- read.csv("data/match_stats.csv", stringsAsFactors = FALSE)
 
@@ -25,39 +27,62 @@ shinyServer(function(input, output) {
       selection = "single"
     )
   })
-  
-  output$conditionsPie <- renderPlotly({
+  output$conditionsTreemap <- renderPlotly({ 
     data <- filtered_data() %>%
+      group_by(surface, name) %>%
+      summarise(total_amount = sum(amount, na.rm = TRUE), .groups = 'drop')
+     
+    surfaces <- data %>%
       group_by(surface) %>%
-      summarise(total_amount = sum(amount, na.rm = TRUE)) %>%
-      arrange(desc(total_amount))
-    
+      summarise(total_amount = sum(total_amount), .groups = 'drop') %>%
+      mutate(
+        id = surface,
+        label = surface,
+        parent = NA
+      )
+     
+    tournaments <- data %>%
+      mutate(
+        id = paste(surface, name, sep = " - "),
+        label = name,
+        parent = surface
+      ) %>%
+      select(id, label, parent, total_amount)
+     
+    treemap_data <- bind_rows(
+      surfaces %>% select(id, label, parent, total_amount),
+      tournaments
+    )
+     
     surface_colors <- c(
       "Clay" = "#D95F02", 
       "Grass" = "#1B9E77",    
       "Hard" = "#7570B3",   
       "Carpet" = "#E7298A"  
     )
-    
-    matched_colors <- surface_colors[data$surface]
-    
+     
+    treemap_data$color <- surface_colors[treemap_data$parent]
+    treemap_data$color[is.na(treemap_data$color)] <- surface_colors[treemap_data$label[is.na(treemap_data$color)]]
+     
     plot_ly(
-      data,
-      labels = ~surface,
-      values = ~total_amount,
-      type = "pie",
-      textinfo = "label+percent",
+      type = "treemap",
+      labels = treemap_data$label,
+      parents = treemap_data$parent,
+      values = treemap_data$total_amount,
+      ids = treemap_data$id,
+      marker = list(colors = treemap_data$color),
+      textinfo = "label+value+percent entry",
       hoverinfo = "label+value+percent",
-      marker = list(
-        colors = matched_colors,
-        line = list(color = '#FFFFFF', width = 2)
-      )
+      tiling = list(packing = "squarify" ),
+      branchvalues = "total"
     ) %>%
       layout(
-        title = paste("Total Financial Commitment by Surface -", input$year),
-        showlegend = TRUE
+        title = paste("Total Financial Commitment by Surface and Tournament -", input$year)
       )
   })
+  
+  
+   
   
   
   
@@ -72,6 +97,7 @@ shinyServer(function(input, output) {
   output$statDistributionPlot <- renderPlot({
     stats <- selected_match_stats()
     param <- input$statParam
+    plot_type <- input$plotType
     
     if (is.null(stats) || nrow(stats) == 0) {
       plot.new()
@@ -93,38 +119,55 @@ shinyServer(function(input, output) {
       text(0.5, 0.5, paste("No data for", param), cex = 1.2)
       return()
     }
-     
+    
     sel <- input$tournamentTable_rows_selected
     selected_tourney <- filtered_data()[sel, ]
-    selected_year <- selected_tourney$year 
+    selected_year <- selected_tourney$year
     broader_stats <- match_stats %>%
       filter(year == selected_year)
     
     broader_vec <- broader_stats[[param]]
     broader_vec <- broader_vec[!is.na(broader_vec)]
-     
-    hist(data_vec,
-         main = paste("Distribution of", gsub("_", " ", param)),
-         xlab = gsub("_", " ", param),
-         col = "#A6CEE3",  # soft blue
-         border = "white",
-         freq = FALSE)
     
-    # Overlay density for same year (if enough data)
-    if (length(broader_vec) > 2) {
-      dens <- density(broader_vec)
-      lines(dens, col = "#33A02C", lwd = 2)  # medium green
+    if (plot_type == "hist") {
+      hist(data_vec,
+           main = paste("Histogram of", gsub("_", " ", param)),
+           xlab = gsub("_", " ", param),
+           col = "#A6CEE3",
+           border = "white",
+           freq = FALSE)
       
-      legend("topright",
-             legend = c("Selected Tournament", paste("All Tournaments in", selected_year)),
-             fill = c("#A6CEE3", NA),
-             border = c("white", NA),
-             lty = c(NA, 1),
-             col = c(NA, "#33A02C"),
-             lwd = c(NA, 2))
+      if (length(broader_vec) > 2) {
+        dens <- density(broader_vec)
+        lines(dens, col = "#33A02C", lwd = 2)
+        
+        legend("topright",
+               legend = c("Selected Tournament", paste("All Tournaments in", selected_year)),
+               fill = c("#A6CEE3", NA),
+               border = c("white", NA),
+               lty = c(NA, 1),
+               col = c(NA, "#33A02C"),
+               lwd = c(NA, 2))
+      }
+    } else if (plot_type == "density") {
+      plot(density(data_vec),
+           main = paste("Density Plot of", gsub("_", " ", param)),
+           xlab = gsub("_", " ", param),
+           col = "#1F78B4",
+           lwd = 2)
+      
+      if (length(broader_vec) > 2) {
+        lines(density(broader_vec), col = "#33A02C", lwd = 2, lty = 2)
+        
+        legend("topright",
+               legend = c("Selected Tournament", paste("All Tournaments in", selected_year)),
+               col = c("#1F78B4", "#33A02C"),
+               lwd = 2,
+               lty = c(1, 2))
+      }
     }
-    
   })
+  
   
   
   output$winnerInfo <- renderUI({
